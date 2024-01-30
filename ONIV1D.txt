@@ -1191,8 +1191,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
-	[UncommonSlot(0)]
 	[CommonSlot(15)]
 		50 Customized Battle-Suit
 		50 Void Beast Scout
@@ -1301,5 +1299,4 @@
 		50 Taraikyo Theater
 		50 The Void of Nightmares
 		50 Hidanko Arena
-	[BasicSlot(0)]
 	
