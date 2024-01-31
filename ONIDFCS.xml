@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ONI</name>
+      <longname>Onigaiko: Future Past</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Hidanko First-Year</name>
+      <set rarity="common" splitterPath="/Hidanko First-Year.png" >ONI</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Student </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1R: Transform Hidanko First-Year, activate only if a creature with higher power entered the battlefield this turn.
+---
+(Back): Hidanko Arcanic Channeler</text>
+      <related attach="transform">Hidanko Arcanic Channeler</related>
+    </card>
+    <card>
+      <name>Hidanko Arcanic Channeler</name>
+      <set rarity="common" splitterPath="/Hidanko Arcanic Channeler.png" >ONI</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Void Wizard </type>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, Menace
+Whenever this creature transforms into Hidanko Arcanic Channeler: Paradigm 2 (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
+---
+(Front): Hidanko First-Year</text>
+      <related attach="transform">Hidanko First-Year</related>
+    </card>
+    <card>
+      <name>A Tale of Three Samurai</name>
+      <set rarity="common" splitterPath="/A Tale of Three Samurai.png" >ONI</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Create a 2/2 colorless Puppet artifact creature token
+II — Create two 2/2 white samurai tokens with vigilance, they gain haste until end of turn, also sacrifice them at the start of your upkeep.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+---
+(Back): Imoe&apos;s Recollections</text>
+      <related attach="transform">Imoe&apos;s Recollections</related>
+    </card>
+    <card>
+      <name>Imoe&apos;s Recollections</name>
+      <set rarity="common" splitterPath="/Imoe's Recollections.png" >ONI</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of combat, target creature you control gets +3/+3 until end of turn.
+---
+(Front): A Tale of Three Samurai</text>
+      <related attach="transform">A Tale of Three Samurai</related>
+    </card>
+    <card>
+      <name>Suit Assistant</name>
+      <set rarity="common" splitterPath="/Suit Assistant.png" >ONI</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Prototype </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Upgradeable (Upgrade as a sorcery to activate that effect)
+Defender.
+1W  In Progress 
+Place a shield counter on target creature,  (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+1{W} Completed 
+transform Suit Assistant.
+---
+(Back): Thunderer Power Suit</text>
+      <related attach="transform">Thunderer Power Suit</related>
+    </card>
+    <card>
+      <name>Thunderer Power Suit</name>
+      <set rarity="common" splitterPath="/Thunderer Power Suit.png" >ONI</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+3, and Lifelink.
+at the beginning of your end step, if your life points are higher than your opponent’s: Transform Thunderer Power Suit.
+Equip {3}
+Equip Creature with a shield counter: {0}
+---
+(Front): Suit Assistant</text>
+      <related attach="transform">Suit Assistant</related>
+    </card>
+    <card>
+      <name>Wisdom of the Cranes</name>
+      <set rarity="common" splitterPath="/Wisdom of the Cranes.png" >ONI</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Create a 2/2 colorless Puppet artifact creature token
+II — You may tap a creature you control: Create a 1/1 White bird creature token with flying.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+---
+(Back): Lord of the Cranes</text>
+      <related attach="transform">Lord of the Cranes</related>
+    </card>
+    <card>
+      <name>Lord of the Cranes</name>
+      <set rarity="common" splitterPath="/Lord of the Cranes.png" >ONI</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of combat on your turn, target creature you control gains “When this creature deals combat damage to a player, create a 1/1 White bird creature token with flying” until end of turn.
+---
+(Front): Wisdom of the Cranes</text>
+      <related attach="transform">Wisdom of the Cranes</related>
+    </card>
+    <card>
+      <name>Hidejo and the Forest&apos;s Call</name>
+      <set rarity="common" splitterPath="/Hidejo and the Forest's Call.png" >ONI</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Create a 2/2 colorless Puppet artifact creature Token.
+II — Search your library for two land cards, put them onto the battlefield tapped, then shuffle.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+---
+(Back): The Fallen&apos;s Predation</text>
+      <related attach="transform">The Fallen&apos;s Predation</related>
+    </card>
+    <card>
+      <name>The Fallen&apos;s Predation</name>
+      <set rarity="common" splitterPath="/The Fallen's Predation.png" >ONI</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, you may put a number of +1/+1 counters equal to that creature’s power on target creature
+---
+(Front): Hidejo and the Forest&apos;s Call</text>
+      <related attach="transform">Hidejo and the Forest&apos;s Call</related>
+    </card>
+    <card>
+      <name>Bladesmith Assistant</name>
+      <set rarity="common" splitterPath="/Bladesmith Assistant.png" >ONI</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Prototype </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Upgradeable (Upgrade as a sorcery to activate that effect)
+Defender
+{U} In Progress 
+Tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+1U Completed 
+Transform Bladesmith Assistant
+---
+(Back): Hardlight Buster</text>
+      <related attach="transform">Hardlight Buster</related>
+    </card>
+    <card>
+      <name>Hardlight Buster</name>
+      <set rarity="common" splitterPath="/Hardlight Buster.png" >ONI</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +4/+2.
+Whenever equipped creature attacks, put a stun counter on it.
+At the beginning of your upkeep, if Hardlight Buster is equipped to a tapped creature, transform it.
+Equip {1}
+---
+(Front): Bladesmith Assistant</text>
+      <related attach="transform">Bladesmith Assistant</related>
+    </card>
+    <card>
+      <name>The Theater&apos;s Lost Bushi</name>
+      <set rarity="common" splitterPath="/The Theater's Lost Bushi.png" >ONI</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Create a 2/2 colorless Puppet artifact creature Token.
+II — Draw a card, then discard a card.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+---
+(Back): Puppeteered Concentration</text>
+      <related attach="transform">Puppeteered Concentration</related>
+    </card>
+    <card>
+      <name>Puppeteered Concentration</name>
+      <set rarity="common" splitterPath="/Puppeteered Concentration.png" >ONI</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control declares an attack: You may scry 1. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)
+---
+(Front): The Theater&apos;s Lost Bushi</text>
+      <related attach="transform">The Theater&apos;s Lost Bushi</related>
+    </card>
+    <card>
+      <name>Tactician&apos;s Assistant</name>
+      <set rarity="common" splitterPath="/Tactician's Assistant.png" >ONI</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Prototype </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Upgradeable (Upgrade as a sorcery to activate that effect)
+Defender
+{B} In Progress 
+Draw one card and lose 1 life.
+{B} Completed 
+Transform Tactician’s Assistant
+---
+(Back): Hardlight Sniper Rifle</text>
+      <related attach="transform">Hardlight Sniper Rifle</related>
+    </card>
+    <card>
+      <name>Hardlight Sniper Rifle</name>
+      <set rarity="common" splitterPath="/Hardlight Sniper Rifle.png" >ONI</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+0 and cannot be blocked by creatures with greater toughness.
+At the beginning of your end step, if equipped creature dealt combat damage to a player this turn, transform Hardlight Sniper Rifle.
+Equip {2}
+---
+(Front): Tactician&apos;s Assistant</text>
+      <related attach="transform">Tactician&apos;s Assistant</related>
+    </card>
+    <card>
+      <name>Hidanko Renegade</name>
+      <set rarity="common" splitterPath="/Hidanko Renegade.png" >ONI</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Ninja </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}{B}: Transform Hidanko Renegade, activate only if you control a tapped creature with greater power.
+---
+(Back): Disgraced Shade</text>
+      <related attach="transform">Disgraced Shade</related>
+    </card>
+    <card>
+      <name>Disgraced Shade</name>
+      <set rarity="common" splitterPath="/Disgraced Shade.png" >ONI</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Void Skeleton </type>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature transforms into Disgraced Shade Paradigm 2 (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
+---
+(Front): Hidanko Renegade</text>
+      <related attach="transform">Hidanko Renegade</related>
+    </card>
+    <card>
+      <name>The Shogun&apos;s Downfall</name>
+      <set rarity="common" splitterPath="/The Shogun's Downfall.png" >ONI</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Create a 2/2 colorless Puppet artifact creature Token.
+II — Return target creature card from your graveyard to the battlefield tapped.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+---
+(Back): Throne of the Dead Lord</text>
+      <related attach="transform">Throne of the Dead Lord</related>
+    </card>
+    <card>
+      <name>Throne of the Dead Lord</name>
+      <set rarity="common" splitterPath="/Throne of the Dead Lord.png" >ONI</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the start of combat on your turn, target creature you control gets +1/+1 and Wither until end of turn. (This deals damage to creatures in the form of -1/-1 counters.)
+---
+(Front): The Shogun&apos;s Downfall</text>
+      <related attach="transform">The Shogun&apos;s Downfall</related>
+    </card>
+    <card>
+      <name>Void-Fettered Monstrosity</name>
+      <set rarity="common" splitterPath="/Void-Fettered Monstrosity.png" >ONI</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>2BRG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Void-Fettered Monstrosity enters the battlefield up to two target creatures an opponent controls can’t block until end of turn.
+---
+(Back): Slumbers in the Ruin</text>
+      <related attach="transform">Slumbers in the Ruin</related>
+    </card>
+    <card>
+      <name>Slumbers in the Ruin</name>
+      <set rarity="common" splitterPath="/Slumbers in the Ruin.png" >ONI</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant Land
+Enchanted Land has “{T}: Add {B}, {R}, or {G}”
+2BRG: Transform Slumbers in the Ruin.
+---
+(Front): Void-Fettered Monstrosity</text>
+      <related attach="transform">Void-Fettered Monstrosity</related>
+    </card>
+    <card>
+      <name>Hidanko Instructor</name>
+      <set rarity="common" splitterPath="/Hidanko Instructor.png" >ONI</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>2UBR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hidanko Instructor enters the battlefield: Place a +1/+1 counter on target creature.
+---
+(Back): Teachings of an Adversary</text>
+      <related attach="transform">Teachings of an Adversary</related>
+    </card>
+    <card>
+      <name>Teachings of an Adversary</name>
+      <set rarity="common" splitterPath="/Teachings of an Adversary.png" >ONI</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant Land.
+Enchanted land has “{T}: Add {U}, {B}, or {R}”
+2UBR: Transform Teachings of an Adversary.
+---
+(Front): Hidanko Instructor</text>
+      <related attach="transform">Hidanko Instructor</related>
+    </card>
+    <card>
+      <name>Venerable Baihu</name>
+      <set rarity="common" splitterPath="/Venerable Baihu.png" >ONI</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>4GWU</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Spirit Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, Vigilance
+---
+(Back): Path of Wisdom</text>
+      <related attach="transform">Path of Wisdom</related>
+    </card>
+    <card>
+      <name>Path of Wisdom</name>
+      <set rarity="common" splitterPath="/Path of Wisdom.png" >ONI</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment - Aura </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant Land.
+Enchanted land has “{T}: Add {G}, {W}, or {U}”
+4GWU: Transform Path of Wisdom.
+---
+(Front): Venerable Baihu</text>
+      <related attach="transform">Venerable Baihu</related>
+    </card>
+    <card>
+      <name>Taraikyo Showstopper</name>
+      <set rarity="common" splitterPath="/Taraikyo Showstopper.png" >ONI</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>3RGW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Student </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Taraikyo showstopper enters the battlefield, Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)
+---
+(Back): Festival Opening Act</text>
+      <related attach="transform">Festival Opening Act</related>
+    </card>
+    <card>
+      <name>Festival Opening Act</name>
+      <set rarity="common" splitterPath="/Festival Opening Act.png" >ONI</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment - Aura </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant Land.
+Enchanted Land has “{T}: Add {R}, {G} or {W}”
+3RGW: Transform Festival Opening Act.
+---
+(Front): Taraikyo Showstopper</text>
+      <related attach="transform">Taraikyo Showstopper</related>
+    </card>
+    <card>
+      <name>Seijuku Field Mechanic</name>
+      <set rarity="common" splitterPath="/Seijuku Field Mechanic.png" >ONI</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>3WUB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Student </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Seijuku Field Mechanic enters the battlefield or is transformed into, you may tap target nonland permanent and put a stun counter on it.
+---
+(Back): Ley-Charged Fabricator Array</text>
+      <related attach="transform">Ley-Charged Fabricator Array</related>
+    </card>
+    <card>
+      <name>Ley-Charged Fabricator Array</name>
+      <set rarity="common" splitterPath="/Ley-Charged Fabricator Array.png" >ONI</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment - Aura </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant Land.
+Enchanted land has “{T}: Add {W}, {U}, or {B}”
+3WUB: Transform Ley-Charged Fabricator Array
+---
+(Front): Seijuku Field Mechanic</text>
+      <related attach="transform">Seijuku Field Mechanic</related>
+    </card>
+    <card>
+      <name>Indecisive First-Year</name>
+      <set rarity="common" splitterPath="/Indecisive First-Year.png" >ONI</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Student </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1U: Transform Indecisive First-Year, activate only if a creature was tapped this turn.
+---
+(Back): Hidanko Rescue Engineer</text>
+      <related attach="transform">Hidanko Rescue Engineer</related>
+    </card>
+    <card>
+      <name>Hidanko Rescue Engineer</name>
+      <set rarity="common" splitterPath="/Hidanko Rescue Engineer.png" >ONI</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Void Artificer </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+During your opponent’s turn Hidanko Rescue Engineer gets -4/+4.
+Whenever this creature transforms into Hidanko Rescue Engineer: Paradigm 2 (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
+---
+(Front): Indecisive First-Year</text>
+      <related attach="transform">Indecisive First-Year</related>
+    </card>
+    <card>
+      <name>Distinguished Student</name>
+      <set rarity="common" splitterPath="/Distinguished Student.png" >ONI</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Student </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B: Transform Distinguished Student, activate only if a creature died this turn.
+---
+(Back): Wielder of Anger Within</text>
+      <related attach="transform">Wielder of Anger Within</related>
+    </card>
+    <card>
+      <name>Wielder of Anger Within</name>
+      <set rarity="common" splitterPath="/Wielder of Anger Within.png" >ONI</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Void Samurai </type>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace.
+Whenever Wielder of Anger Within within is blocked, you may put a -1/-1 counter on target creature.
+Whenever this creature transforms into Wielder of Anger Within, Paradigm 2  (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
+---
+(Front): Distinguished Student</text>
+      <related attach="transform">Distinguished Student</related>
+    </card>
+    <card>
+      <name>Snowy Peak Scout</name>
+      <set rarity="common" splitterPath="/Snowy Peak Scout.png" >ONI</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>0/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+2U: Transform Snowy Peak Scout, activate only if a creature blocked this turn.
+---
+(Back): Portable Artillery Platform</text>
+      <related attach="transform">Portable Artillery Platform</related>
+    </card>
+    <card>
+      <name>Portable Artillery Platform</name>
+      <set rarity="common" splitterPath="/Portable Artillery Platform.png" >ONI</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Void Construct </type>
+        <pt>4/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Portable Artillery Platform cannot be blocked by creatures with higher power.
+Whenever this creature transforms into Portable Artillery Platform, Paradigm 2 (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
+---
+(Front): Snowy Peak Scout</text>
+      <related attach="transform">Snowy Peak Scout</related>
+    </card>
+    <card>
+      <name>Regal Miko</name>
+      <set rarity="common" splitterPath="/Regal Miko.png" >ONI</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1R: Transform Regal Miko, activate only if a player took damage this turn.
+---
+(Back): Dragon&apos;s Soul Caller</text>
+      <related attach="transform">Dragon&apos;s Soul Caller</related>
+    </card>
+    <card>
+      <name>Dragon&apos;s Soul Caller</name>
+      <set rarity="common" splitterPath="/Dragon's Soul Caller.png" >ONI</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Void Monk </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, surveil 1 (Look at the top card of your library. You may put that card into your graveyard.)
+Whenever this creature transforms into Dragon’s Soul Caller, Paradigm 2 (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
+---
+(Front): Regal Miko</text>
+      <related attach="transform">Regal Miko</related>
+    </card>
