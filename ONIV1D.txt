@@ -2366,5 +2366,3 @@
 		50 Shrine Celebrant
 		50 Taraikyo Playwright
 		50 Conductor Mechanist
-	[BasicSlot(0)]
-	
