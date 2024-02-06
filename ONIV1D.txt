@@ -5,7 +5,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Customized Battle-Suit.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Customized Battle-Suit.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Spirit Drone ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Void Beast Scout.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Void Beast Scout.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Drone ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Seijuku Survey Drone.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Seijuku Survey Drone.png"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Cyborg Ninja ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Midnight Prowler.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Midnight Prowler.png"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Lantern-Lit Meal.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Lantern-Lit Meal.png"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Puppet ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Taraikyo Play Usher.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Taraikyo Play Usher.png"
 	        }
 	    },
 	    {
@@ -58,7 +58,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Kenzai Braves the Forest.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Kenzai Braves the Forest.png"
 	        },
 	        "printed names": {
 	            "en": "Kenzai Braves the Forest"
@@ -69,7 +69,7 @@
 	                "en": "In the Presence of the Empress"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/In the Presence of the Empress.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/In the Presence of the Empress.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -80,7 +80,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Tachiyaku Aspirant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Tachiyaku Aspirant.png"
 	        }
 	    },
 	    {
@@ -89,7 +89,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Spirit Cat Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hebika Prowler.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hebika Prowler.png"
 	        }
 	    },
 	    {
@@ -97,7 +97,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hidanko First-Year.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hidanko First-Year.png"
 	        },
 	        "printed names": {
 	            "en": "Hidanko First-Year"
@@ -108,7 +108,7 @@
 	                "en": "Hidanko Arcanic Channeler"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hidanko Arcanic Channeler.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hidanko Arcanic Channeler.png"
 	            },
 	            "type": "Creature — Void Wizard "
 	        }
@@ -119,7 +119,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Archery Club Tutor.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Archery Club Tutor.png"
 	        }
 	    },
 	    {
@@ -128,7 +128,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Demon Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Faceless Flame-Touched.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Faceless Flame-Touched.png"
 	        }
 	    },
 	    {
@@ -137,7 +137,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Spirited Script-Writer.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Spirited Script-Writer.png"
 	        }
 	    },
 	    {
@@ -146,7 +146,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Burning Spirit.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Burning Spirit.png"
 	        }
 	    },
 	    {
@@ -155,7 +155,7 @@
 	        "mana_cost": "{5}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Limiter Burst.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Limiter Burst.png"
 	        }
 	    },
 	    {
@@ -163,7 +163,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/A Tale of Three Samurai.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/A Tale of Three Samurai.png"
 	        },
 	        "printed names": {
 	            "en": "A Tale of Three Samurai"
@@ -174,7 +174,7 @@
 	                "en": "Imoe's Recollections"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Imoe's Recollections.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Imoe's Recollections.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -185,7 +185,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Entranced in Memory.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Entranced in Memory.png"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hardlight Jump-Pack.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hardlight Jump-Pack.png"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Disciplined Study.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Disciplined Study.png"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Just as Taught.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Just as Taught.png"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Soul Spite.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Soul Spite.png"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Lessons in Swordsmanship.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Lessons in Swordsmanship.png"
 	        }
 	    },
 	    {
@@ -238,7 +238,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Artifact Creature — Prototype ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Suit Assistant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Suit Assistant.png"
 	        },
 	        "printed names": {
 	            "en": "Suit Assistant"
@@ -249,7 +249,7 @@
 	                "en": "Thunderer Power Suit"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Thunderer Power Suit.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Thunderer Power Suit.png"
 	            },
 	            "type": "Artifact — Equipment "
 	        }
@@ -260,7 +260,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Disciplinary Guard.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Disciplinary Guard.png"
 	        }
 	    },
 	    {
@@ -269,7 +269,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Spirit Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Aspiring Novelist.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Aspiring Novelist.png"
 	        }
 	    },
 	    {
@@ -278,7 +278,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact Creature — Construct Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Curious Creation.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Curious Creation.png"
 	        }
 	    },
 	    {
@@ -287,7 +287,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Spirit-Sword Monk.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Spirit-Sword Monk.png"
 	        }
 	    },
 	    {
@@ -296,7 +296,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Rebellious Maiko.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Rebellious Maiko.png"
 	        }
 	    },
 	    {
@@ -305,7 +305,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Bushi Twins.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Bushi Twins.png"
 	        }
 	    },
 	    {
@@ -314,7 +314,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Angel Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Popular Seraph.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Popular Seraph.png"
 	        }
 	    },
 	    {
@@ -323,7 +323,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Artifact Creature — Construct Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Borrowed Project.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Borrowed Project.png"
 	        }
 	    },
 	    {
@@ -332,7 +332,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Outstanding Play.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Outstanding Play.png"
 	        }
 	    },
 	    {
@@ -341,7 +341,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Refractor Strike.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Refractor Strike.png"
 	        }
 	    },
 	    {
@@ -350,7 +350,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Binding Prank.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Binding Prank.png"
 	        }
 	    },
 	    {
@@ -359,7 +359,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Reminisce History.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Reminisce History.png"
 	        }
 	    },
 	    {
@@ -368,7 +368,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Slip on the Mask.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Slip on the Mask.png"
 	        }
 	    },
 	    {
@@ -376,7 +376,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Wisdom of the Cranes.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Wisdom of the Cranes.png"
 	        },
 	        "printed names": {
 	            "en": "Wisdom of the Cranes"
@@ -387,7 +387,7 @@
 	                "en": "Lord of the Cranes"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Lord of the Cranes.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Lord of the Cranes.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -398,7 +398,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Lessons in Storytelling.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Lessons in Storytelling.png"
 	        }
 	    },
 	    {
@@ -407,7 +407,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Spirit Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Void-Charged Behemoth.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Void-Charged Behemoth.png"
 	        }
 	    },
 	    {
@@ -416,7 +416,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Spirit Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Studious Spirit.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Studious Spirit.png"
 	        }
 	    },
 	    {
@@ -425,7 +425,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Elf Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Biomancy Student.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Biomancy Student.png"
 	        }
 	    },
 	    {
@@ -434,7 +434,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Human Monk Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Monastery Trainee.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Monastery Trainee.png"
 	        }
 	    },
 	    {
@@ -443,7 +443,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Spirit Frog ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Greater Toad Sage.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Greater Toad Sage.png"
 	        }
 	    },
 	    {
@@ -452,7 +452,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Wolf Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Tenkami Forest Scout.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Tenkami Forest Scout.png"
 	        }
 	    },
 	    {
@@ -461,7 +461,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Spirit Raccoon Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Tanuki Celebrant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Tanuki Celebrant.png"
 	        }
 	    },
 	    {
@@ -470,7 +470,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Spirit Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hebika Assailant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hebika Assailant.png"
 	        }
 	    },
 	    {
@@ -479,7 +479,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Spirit Raccoon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Peaceful Tanuki.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Peaceful Tanuki.png"
 	        }
 	    },
 	    {
@@ -488,7 +488,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Light-Hearted Goading.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Light-Hearted Goading.png"
 	        }
 	    },
 	    {
@@ -497,7 +497,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Moment of Peace.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Moment of Peace.png"
 	        }
 	    },
 	    {
@@ -506,7 +506,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Lessons in Spiritualism.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Lessons in Spiritualism.png"
 	        }
 	    },
 	    {
@@ -515,7 +515,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Flawless  Quickdraw.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Flawless  Quickdraw.png"
 	        }
 	    },
 	    {
@@ -524,7 +524,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/In the Kami's Footsteps.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/In the Kami's Footsteps.png"
 	        }
 	    },
 	    {
@@ -533,7 +533,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Spirit's Nourishing.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Spirit's Nourishing.png"
 	        }
 	    },
 	    {
@@ -541,7 +541,7 @@
 	        "mana_cost": "{5}{G}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hidejo and the Forest's Call.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hidejo and the Forest's Call.png"
 	        },
 	        "printed names": {
 	            "en": "Hidejo and the Forest's Call"
@@ -552,7 +552,7 @@
 	                "en": "The Fallen's Predation"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/The Fallen's Predation.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/The Fallen's Predation.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -562,7 +562,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact Creature — Prototype ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Bladesmith Assistant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Bladesmith Assistant.png"
 	        },
 	        "printed names": {
 	            "en": "Bladesmith Assistant"
@@ -573,7 +573,7 @@
 	                "en": "Hardlight Buster"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hardlight Buster.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hardlight Buster.png"
 	            },
 	            "type": "Artifact — Equipment "
 	        }
@@ -584,7 +584,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Eager Engineer.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Eager Engineer.png"
 	        }
 	    },
 	    {
@@ -593,7 +593,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Seijuku Artificer.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Seijuku Artificer.png"
 	        }
 	    },
 	    {
@@ -602,7 +602,7 @@
 	        "mana_cost": "{6}{U}",
 	        "type": "Creature — Spirit Whale ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Cloudwrought Whale.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Cloudwrought Whale.png"
 	        }
 	    },
 	    {
@@ -611,7 +611,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Channeler Adept.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Channeler Adept.png"
 	        }
 	    },
 	    {
@@ -620,7 +620,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Lessons in Holograms.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Lessons in Holograms.png"
 	        }
 	    },
 	    {
@@ -629,7 +629,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Stroll through Imagination.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Stroll through Imagination.png"
 	        }
 	    },
 	    {
@@ -638,7 +638,7 @@
 	        "mana_cost": "{X}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Calculated Reconstruction.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Calculated Reconstruction.png"
 	        }
 	    },
 	    {
@@ -647,7 +647,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Foretold Explanation.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Foretold Explanation.png"
 	        }
 	    },
 	    {
@@ -656,7 +656,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Yokai's Rebuke.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Yokai's Rebuke.png"
 	        }
 	    },
 	    {
@@ -665,7 +665,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Artistic Improvisation.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Artistic Improvisation.png"
 	        }
 	    },
 	    {
@@ -674,7 +674,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Freezing Demonstration.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Freezing Demonstration.png"
 	        }
 	    },
 	    {
@@ -682,7 +682,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/The Theater's Lost Bushi.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/The Theater's Lost Bushi.png"
 	        },
 	        "printed names": {
 	            "en": "The Theater's Lost Bushi"
@@ -693,7 +693,7 @@
 	                "en": "Puppeteered Concentration"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Puppeteered Concentration.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Puppeteered Concentration.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -704,7 +704,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Ninja ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Sparkblade Ronin.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Sparkblade Ronin.png"
 	        }
 	    },
 	    {
@@ -712,7 +712,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Artifact Creature — Prototype ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Tactician's Assistant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Tactician's Assistant.png"
 	        },
 	        "printed names": {
 	            "en": "Tactician's Assistant"
@@ -723,7 +723,7 @@
 	                "en": "Hardlight Sniper Rifle"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hardlight Sniper Rifle.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hardlight Sniper Rifle.png"
 	            },
 	            "type": "Artifact — Equipment "
 	        }
@@ -734,7 +734,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Spirit Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Doomed Apparition.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Doomed Apparition.png"
 	        }
 	    },
 	    {
@@ -742,7 +742,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Ninja ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hidanko Renegade.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hidanko Renegade.png"
 	        },
 	        "printed names": {
 	            "en": "Hidanko Renegade"
@@ -753,7 +753,7 @@
 	                "en": "Disgraced Shade"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Disgraced Shade.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Disgraced Shade.png"
 	            },
 	            "type": "Creature — Void Skeleton "
 	        }
@@ -764,7 +764,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Demon Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Forest trickster.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Forest trickster.png"
 	        }
 	    },
 	    {
@@ -773,7 +773,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Wolf Spirit Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Senzao Peak Scavenger.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Senzao Peak Scavenger.png"
 	        }
 	    },
 	    {
@@ -782,7 +782,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Fox Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Fragment of Fury.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Fragment of Fury.png"
 	        }
 	    },
 	    {
@@ -790,7 +790,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/The Shogun's Downfall.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/The Shogun's Downfall.png"
 	        },
 	        "printed names": {
 	            "en": "The Shogun's Downfall"
@@ -801,7 +801,7 @@
 	                "en": "Throne of the Dead Lord"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Throne of the Dead Lord.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Throne of the Dead Lord.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -812,7 +812,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Dragon's Bargain.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Dragon's Bargain.png"
 	        }
 	    },
 	    {
@@ -821,7 +821,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Post-Battle Salvage.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Post-Battle Salvage.png"
 	        }
 	    },
 	    {
@@ -830,7 +830,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Aerial Supressor Suit.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Aerial Supressor Suit.png"
 	        }
 	    },
 	    {
@@ -839,7 +839,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/First Deployment.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/First Deployment.png"
 	        }
 	    },
 	    {
@@ -848,7 +848,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Bloodsoaked Intent.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Bloodsoaked Intent.png"
 	        }
 	    },
 	    {
@@ -857,7 +857,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Consumed by Grief.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Consumed by Grief.png"
 	        }
 	    },
 	    {
@@ -866,7 +866,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Lessons in Natural Order.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Lessons in Natural Order.png"
 	        }
 	    },
 	    {
@@ -875,7 +875,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Introduction to Diplomacy.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Introduction to Diplomacy.png"
 	        }
 	    },
 	    {
@@ -884,7 +884,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Introduction to History.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Introduction to History.png"
 	        }
 	    },
 	    {
@@ -893,7 +893,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Introduction to Cooking.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Introduction to Cooking.png"
 	        }
 	    },
 	    {
@@ -902,7 +902,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Introduction to Combat.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Introduction to Combat.png"
 	        }
 	    },
 	    {
@@ -910,7 +910,7 @@
 	        "mana_cost": "{2}{B}{R}{G}",
 	        "type": "Creature — Spirit Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Void-Fettered Monstrosity.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Void-Fettered Monstrosity.png"
 	        },
 	        "printed names": {
 	            "en": "Void-Fettered Monstrosity"
@@ -921,7 +921,7 @@
 	                "en": "Slumbers in the Ruin"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Slumbers in the Ruin.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Slumbers in the Ruin.png"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -931,7 +931,7 @@
 	        "mana_cost": "{2}{U}{B}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hidanko Instructor.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hidanko Instructor.png"
 	        },
 	        "printed names": {
 	            "en": "Hidanko Instructor"
@@ -942,7 +942,7 @@
 	                "en": "Teachings of an Adversary"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Teachings of an Adversary.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Teachings of an Adversary.png"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -952,7 +952,7 @@
 	        "mana_cost": "{4}{G}{W}{U}",
 	        "type": "Creature — Spirit Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Venerable Baihu.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Venerable Baihu.png"
 	        },
 	        "printed names": {
 	            "en": "Venerable Baihu"
@@ -963,7 +963,7 @@
 	                "en": "Path of Wisdom"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Path of Wisdom.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Path of Wisdom.png"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -973,7 +973,7 @@
 	        "mana_cost": "{3}{R}{G}{W}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Taraikyo Showstopper.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Taraikyo Showstopper.png"
 	        },
 	        "printed names": {
 	            "en": "Taraikyo Showstopper"
@@ -984,7 +984,7 @@
 	                "en": "Festival Opening Act"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Festival Opening Act.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Festival Opening Act.png"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -994,7 +994,7 @@
 	        "mana_cost": "{3}{W}{U}{B}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Seijuku Field Mechanic.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Seijuku Field Mechanic.png"
 	        },
 	        "printed names": {
 	            "en": "Seijuku Field Mechanic"
@@ -1005,7 +1005,7 @@
 	                "en": "Ley-Charged Fabricator Array"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Ley-Charged Fabricator Array.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Ley-Charged Fabricator Array.png"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -1016,7 +1016,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Excited Innovator.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Excited Innovator.png"
 	        }
 	    },
 	    {
@@ -1025,7 +1025,7 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Distinguished Teacher.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Distinguished Teacher.png"
 	        }
 	    },
 	    {
@@ -1034,7 +1034,7 @@
 	        "mana_cost": "{R}{G}",
 	        "type": "Creature — Cat Spirit Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Mischief Makers.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Mischief Makers.png"
 	        }
 	    },
 	    {
@@ -1043,7 +1043,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Swordsmanship Teacher.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Swordsmanship Teacher.png"
 	        }
 	    },
 	    {
@@ -1052,7 +1052,7 @@
 	        "mana_cost": "{B}{R}",
 	        "type": "Creature — Demon Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Ruthless Devourer.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Ruthless Devourer.png"
 	        }
 	    },
 	    {
@@ -1060,7 +1060,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Indecisive First-Year.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Indecisive First-Year.png"
 	        },
 	        "printed names": {
 	            "en": "Indecisive First-Year"
@@ -1071,7 +1071,7 @@
 	                "en": "Hidanko Rescue Engineer"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hidanko Rescue Engineer.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hidanko Rescue Engineer.png"
 	            },
 	            "type": "Creature — Void Artificer "
 	        }
@@ -1081,7 +1081,7 @@
 	        "mana_cost": "{W}{U}{B}",
 	        "type": "Legendary Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Azami, Duelist of Tradition.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Azami, Duelist of Tradition.png"
 	        },
 	        "printed names": {
 	            "en": "Azami, Duelist of Tradition"
@@ -1092,7 +1092,7 @@
 	                "en": "Azami's Dai Benkei"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Azami's Dai Benkei.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Azami's Dai Benkei.png"
 	            },
 	            "type": "Legendary Artifact — Vehicle "
 	        }
@@ -1103,7 +1103,7 @@
 	        "mana_cost": "{R}{G}{W}",
 	        "type": "Legendary Creature — Human Monk Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Urako, Studious Miko.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Urako, Studious Miko.png"
 	        }
 	    },
 	    {
@@ -1111,7 +1111,7 @@
 	        "mana_cost": "{1}{U}{B}{R}",
 	        "type": "Legendary Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Sae, the Inspired.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Sae, the Inspired.png"
 	        },
 	        "printed names": {
 	            "en": "Sae, the Inspired"
@@ -1122,7 +1122,7 @@
 	                "en": "Sae, Stadium Star"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Sae, Stadium Star.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Sae, Stadium Star.png"
 	            },
 	            "type": "Legendary Creature — Void Ally "
 	        }
@@ -1133,7 +1133,7 @@
 	        "mana_cost": "{G}{W}{U}",
 	        "type": "Legendary Creature — Frog Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Kaeru, Hebika Pilgrim.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Kaeru, Hebika Pilgrim.png"
 	        }
 	    },
 	    {
@@ -1142,7 +1142,7 @@
 	        "mana_cost": "{1}{B}{R}{G}",
 	        "type": "Legendary Creature — Insect Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Omukade, Void Feaster.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Omukade, Void Feaster.png"
 	        }
 	    },
 	    {
@@ -1150,7 +1150,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Distinguished Student.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Distinguished Student.png"
 	        },
 	        "printed names": {
 	            "en": "Distinguished Student"
@@ -1161,7 +1161,7 @@
 	                "en": "Wielder of Anger Within"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Wielder of Anger Within.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Wielder of Anger Within.png"
 	            },
 	            "type": "Creature — Void Samurai "
 	        }
@@ -1172,7 +1172,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Cat Bard Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Shining Star Aspirant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Shining Star Aspirant.png"
 	        }
 	    },
 	    {
@@ -1181,7 +1181,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Cyborg Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Stage Adversary.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Stage Adversary.png"
 	        }
 	    },
 	    {
@@ -1190,7 +1190,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Tenkami Sky Cruiser.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Tenkami Sky Cruiser.png"
 	        }
 	    },
 	    {
@@ -1199,7 +1199,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Leyline Arcanist.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Leyline Arcanist.png"
 	        }
 	    },
 	    {
@@ -1208,7 +1208,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Bird Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Reclusive Historian.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Reclusive Historian.png"
 	        }
 	    },
 	    {
@@ -1217,7 +1217,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Edge of Negation.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Edge of Negation.png"
 	        }
 	    },
 	    {
@@ -1225,7 +1225,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Snowy Peak Scout.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Snowy Peak Scout.png"
 	        },
 	        "printed names": {
 	            "en": "Snowy Peak Scout"
@@ -1236,7 +1236,7 @@
 	                "en": "Portable Artillery Platform"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Portable Artillery Platform.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Portable Artillery Platform.png"
 	            },
 	            "type": "Artifact Creature — Void Construct "
 	        }
@@ -1246,7 +1246,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Regal Miko.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Regal Miko.png"
 	        },
 	        "printed names": {
 	            "en": "Regal Miko"
@@ -1257,7 +1257,7 @@
 	                "en": "Dragon's Soul Caller"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Dragon's Soul Caller.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Dragon's Soul Caller.png"
 	            },
 	            "type": "Creature — Void Monk "
 	        }
@@ -1268,7 +1268,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Festival Fireworks.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Festival Fireworks.png"
 	        }
 	    },
 	    {
@@ -1277,7 +1277,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Tenkami Academy Grounds.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Tenkami Academy Grounds.png"
 	        }
 	    },
 	    {
@@ -1286,7 +1286,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Seijuku Alleyways.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Seijuku Alleyways.png"
 	        }
 	    },
 	    {
@@ -1295,7 +1295,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Senzao Peak Shrine.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Senzao Peak Shrine.png"
 	        }
 	    },
 	    {
@@ -1304,7 +1304,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Taraikyo Theater.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Taraikyo Theater.png"
 	        }
 	    },
 	    {
@@ -1313,7 +1313,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/The Void of Nightmares.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/The Void of Nightmares.png"
 	        }
 	    },
 	    {
@@ -1322,7 +1322,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hidanko Arena.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hidanko Arena.png"
 	        }
 	    },
 	    {
@@ -1331,7 +1331,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Cyborg Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Smashing Mentor.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Smashing Mentor.png"
 	        }
 	    },
 	    {
@@ -1340,7 +1340,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Eager Blitzer.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Eager Blitzer.png"
 	        }
 	    },
 	    {
@@ -1348,7 +1348,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Stoker of Hearthflame.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Stoker of Hearthflame.png"
 	        },
 	        "printed names": {
 	            "en": "Stoker of Hearthflame"
@@ -1359,7 +1359,7 @@
 	                "en": "Hearthfire Scorcher"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hearthfire Scorcher.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hearthfire Scorcher.png"
 	            },
 	            "type": "Creature — Void Wizard "
 	        }
@@ -1369,7 +1369,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Spirit Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Festival Celebrator.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Festival Celebrator.png"
 	        },
 	        "printed names": {
 	            "en": "Festival Celebrator"
@@ -1380,7 +1380,7 @@
 	                "en": "Defender of Festivities"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Defender of Festivities.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Defender of Festivities.png"
 	            },
 	            "type": "Creature — Void Berserker "
 	        }
@@ -1391,7 +1391,7 @@
 	        "mana_cost": "{X}{B}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Blood after the Storm.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Blood after the Storm.png"
 	        }
 	    },
 	    {
@@ -1400,7 +1400,7 @@
 	        "mana_cost": "{12}",
 	        "type": "Artifact Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Rampaging Wurmcoil.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Rampaging Wurmcoil.png"
 	        }
 	    },
 	    {
@@ -1409,7 +1409,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Electrokinetic Hammer.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Electrokinetic Hammer.png"
 	        }
 	    },
 	    {
@@ -1418,7 +1418,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Roadride Speeder.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Roadride Speeder.png"
 	        }
 	    },
 	    {
@@ -1427,7 +1427,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Constructed Security.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Constructed Security.png"
 	        }
 	    },
 	    {
@@ -1436,7 +1436,7 @@
 	        "mana_cost": "{X}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/All-Out Tactics.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/All-Out Tactics.png"
 	        }
 	    },
 	    {
@@ -1444,7 +1444,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Burden of the Firebird.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Burden of the Firebird.png"
 	        },
 	        "printed names": {
 	            "en": "Burden of the Firebird"
@@ -1455,7 +1455,7 @@
 	                "en": "Phoenixian Ascension"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Phoenixian Ascension.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Phoenixian Ascension.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -1465,7 +1465,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/The Aspirant to Glory.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/The Aspirant to Glory.png"
 	        },
 	        "printed names": {
 	            "en": "The Aspirant to Glory"
@@ -1476,7 +1476,7 @@
 	                "en": "Glory past Mattering"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Glory past Mattering.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Glory past Mattering.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -1487,7 +1487,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Spirit-Forme Containment.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Spirit-Forme Containment.png"
 	        }
 	    },
 	    {
@@ -1496,7 +1496,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Kindled Determination.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Kindled Determination.png"
 	        }
 	    },
 	    {
@@ -1505,7 +1505,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Harness Your Inner Strength.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Harness Your Inner Strength.png"
 	        }
 	    },
 	    {
@@ -1514,7 +1514,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Masked Temptations.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Masked Temptations.png"
 	        }
 	    },
 	    {
@@ -1523,7 +1523,7 @@
 	        "mana_cost": "{X}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Chromatic Rend.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Chromatic Rend.png"
 	        }
 	    },
 	    {
@@ -1531,7 +1531,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Artifact Creature — Prototype ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Seraphic Assistant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Seraphic Assistant.png"
 	        },
 	        "printed names": {
 	            "en": "Seraphic Assistant"
@@ -1542,7 +1542,7 @@
 	                "en": "Shining Seraph Rig"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Shining Seraph Rig.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Shining Seraph Rig.png"
 	            },
 	            "type": "Artifact — Equipment "
 	        }
@@ -1552,7 +1552,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact Creature — Prototype ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Spatial Assistant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Spatial Assistant.png"
 	        },
 	        "printed names": {
 	            "en": "Spatial Assistant"
@@ -1563,7 +1563,7 @@
 	                "en": "Low-Orbit Defense Unit"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Low-Orbit Defense Unit.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Low-Orbit Defense Unit.png"
 	            },
 	            "type": "Artifact — Vehicle "
 	        }
@@ -1574,7 +1574,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Stadium Favourite.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Stadium Favourite.png"
 	        }
 	    },
 	    {
@@ -1583,7 +1583,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Fox Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Loreweaver Teacher.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Loreweaver Teacher.png"
 	        }
 	    },
 	    {
@@ -1592,7 +1592,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Kirin Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Kami-Touched Channeler.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Kami-Touched Channeler.png"
 	        }
 	    },
 	    {
@@ -1601,7 +1601,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/As once told.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/As once told.png"
 	        }
 	    },
 	    {
@@ -1610,7 +1610,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Yokai's Meditation.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Yokai's Meditation.png"
 	        }
 	    },
 	    {
@@ -1618,7 +1618,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Honor-Bound Conscription.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Honor-Bound Conscription.png"
 	        },
 	        "printed names": {
 	            "en": "Honor-Bound Conscription"
@@ -1629,7 +1629,7 @@
 	                "en": "Last March of the Honored"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Last March of the Honored.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Last March of the Honored.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -1639,7 +1639,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Rampage of Inari.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Rampage of Inari.png"
 	        },
 	        "printed names": {
 	            "en": "Rampage of Inari"
@@ -1650,7 +1650,7 @@
 	                "en": "Inari's Sealed Influence"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Inari's Sealed Influence.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Inari's Sealed Influence.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -1661,7 +1661,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Understand the Abstract.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Understand the Abstract.png"
 	        }
 	    },
 	    {
@@ -1670,7 +1670,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Spirit Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Senzao Shrine Guard.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Senzao Shrine Guard.png"
 	        }
 	    },
 	    {
@@ -1679,7 +1679,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Imaginative Scroll-Painter.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Imaginative Scroll-Painter.png"
 	        }
 	    },
 	    {
@@ -1688,7 +1688,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Insect Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Insectile Abomination.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Insectile Abomination.png"
 	        }
 	    },
 	    {
@@ -1697,7 +1697,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Bear Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Campus Security.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Campus Security.png"
 	        }
 	    },
 	    {
@@ -1706,7 +1706,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Spirit Archer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Entranced Seeker.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Entranced Seeker.png"
 	        }
 	    },
 	    {
@@ -1715,7 +1715,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Spirit Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Stage-Tag Team.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Stage-Tag Team.png"
 	        }
 	    },
 	    {
@@ -1724,7 +1724,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Walk Among Spirits.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Walk Among Spirits.png"
 	        }
 	    },
 	    {
@@ -1732,7 +1732,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Whispers of Orochi.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Whispers of Orochi.png"
 	        },
 	        "printed names": {
 	            "en": "Whispers of Orochi"
@@ -1743,7 +1743,7 @@
 	                "en": "Searching for the Serpents"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Searching for the Serpents.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Searching for the Serpents.png"
 	            },
 	            "type": "Enchantment"
 	        }
@@ -1754,7 +1754,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Forgotten Edifice.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Forgotten Edifice.png"
 	        }
 	    },
 	    {
@@ -1763,7 +1763,7 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Renewed Blessings.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Renewed Blessings.png"
 	        }
 	    },
 	    {
@@ -1772,7 +1772,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Sharing of Joy.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Sharing of Joy.png"
 	        }
 	    },
 	    {
@@ -1781,7 +1781,7 @@
 	        "mana_cost": "{X}{X}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Unwavering Challenge.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Unwavering Challenge.png"
 	        }
 	    },
 	    {
@@ -1790,7 +1790,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant — Sorcery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Glimpse the Past.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Glimpse the Past.png"
 	        }
 	    },
 	    {
@@ -1799,7 +1799,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Dusk-Lantern Pilgrim.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Dusk-Lantern Pilgrim.png"
 	        }
 	    },
 	    {
@@ -1807,7 +1807,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Artifact Creature — Prototype ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Berserker Assistant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Berserker Assistant.png"
 	        },
 	        "printed names": {
 	            "en": "Berserker Assistant"
@@ -1818,7 +1818,7 @@
 	                "en": "Unrestrained Exosuit"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Unrestrained Exosuit.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Unrestrained Exosuit.png"
 	            },
 	            "type": "Artifact — Equipment "
 	        }
@@ -1829,7 +1829,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Creature — Spirit Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Vengeful Manifestation.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Vengeful Manifestation.png"
 	        }
 	    },
 	    {
@@ -1837,7 +1837,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Midnight Entertainer.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Midnight Entertainer.png"
 	        },
 	        "printed names": {
 	            "en": "Midnight Entertainer"
@@ -1848,7 +1848,7 @@
 	                "en": "Midnight Guardian"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Midnight Guardian.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Midnight Guardian.png"
 	            },
 	            "type": "Creature — Void Monk "
 	        }
@@ -1858,7 +1858,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Fox Spirit Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Soul-Channeling Kitsune.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Soul-Channeling Kitsune.png"
 	        },
 	        "printed names": {
 	            "en": "Soul-Channeling Kitsune"
@@ -1869,7 +1869,7 @@
 	                "en": "Oni-Harnessing Breaker"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Oni-Harnessing Breaker.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Oni-Harnessing Breaker.png"
 	            },
 	            "type": "Creature — Void Spirit Demon "
 	        }
@@ -1880,7 +1880,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Enforcer Rig.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Enforcer Rig.png"
 	        }
 	    },
 	    {
@@ -1889,7 +1889,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Glimpse the Unthinkable.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Glimpse the Unthinkable.png"
 	        }
 	    },
 	    {
@@ -1898,7 +1898,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Lay Down Arms.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Lay Down Arms.png"
 	        }
 	    },
 	    {
@@ -1907,7 +1907,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Glimpse into the Void.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Glimpse into the Void.png"
 	        }
 	    },
 	    {
@@ -1916,7 +1916,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Deal With Desperation.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Deal With Desperation.png"
 	        }
 	    },
 	    {
@@ -1924,7 +1924,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact Creature — Prototype ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Stitching Assistant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Stitching Assistant.png"
 	        },
 	        "printed names": {
 	            "en": "Stitching Assistant"
@@ -1935,7 +1935,7 @@
 	                "en": "Spirit-Stitcher Scissors"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Spirit-Stitcher Scissors.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Spirit-Stitcher Scissors.png"
 	            },
 	            "type": "Artifact — Equipment "
 	        }
@@ -1945,7 +1945,7 @@
 	        "mana_cost": "{U}{U}",
 	        "type": "Artifact Creature — Prototype ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Intercessor Assistant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Intercessor Assistant.png"
 	        },
 	        "printed names": {
 	            "en": "Intercessor Assistant"
@@ -1956,7 +1956,7 @@
 	                "en": "Intercessor Power Suit"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Intercessor Power Suit.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Intercessor Power Suit.png"
 	            },
 	            "type": "Artifact — Vehicle "
 	        }
@@ -1966,7 +1966,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Tired Planner.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Tired Planner.png"
 	        },
 	        "printed names": {
 	            "en": "Tired Planner"
@@ -1977,7 +1977,7 @@
 	                "en": "Operations Strategist"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Operations Strategist.png"
+	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Operations Strategist.png"
 	            },
 	            "type": "Artifact Creature — Void Artificer "
 	        }
@@ -1988,7 +1988,7 @@
 	        "mana_cost": "{5}{U}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Improvising Thopterist.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Improvising Thopterist.png"
 	        }
 	    },
 	    {
@@ -1997,7 +1997,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact Creature — Construct Samurai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Fabricated Onnabudo.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Fabricated Onnabudo.png"
 	        }
 	    },
 	    {
@@ -2006,7 +2006,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Gigant Cloud Punch.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Gigant Cloud Punch.png"
 	        }
 	    },
 	    {
@@ -2015,7 +2015,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Spectral Dissolution.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Spectral Dissolution.png"
 	        }
 	    },
 	    {
@@ -2024,7 +2024,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Electromagnetic Rampage.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Electromagnetic Rampage.png"
 	        }
 	    },
 	    {
@@ -2033,7 +2033,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Strobe Flash.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Strobe Flash.png"
 	        }
 	    },
 	    {
@@ -2042,7 +2042,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Culmination of Studies.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Culmination of Studies.png"
 	        }
 	    },
 	    {
@@ -2051,7 +2051,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Teachings of the Silent.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Teachings of the Silent.png"
 	        }
 	    },
 	    {
@@ -2060,7 +2060,7 @@
 	        "mana_cost": "{X}{U}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Challenge the Unknown.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Challenge the Unknown.png"
 	        }
 	    },
 	    {
@@ -2069,7 +2069,7 @@
 	        "mana_cost": "{B}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Dread in the Night.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Dread in the Night.png"
 	        }
 	    },
 	    {
@@ -2078,7 +2078,7 @@
 	        "mana_cost": "{2}{B}{R}",
 	        "type": "Creature — Human Spirit Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Dragonflame Disciple.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Dragonflame Disciple.png"
 	        }
 	    },
 	    {
@@ -2087,7 +2087,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Shrine Celebrant.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Shrine Celebrant.png"
 	        }
 	    },
 	    {
@@ -2096,7 +2096,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Creature — Human Ninja ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Moonlit Team.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Moonlit Team.png"
 	        }
 	    },
 	    {
@@ -2105,7 +2105,7 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Creature — Human Student Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Hero of the Story.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hero of the Story.png"
 	        }
 	    },
 	    {
@@ -2114,7 +2114,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Piloting Instructor.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Piloting Instructor.png"
 	        }
 	    },
 	    {
@@ -2123,7 +2123,7 @@
 	        "mana_cost": "{U}{B}{R}",
 	        "type": "Creature — Human Wizard Samurai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Coordinated Partners.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Coordinated Partners.png"
 	        }
 	    },
 	    {
@@ -2132,7 +2132,7 @@
 	        "mana_cost": "{1}{G}{W}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Professor of Fortunetelling.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Professor of Fortunetelling.png"
 	        }
 	    },
 	    {
@@ -2141,7 +2141,7 @@
 	        "mana_cost": "{R}{G}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Taraikyo Playwright.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Taraikyo Playwright.png"
 	        }
 	    },
 	    {
@@ -2150,7 +2150,7 @@
 	        "mana_cost": "{2}{B}{R}{G}",
 	        "type": "Creature — Demon Spirit Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Agent of Insurgency.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Agent of Insurgency.png"
 	        }
 	    },
 	    {
@@ -2159,7 +2159,7 @@
 	        "mana_cost": "{W}{U}{B}",
 	        "type": "Creature — Human Student Artificr ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Conductor Mechanist.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Conductor Mechanist.png"
 	        }
 	    },
 	    {
@@ -2168,7 +2168,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko:-Future-Past/main/ONIV1C-files/Pull of the Spirit Realm.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Pull of the Spirit Realm.png"
 	        }
 	    }
 	]
