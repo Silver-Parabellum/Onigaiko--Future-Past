@@ -2172,7 +2172,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
 	[UncommonSlot(4)]
 		50 Kenzai Braves the Forest
 		50 In the Kami's Footsteps
