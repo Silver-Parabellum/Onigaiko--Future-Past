@@ -13,7 +13,7 @@
       <name>Customized Battle-Suit</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>4</manacost>
         <cmc>4</cmc>
         <type>Artifact - Vehicle </type>
@@ -27,7 +27,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or greater: T
       <name>Void Beast Scout</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <type>Artifact Creature - Spirit Drone </type>
@@ -42,7 +42,7 @@ Whenever Void Beast Scout deals combat damage to a player, choose any number of 
       <name>Seijuku Survey Drone</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <type>Artifact Creature - Drone </type>
@@ -57,7 +57,7 @@ When Seijuku Survey Drone enters the battlefield,  you may search your library f
       <name>Midnight Prowler</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <type>Artifact Creature - Cyborg Ninja </type>
@@ -72,7 +72,7 @@ Whenever Midnight Prowler deals combat damage to a player, put a +1/+1 counter, 
       <name>Lantern-Lit Meal</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <type>Artifact</type>
@@ -86,7 +86,7 @@ Whenever Midnight Prowler deals combat damage to a player, put a +1/+1 counter, 
       <name>Taraikyo Play Usher</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <type>Artifact Creature - Puppet </type>
@@ -101,7 +101,7 @@ Whenever Midnight Prowler deals combat damage to a player, put a +1/+1 counter, 
       <name>Kenzai Braves the Forest</name>
       <set rarity="uncommon" splitterPath="/Kenzai Braves the Forest.png" >ONI</set>
       <prop>
-        <colors>RG</colors>
+        <color>RG</color>
         <manacost>1RG</manacost>
         <cmc>3</cmc>
         <type>Enchantment - Saga </type>
@@ -114,13 +114,13 @@ II — search your library for a basic forest card, reveal it, put it into your 
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): In the Presence of the Empress</text>
-      <related attach="transform">In the Presence of the Empress</related>
+      <related attach="attach">In the Presence of the Empress</related>
     </card>
     <card>
       <name>In the Presence of the Empress</name>
       <set rarity="uncommon" splitterPath="/In the Presence of the Empress.png" >ONI</set>
       <prop>
-        <colors>RG</colors>
+        <color>RG</color>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Enchantment</type>
@@ -130,13 +130,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
 Creatures you control get haste and first strike. At the start of combat on your turn, put a +1/+1 counter on each creature you control. 
 ---
 (Front): Kenzai Braves the Forest</text>
-      <related attach="transform">Kenzai Braves the Forest</related>
     </card>
     <card>
       <name>Tachiyaku Aspirant</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Student </type>
@@ -151,7 +150,7 @@ Whenever Tachiyaku Aspirant attacks, you may Retell, If you do: Target creature 
       <name>Hebika Prowler</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
         <cmc>2</cmc>
         <type>Creature - Spirit Cat Rogue </type>
@@ -165,7 +164,7 @@ Whenever Tachiyaku Aspirant attacks, you may Retell, If you do: Target creature 
       <name>Hidanko First-Year</name>
       <set rarity="common" splitterPath="/Hidanko First-Year.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Student </type>
@@ -176,13 +175,13 @@ Whenever Tachiyaku Aspirant attacks, you may Retell, If you do: Target creature 
       <text>1R: Transform Hidanko First-Year, activate only if a creature with higher power entered the battlefield this turn.
 ---
 (Back): Hidanko Arcanic Channeler</text>
-      <related attach="transform">Hidanko Arcanic Channeler</related>
+      <related attach="attach">Hidanko Arcanic Channeler</related>
     </card>
     <card>
       <name>Hidanko Arcanic Channeler</name>
       <set rarity="common" splitterPath="/Hidanko Arcanic Channeler.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Creature - Void Wizard </type>
@@ -193,13 +192,12 @@ Whenever Tachiyaku Aspirant attacks, you may Retell, If you do: Target creature 
 Whenever this creature transforms into Hidanko Arcanic Channeler: Paradigm 2 (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
 ---
 (Front): Hidanko First-Year</text>
-      <related attach="transform">Hidanko First-Year</related>
     </card>
     <card>
       <name>Archery Club Tutor</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Student </type>
@@ -214,7 +212,7 @@ Whenever a charge counter is removed from a permanent you control, Archery Club 
       <name>Faceless Flame-Touched</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>4R</manacost>
         <cmc>5</cmc>
         <type>Creature - Demon Spirit </type>
@@ -228,7 +226,7 @@ Whenever a charge counter is removed from a permanent you control, Archery Club 
       <name>Spirited Script-Writer</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
         <cmc>4</cmc>
         <type>Creature - Human Student </type>
@@ -242,7 +240,7 @@ Whenever a charge counter is removed from a permanent you control, Archery Club 
       <name>Burning Spirit</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -255,7 +253,7 @@ Whenever a charge counter is removed from a permanent you control, Archery Club 
       <name>Limiter Burst</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>5R</manacost>
         <cmc>6</cmc>
         <type>Sorcery</type>
@@ -269,7 +267,7 @@ Limiter Burst deals 2 damage to any target and 2 damage to each creature target 
       <name>A Tale of Three Samurai</name>
       <set rarity="common" splitterPath="/A Tale of Three Samurai.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
         <cmc>4</cmc>
         <type>Enchantment - Saga </type>
@@ -282,13 +280,13 @@ II — Create two 2/2 white samurai tokens with vigilance, they gain haste until
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Imoe&apos;s Recollections</text>
-      <related attach="transform">Imoe&apos;s Recollections</related>
+      <related attach="attach">Imoe&apos;s Recollections</related>
     </card>
     <card>
       <name>Imoe&apos;s Recollections</name>
       <set rarity="common" splitterPath="/Imoe's Recollections.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost></manacost>
         <cmc>4</cmc>
         <type>Enchantment</type>
@@ -297,13 +295,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <text>At the start of combat, target creature you control gets +3/+3 until end of turn.
 ---
 (Front): A Tale of Three Samurai</text>
-      <related attach="transform">A Tale of Three Samurai</related>
     </card>
     <card>
       <name>Entranced in Memory</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -317,7 +314,7 @@ Draw two cards. </text>
       <name>Hardlight Jump-Pack</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <type>Artifact - Equipment </type>
@@ -331,7 +328,7 @@ Equip {2}</text>
       <name>Disciplined Study</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -345,7 +342,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Just as Taught</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
         <cmc>3</cmc>
         <type>Instant</type>
@@ -359,7 +356,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <name>Soul Spite</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -374,7 +371,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <name>Lessons in Swordsmanship</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>4R</manacost>
         <cmc>5</cmc>
         <type>Sorcery - Lesson </type>
@@ -387,7 +384,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <name>Suit Assistant</name>
       <set rarity="common" splitterPath="/Suit Assistant.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
         <cmc>1</cmc>
         <type>Artifact Creature - Prototype </type>
@@ -403,13 +400,13 @@ Place a shield counter on target creature,  (If it would be dealt damage or dest
 transform Suit Assistant.
 ---
 (Back): Thunderer Power Suit</text>
-      <related attach="transform">Thunderer Power Suit</related>
+      <related attach="attach">Thunderer Power Suit</related>
     </card>
     <card>
       <name>Thunderer Power Suit</name>
       <set rarity="common" splitterPath="/Thunderer Power Suit.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost></manacost>
         <cmc>1</cmc>
         <type>Artifact - Equipment </type>
@@ -421,13 +418,12 @@ Equip {3}
 Equip Creature with a shield counter: {0}
 ---
 (Front): Suit Assistant</text>
-      <related attach="transform">Suit Assistant</related>
     </card>
     <card>
       <name>Disciplinary Guard</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Student </type>
@@ -442,7 +438,7 @@ When Disciplinary Guard enters the battlefield, you may search your library for 
       <name>Aspiring Novelist</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
         <cmc>2</cmc>
         <type>Creature - Spirit Student </type>
@@ -457,7 +453,7 @@ When Disciplinary Guard enters the battlefield, you may search your library for 
       <name>Curious Creation</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
         <cmc>3</cmc>
         <type>Artifact Creature - Construct Student </type>
@@ -472,7 +468,7 @@ When Curious Creation enters the battlefield, you may return target artifact fro
       <name>Spirit-Sword Monk</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Monk </type>
@@ -487,7 +483,7 @@ When Spirit-Sword Monk enters the battlefield, you may return target enchantment
       <name>Rebellious Maiko</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
         <cmc>1</cmc>
         <type>Creature - Human Student </type>
@@ -501,7 +497,7 @@ When Spirit-Sword Monk enters the battlefield, you may return target enchantment
       <name>Bushi Twins</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>3W</manacost>
         <cmc>4</cmc>
         <type>Creature - Human Student </type>
@@ -516,7 +512,7 @@ Whenever Bushi Twins deals combat damage to a player, Retell. (To retell, remove
       <name>Popular Seraph</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>3W</manacost>
         <cmc>4</cmc>
         <type>Creature - Angel Student </type>
@@ -532,7 +528,7 @@ Channel — 2W, Discard Popular Seraph: Gain 2 life For each creature your oppon
       <name>Borrowed Project</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>4W</manacost>
         <cmc>5</cmc>
         <type>Artifact Creature - Construct Soldier </type>
@@ -546,7 +542,7 @@ Channel — 2W, Discard Popular Seraph: Gain 2 life For each creature your oppon
       <name>Outstanding Play</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -560,7 +556,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Refractor Strike</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>2WW</manacost>
         <cmc>4</cmc>
         <type>Instant</type>
@@ -575,7 +571,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Binding Prank</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
         <cmc>3</cmc>
         <type>Enchantment - Aura </type>
@@ -589,7 +585,7 @@ Enchanted permanent can’t attack, block, or crew Vehicles. Its activated abili
       <name>Reminisce History</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -603,7 +599,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Slip on the Mask</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -617,7 +613,7 @@ Channel — 1W Create a tapped 1/1 colorless spirit creature token.</text>
       <name>Wisdom of the Cranes</name>
       <set rarity="common" splitterPath="/Wisdom of the Cranes.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
         <cmc>3</cmc>
         <type>Enchantment</type>
@@ -630,13 +626,13 @@ II — You may tap a creature you control: Create a 1/1 White bird creature toke
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Lord of the Cranes</text>
-      <related attach="transform">Lord of the Cranes</related>
+      <related attach="attach">Lord of the Cranes</related>
     </card>
     <card>
       <name>Lord of the Cranes</name>
       <set rarity="common" splitterPath="/Lord of the Cranes.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Enchantment</type>
@@ -645,13 +641,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <text>At the start of combat on your turn, target creature you control gains “When this creature deals combat damage to a player, create a 1/1 White bird creature token with flying” until end of turn.
 ---
 (Front): Wisdom of the Cranes</text>
-      <related attach="transform">Wisdom of the Cranes</related>
     </card>
     <card>
       <name>Lessons in Storytelling</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
         <cmc>3</cmc>
         <type>Sorcery - Lesson </type>
@@ -665,7 +660,7 @@ Search your library for a saga card, reveal it, put it into your hand, then shuf
       <name>Void-Charged Behemoth</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
         <cmc>5</cmc>
         <type>Creature - Spirit Dragon </type>
@@ -680,7 +675,7 @@ Devour 2 (As this enters the battlefield, you may sacrifice any number of creatu
       <name>Studious Spirit</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
         <cmc>2</cmc>
         <type>Creature - Spirit Student </type>
@@ -694,7 +689,7 @@ Devour 2 (As this enters the battlefield, you may sacrifice any number of creatu
       <name>Biomancy Student</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
         <cmc>2</cmc>
         <type>Creature - Elf Student </type>
@@ -709,7 +704,7 @@ Devour 2 (As this enters the battlefield, you may sacrifice any number of creatu
       <name>Monastery Trainee</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
         <cmc>1</cmc>
         <type>Creature - Human Monk Student </type>
@@ -723,7 +718,7 @@ Devour 2 (As this enters the battlefield, you may sacrifice any number of creatu
       <name>Greater Toad Sage</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>4GG</manacost>
         <cmc>6</cmc>
         <type>Creature - Spirit Frog </type>
@@ -738,7 +733,7 @@ As long as you have two or more instants or sorceries in your graveyard, Greater
       <name>Tenkami Forest Scout</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Wolf Spirit </type>
@@ -753,7 +748,7 @@ Tenkami Forest Scout can’t attack or block unless you control a transformed pe
       <name>Tanuki Celebrant</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
         <cmc>3</cmc>
         <type>Creature - Spirit Raccoon Rogue </type>
@@ -768,7 +763,7 @@ Devour 2 (As this enters the battlefield, you may sacrifice any number of creatu
       <name>Hebika Assailant</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Spirit Rogue </type>
@@ -782,7 +777,7 @@ Devour 2 (As this enters the battlefield, you may sacrifice any number of creatu
       <name>Peaceful Tanuki</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>3G</manacost>
         <cmc>4</cmc>
         <type>Creature - Spirit Raccoon </type>
@@ -797,7 +792,7 @@ Channel — 1G, Discard Peaceful Tanuki: Target creature gets +3/+3 until end of
       <name>Light-Hearted Goading</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -811,7 +806,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <name>Moment of Peace</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
         <cmc>1</cmc>
         <type>Sorcery</type>
@@ -825,7 +820,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <name>Lessons in Spiritualism</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
         <cmc>1</cmc>
         <type>Instant - Lesson </type>
@@ -838,7 +833,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <name>Flawless  Quickdraw</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
         <cmc>3</cmc>
         <type>Instant</type>
@@ -853,7 +848,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <name>In the Kami&apos;s Footsteps</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
         <cmc>2</cmc>
         <type>Sorcery</type>
@@ -867,7 +862,7 @@ Channel — {G}, Discard In the Kami’s Footsteps, you may play an additional l
       <name>Spirit&apos;s Nourishing</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -881,7 +876,7 @@ Channel — {G}, Discard Spirit’s Nourishing: Gain 3 life.</text>
       <name>Hidejo and the Forest&apos;s Call</name>
       <set rarity="common" splitterPath="/Hidejo and the Forest's Call.png" >ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>5G</manacost>
         <cmc>6</cmc>
         <type>Enchantment - Saga </type>
@@ -894,13 +889,13 @@ II — Search your library for two land cards, put them onto the battlefield tap
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): The Fallen&apos;s Predation</text>
-      <related attach="transform">The Fallen&apos;s Predation</related>
+      <related attach="attach">The Fallen&apos;s Predation</related>
     </card>
     <card>
       <name>The Fallen&apos;s Predation</name>
       <set rarity="common" splitterPath="/The Fallen's Predation.png" >ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost></manacost>
         <cmc>6</cmc>
         <type>Enchantment</type>
@@ -909,13 +904,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <text>Whenever a creature you control dies, you may put a number of +1/+1 counters equal to that creature’s power on target creature
 ---
 (Front): Hidejo and the Forest&apos;s Call</text>
-      <related attach="transform">Hidejo and the Forest&apos;s Call</related>
     </card>
     <card>
       <name>Bladesmith Assistant</name>
       <set rarity="common" splitterPath="/Bladesmith Assistant.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
         <cmc>1</cmc>
         <type>Artifact Creature - Prototype </type>
@@ -931,13 +925,13 @@ Tap target creature and put a stun counter on it. (If a permanent with a stun co
 Transform Bladesmith Assistant
 ---
 (Back): Hardlight Buster</text>
-      <related attach="transform">Hardlight Buster</related>
+      <related attach="attach">Hardlight Buster</related>
     </card>
     <card>
       <name>Hardlight Buster</name>
       <set rarity="common" splitterPath="/Hardlight Buster.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost></manacost>
         <cmc>1</cmc>
         <type>Artifact - Equipment </type>
@@ -949,13 +943,12 @@ At the beginning of your upkeep, if Hardlight Buster is equipped to a tapped cre
 Equip {1}
 ---
 (Front): Bladesmith Assistant</text>
-      <related attach="transform">Bladesmith Assistant</related>
     </card>
     <card>
       <name>Eager Engineer</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Student </type>
@@ -969,7 +962,7 @@ Equip {1}
       <name>Seijuku Artificer</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Student </type>
@@ -983,7 +976,7 @@ Equip {1}
       <name>Cloudwrought Whale</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>6U</manacost>
         <cmc>7</cmc>
         <type>Creature - Spirit Whale </type>
@@ -999,7 +992,7 @@ Channel — {U}, Discard Cloudwrought Whale: Surveil 2.</text>
       <name>Channeler Adept</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>4U</manacost>
         <cmc>5</cmc>
         <type>Creature - Human Monk </type>
@@ -1013,7 +1006,7 @@ Channel — {U}, Discard Cloudwrought Whale: Surveil 2.</text>
       <name>Lessons in Holograms</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
         <cmc>2</cmc>
         <type>Instant - Lesson </type>
@@ -1028,7 +1021,7 @@ Channel — {U}, Discard Cloudwrought Whale: Surveil 2.</text>
       <name>Stroll through Imagination</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -1043,7 +1036,7 @@ Channel — 2U, Discard Stroll through Imagination, Return target creature to it
       <name>Calculated Reconstruction</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>XU</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -1057,7 +1050,7 @@ Return target artifact with mana value X or less from your graveyard to the batt
       <name>Foretold Explanation</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
         <cmc>3</cmc>
         <type>Instant</type>
@@ -1071,7 +1064,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Yokai&apos;s Rebuke</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -1084,7 +1077,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Artistic Improvisation</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>3U</manacost>
         <cmc>4</cmc>
         <type>Instant</type>
@@ -1098,7 +1091,7 @@ Draw two cards.</text>
       <name>Freezing Demonstration</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>4U</manacost>
         <cmc>5</cmc>
         <type>Sorcery</type>
@@ -1112,7 +1105,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>The Theater&apos;s Lost Bushi</name>
       <set rarity="common" splitterPath="/The Theater's Lost Bushi.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
         <cmc>2</cmc>
         <type>Enchantment - Saga </type>
@@ -1125,13 +1118,13 @@ II — Draw a card, then discard a card.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Puppeteered Concentration</text>
-      <related attach="transform">Puppeteered Concentration</related>
+      <related attach="attach">Puppeteered Concentration</related>
     </card>
     <card>
       <name>Puppeteered Concentration</name>
       <set rarity="common" splitterPath="/Puppeteered Concentration.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost></manacost>
         <cmc>2</cmc>
         <type>Enchantment</type>
@@ -1140,13 +1133,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <text>Whenever a creature you control declares an attack: You may scry 1. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)
 ---
 (Front): The Theater&apos;s Lost Bushi</text>
-      <related attach="transform">The Theater&apos;s Lost Bushi</related>
     </card>
     <card>
       <name>Sparkblade Ronin</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Ninja </type>
@@ -1161,7 +1153,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <name>Tactician&apos;s Assistant</name>
       <set rarity="common" splitterPath="/Tactician's Assistant.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
         <cmc>1</cmc>
         <type>Artifact Creature - Prototype </type>
@@ -1177,13 +1169,13 @@ Draw one card and lose 1 life.
 Transform Tactician’s Assistant
 ---
 (Back): Hardlight Sniper Rifle</text>
-      <related attach="transform">Hardlight Sniper Rifle</related>
+      <related attach="attach">Hardlight Sniper Rifle</related>
     </card>
     <card>
       <name>Hardlight Sniper Rifle</name>
       <set rarity="common" splitterPath="/Hardlight Sniper Rifle.png" >ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost></manacost>
         <cmc>1</cmc>
         <type>Artifact - Equipment </type>
@@ -1194,13 +1186,12 @@ At the beginning of your end step, if equipped creature dealt combat damage to a
 Equip {2}
 ---
 (Front): Tactician&apos;s Assistant</text>
-      <related attach="transform">Tactician&apos;s Assistant</related>
     </card>
     <card>
       <name>Doomed Apparition</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>4B</manacost>
         <cmc>5</cmc>
         <type>Creature - Spirit Horror </type>
@@ -1215,7 +1206,7 @@ When Doomed Apparition dies, create three tapped 1/1colorless Spirit creature to
       <name>Hidanko Renegade</name>
       <set rarity="common" splitterPath="/Hidanko Renegade.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Ninja </type>
@@ -1226,13 +1217,13 @@ When Doomed Apparition dies, create three tapped 1/1colorless Spirit creature to
       <text>{2}{B}: Transform Hidanko Renegade, activate only if you control a tapped creature with greater power.
 ---
 (Back): Disgraced Shade</text>
-      <related attach="transform">Disgraced Shade</related>
+      <related attach="attach">Disgraced Shade</related>
     </card>
     <card>
       <name>Disgraced Shade</name>
       <set rarity="common" splitterPath="/Disgraced Shade.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost></manacost>
         <cmc>2</cmc>
         <type>Creature - Void Skeleton </type>
@@ -1242,13 +1233,12 @@ When Doomed Apparition dies, create three tapped 1/1colorless Spirit creature to
       <text>Whenever this creature transforms into Disgraced Shade Paradigm 2 (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
 ---
 (Front): Hidanko Renegade</text>
-      <related attach="transform">Hidanko Renegade</related>
     </card>
     <card>
       <name>Forest trickster</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
         <cmc>3</cmc>
         <type>Creature - Demon Spirit </type>
@@ -1263,7 +1253,7 @@ When Forest trickster dies, you may put a -1/-1 counter on up to two target crea
       <name>Senzao Peak Scavenger</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
         <cmc>4</cmc>
         <type>Creature - Wolf Spirit Horror </type>
@@ -1278,7 +1268,7 @@ When Senzao Peak Scavenger enters the battlefield, target creature gets -1/-1 un
       <name>Fragment of Fury</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
         <cmc>1</cmc>
         <type>Creature - Fox Spirit </type>
@@ -1292,7 +1282,7 @@ When Senzao Peak Scavenger enters the battlefield, target creature gets -1/-1 un
       <name>The Shogun&apos;s Downfall</name>
       <set rarity="common" splitterPath="/The Shogun's Downfall.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>4B</manacost>
         <cmc>5</cmc>
         <type>Enchantment - Saga </type>
@@ -1305,13 +1295,13 @@ II — Return target creature card from your graveyard to the battlefield tapped
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Throne of the Dead Lord</text>
-      <related attach="transform">Throne of the Dead Lord</related>
+      <related attach="attach">Throne of the Dead Lord</related>
     </card>
     <card>
       <name>Throne of the Dead Lord</name>
       <set rarity="common" splitterPath="/Throne of the Dead Lord.png" >ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost></manacost>
         <cmc>5</cmc>
         <type>Enchantment</type>
@@ -1320,13 +1310,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <text>At the start of combat on your turn, target creature you control gets +1/+1 and Wither until end of turn. (This deals damage to creatures in the form of -1/-1 counters.)
 ---
 (Front): The Shogun&apos;s Downfall</text>
-      <related attach="transform">The Shogun&apos;s Downfall</related>
     </card>
     <card>
       <name>Dragon&apos;s Bargain</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
         <cmc>3</cmc>
         <type>Sorcery</type>
@@ -1340,7 +1329,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Post-Battle Salvage</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
         <cmc>3</cmc>
         <type>Sorcery</type>
@@ -1355,7 +1344,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Aerial Supressor Suit</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
         <cmc>3</cmc>
         <type>Artifact - Vehicle </type>
@@ -1369,7 +1358,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or greater: T
       <name>First Deployment</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -1383,7 +1372,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Bloodsoaked Intent</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>1BB</manacost>
         <cmc>3</cmc>
         <type>Instant</type>
@@ -1397,7 +1386,7 @@ Destroy target creature.</text>
       <name>Consumed by Grief</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
         <cmc>1</cmc>
         <type>Enchantment - Aura </type>
@@ -1412,7 +1401,7 @@ You may cast Consumed by Grief from your graveyard by paying {2} in addition to 
       <name>Lessons in Natural Order</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
         <cmc>3</cmc>
         <type>Sorcery - Lesson </type>
@@ -1425,7 +1414,7 @@ You may cast Consumed by Grief from your graveyard by paying {2} in addition to 
       <name>Introduction to Diplomacy</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <type>Sorcery - Lesson </type>
@@ -1438,7 +1427,7 @@ You may cast Consumed by Grief from your graveyard by paying {2} in addition to 
       <name>Introduction to History</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <type>Sorcery - Lesson </type>
@@ -1451,7 +1440,7 @@ You may cast Consumed by Grief from your graveyard by paying {2} in addition to 
       <name>Introduction to Cooking</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <type>Sorcery - Lesson </type>
@@ -1465,7 +1454,7 @@ Create a food token.</text>
       <name>Introduction to Combat</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>5</manacost>
         <cmc>5</cmc>
         <type>Sorcery - Lesson </type>
@@ -1478,7 +1467,7 @@ Create a food token.</text>
       <name>Void-Fettered Monstrosity</name>
       <set rarity="common" splitterPath="/Void-Fettered Monstrosity.png" >ONI</set>
       <prop>
-        <colors>BRG</colors>
+        <color>BRG</color>
         <manacost>2BRG</manacost>
         <cmc>5</cmc>
         <type>Creature - Spirit Horror </type>
@@ -1489,13 +1478,13 @@ Create a food token.</text>
       <text>When Void-Fettered Monstrosity enters the battlefield up to two target creatures an opponent controls can’t block until end of turn.
 ---
 (Back): Slumbers in the Ruin</text>
-      <related attach="transform">Slumbers in the Ruin</related>
+      <related attach="attach">Slumbers in the Ruin</related>
     </card>
     <card>
       <name>Slumbers in the Ruin</name>
       <set rarity="common" splitterPath="/Slumbers in the Ruin.png" >ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>2</manacost>
         <cmc>5</cmc>
         <type>Enchantment - Aura </type>
@@ -1506,13 +1495,12 @@ Enchanted Land has “{T}: Add {B}, {R}, or {G}”
 2BRG: Transform Slumbers in the Ruin.
 ---
 (Front): Void-Fettered Monstrosity</text>
-      <related attach="transform">Void-Fettered Monstrosity</related>
     </card>
     <card>
       <name>Hidanko Instructor</name>
       <set rarity="common" splitterPath="/Hidanko Instructor.png" >ONI</set>
       <prop>
-        <colors>UBR</colors>
+        <color>UBR</color>
         <manacost>2UBR</manacost>
         <cmc>5</cmc>
         <type>Creature - Human Warrior </type>
@@ -1523,13 +1511,13 @@ Enchanted Land has “{T}: Add {B}, {R}, or {G}”
       <text>When Hidanko Instructor enters the battlefield: Place a +1/+1 counter on target creature.
 ---
 (Back): Teachings of an Adversary</text>
-      <related attach="transform">Teachings of an Adversary</related>
+      <related attach="attach">Teachings of an Adversary</related>
     </card>
     <card>
       <name>Teachings of an Adversary</name>
       <set rarity="common" splitterPath="/Teachings of an Adversary.png" >ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>2</manacost>
         <cmc>5</cmc>
         <type>Enchantment - Aura </type>
@@ -1540,13 +1528,12 @@ Enchanted land has “{T}: Add {U}, {B}, or {R}”
 2UBR: Transform Teachings of an Adversary.
 ---
 (Front): Hidanko Instructor</text>
-      <related attach="transform">Hidanko Instructor</related>
     </card>
     <card>
       <name>Venerable Baihu</name>
       <set rarity="common" splitterPath="/Venerable Baihu.png" >ONI</set>
       <prop>
-        <colors>WUG</colors>
+        <color>WUG</color>
         <manacost>4GWU</manacost>
         <cmc>7</cmc>
         <type>Creature - Spirit Advisor </type>
@@ -1557,13 +1544,13 @@ Enchanted land has “{T}: Add {U}, {B}, or {R}”
       <text>Flying, Vigilance
 ---
 (Back): Path of Wisdom</text>
-      <related attach="transform">Path of Wisdom</related>
+      <related attach="attach">Path of Wisdom</related>
     </card>
     <card>
       <name>Path of Wisdom</name>
       <set rarity="common" splitterPath="/Path of Wisdom.png" >ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>2</manacost>
         <cmc>7</cmc>
         <type>Enchantment - Aura </type>
@@ -1574,13 +1561,12 @@ Enchanted land has “{T}: Add {G}, {W}, or {U}”
 4GWU: Transform Path of Wisdom.
 ---
 (Front): Venerable Baihu</text>
-      <related attach="transform">Venerable Baihu</related>
     </card>
     <card>
       <name>Taraikyo Showstopper</name>
       <set rarity="common" splitterPath="/Taraikyo Showstopper.png" >ONI</set>
       <prop>
-        <colors>WRG</colors>
+        <color>WRG</color>
         <manacost>3RGW</manacost>
         <cmc>6</cmc>
         <type>Creature - Human Student </type>
@@ -1591,13 +1577,13 @@ Enchanted land has “{T}: Add {G}, {W}, or {U}”
       <text>When Taraikyo showstopper enters the battlefield, Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)
 ---
 (Back): Festival Opening Act</text>
-      <related attach="transform">Festival Opening Act</related>
+      <related attach="attach">Festival Opening Act</related>
     </card>
     <card>
       <name>Festival Opening Act</name>
       <set rarity="common" splitterPath="/Festival Opening Act.png" >ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>2</manacost>
         <cmc>6</cmc>
         <type>Enchantment - Aura </type>
@@ -1608,13 +1594,12 @@ Enchanted Land has “{T}: Add {R}, {G} or {W}”
 3RGW: Transform Festival Opening Act.
 ---
 (Front): Taraikyo Showstopper</text>
-      <related attach="transform">Taraikyo Showstopper</related>
     </card>
     <card>
       <name>Seijuku Field Mechanic</name>
       <set rarity="common" splitterPath="/Seijuku Field Mechanic.png" >ONI</set>
       <prop>
-        <colors>WUB</colors>
+        <color>WUB</color>
         <manacost>3WUB</manacost>
         <cmc>6</cmc>
         <type>Creature - Human Student </type>
@@ -1625,13 +1610,13 @@ Enchanted Land has “{T}: Add {R}, {G} or {W}”
       <text>When Seijuku Field Mechanic enters the battlefield or is transformed into, you may tap target nonland permanent and put a stun counter on it.
 ---
 (Back): Ley-Charged Fabricator Array</text>
-      <related attach="transform">Ley-Charged Fabricator Array</related>
+      <related attach="attach">Ley-Charged Fabricator Array</related>
     </card>
     <card>
       <name>Ley-Charged Fabricator Array</name>
       <set rarity="common" splitterPath="/Ley-Charged Fabricator Array.png" >ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>2</manacost>
         <cmc>6</cmc>
         <type>Enchantment - Aura </type>
@@ -1642,13 +1627,12 @@ Enchanted land has “{T}: Add {W}, {U}, or {B}”
 3WUB: Transform Ley-Charged Fabricator Array
 ---
 (Front): Seijuku Field Mechanic</text>
-      <related attach="transform">Seijuku Field Mechanic</related>
     </card>
     <card>
       <name>Excited Innovator</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>WU</colors>
+        <color>WU</color>
         <manacost>WU</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Student </type>
@@ -1662,7 +1646,7 @@ Enchanted land has “{T}: Add {W}, {U}, or {B}”
       <name>Distinguished Teacher</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>WG</colors>
+        <color>WG</color>
         <manacost>GW</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Wizard </type>
@@ -1676,7 +1660,7 @@ Enchanted land has “{T}: Add {W}, {U}, or {B}”
       <name>Mischief Makers</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>RG</colors>
+        <color>RG</color>
         <manacost>RG</manacost>
         <cmc>2</cmc>
         <type>Creature - Cat Spirit Student </type>
@@ -1691,7 +1675,7 @@ RG,{T}: Mischief Makers deals X damage to target creature or planeswalker, where
       <name>Swordsmanship Teacher</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>UB</colors>
+        <color>UB</color>
         <manacost>UB</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Warrior </type>
@@ -1705,7 +1689,7 @@ RG,{T}: Mischief Makers deals X damage to target creature or planeswalker, where
       <name>Ruthless Devourer</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>BR</colors>
+        <color>BR</color>
         <manacost>BR</manacost>
         <cmc>2</cmc>
         <type>Creature - Demon Spirit </type>
@@ -1720,7 +1704,7 @@ BR: Sacrifice another creature: Ruthless devourer gains first strike until end o
       <name>Indecisive First-Year</name>
       <set rarity="common" splitterPath="/Indecisive First-Year.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Student </type>
@@ -1731,13 +1715,13 @@ BR: Sacrifice another creature: Ruthless devourer gains first strike until end o
       <text>1U: Transform Indecisive First-Year, activate only if a creature was tapped this turn.
 ---
 (Back): Hidanko Rescue Engineer</text>
-      <related attach="transform">Hidanko Rescue Engineer</related>
+      <related attach="attach">Hidanko Rescue Engineer</related>
     </card>
     <card>
       <name>Hidanko Rescue Engineer</name>
       <set rarity="common" splitterPath="/Hidanko Rescue Engineer.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Creature - Void Artificer </type>
@@ -1749,13 +1733,12 @@ During your opponent’s turn Hidanko Rescue Engineer gets -4/+4.
 Whenever this creature transforms into Hidanko Rescue Engineer: Paradigm 2 (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
 ---
 (Front): Indecisive First-Year</text>
-      <related attach="transform">Indecisive First-Year</related>
     </card>
     <card>
       <name>Azami, Duelist of Tradition</name>
       <set rarity="uncommon" splitterPath="/Azami, Duelist of Tradition.png" >ONI</set>
       <prop>
-        <colors>WUB</colors>
+        <color>WUB</color>
         <manacost>WUB</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Student </type>
@@ -1767,13 +1750,13 @@ Whenever this creature transforms into Hidanko Rescue Engineer: Paradigm 2 (Put 
 Tap four artifacts you control: Transform Azami.
 ---
 (Back): Azami&apos;s Dai Benkei</text>
-      <related attach="transform">Azami&apos;s Dai Benkei</related>
+      <related attach="attach">Azami&apos;s Dai Benkei</related>
     </card>
     <card>
       <name>Azami&apos;s Dai Benkei</name>
       <set rarity="uncommon" splitterPath="/Azami's Dai Benkei.png" >ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Legendary Artifact - Vehicle </type>
@@ -1784,13 +1767,12 @@ As long as you control four or more tapped artifacts, this Vehicle is also a cre
 At the beginning of your upkeep, if Azami’s Dai Benkei is not a creature: Transform it.
 ---
 (Front): Azami, Duelist of Tradition</text>
-      <related attach="transform">Azami, Duelist of Tradition</related>
     </card>
     <card>
       <name>Urako, Studious Miko</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>WRG</colors>
+        <color>WRG</color>
         <manacost>RGW</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Monk Student </type>
@@ -1808,7 +1790,7 @@ At the beginning of your upkeep, choose one that hasn’t been chosen —
       <name>Sae, the Inspired</name>
       <set rarity="uncommon" splitterPath="/Sae, the Inspired.png" >ONI</set>
       <prop>
-        <colors>UBR</colors>
+        <color>UBR</color>
         <manacost>1UBR</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Student </type>
@@ -1820,13 +1802,13 @@ At the beginning of your upkeep, choose one that hasn’t been chosen —
 1R: Transform Sae, the Inspired, activate only if you control three or more creatures with counters on them.
 ---
 (Back): Sae, Stadium Star</text>
-      <related attach="transform">Sae, Stadium Star</related>
+      <related attach="attach">Sae, Stadium Star</related>
     </card>
     <card>
       <name>Sae, Stadium Star</name>
       <set rarity="uncommon" splitterPath="/Sae, Stadium Star.png" >ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost></manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Void Ally </type>
@@ -1838,13 +1820,12 @@ Sae, Stadium Star gets +X/+0 where X is the number of counters among creatures y
 Whenever this creature transforms into Sae, Stadium Star: Paradigm 3
 ---
 (Front): Sae, the Inspired</text>
-      <related attach="transform">Sae, the Inspired</related>
     </card>
     <card>
       <name>Kaeru, Hebika Pilgrim</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>WUG</colors>
+        <color>WUG</color>
         <manacost>GWU</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Frog Monk </type>
@@ -1860,7 +1841,7 @@ When Kaeru, Hebika Pilgrim enters the battlefield, you may draw two cards then p
       <name>Omukade, Void Feaster</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>BRG</colors>
+        <color>BRG</color>
         <manacost>1BRG</manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Insect Horror </type>
@@ -1875,7 +1856,7 @@ Whenever you sacrifice another creature, put a +1/+1 counter on Omukade, Void Fe
       <name>Distinguished Student</name>
       <set rarity="common" splitterPath="/Distinguished Student.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Student </type>
@@ -1886,13 +1867,13 @@ Whenever you sacrifice another creature, put a +1/+1 counter on Omukade, Void Fe
       <text>1B: Transform Distinguished Student, activate only if a creature died this turn.
 ---
 (Back): Wielder of Anger Within</text>
-      <related attach="transform">Wielder of Anger Within</related>
+      <related attach="attach">Wielder of Anger Within</related>
     </card>
     <card>
       <name>Wielder of Anger Within</name>
       <set rarity="common" splitterPath="/Wielder of Anger Within.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Creature - Void Samurai </type>
@@ -1904,13 +1885,12 @@ Whenever Wielder of Anger Within within is blocked, you may put a -1/-1 counter 
 Whenever this creature transforms into Wielder of Anger Within, Paradigm 2  (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
 ---
 (Front): Distinguished Student</text>
-      <related attach="transform">Distinguished Student</related>
     </card>
     <card>
       <name>Shining Star Aspirant</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
         <cmc>1</cmc>
         <type>Creature - Cat Bard Student </type>
@@ -1925,7 +1905,7 @@ At the end of combat, if Shining Star Aspirant attacked, remove all counters fro
       <name>Stage Adversary</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>1BB</manacost>
         <cmc>3</cmc>
         <type>Creature - Cyborg Student </type>
@@ -1939,7 +1919,7 @@ At the end of combat, if Shining Star Aspirant attacked, remove all counters fro
       <name>Tenkami Sky Cruiser</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>1</manacost>
         <cmc>1</cmc>
         <type>Artifact - Vehicle </type>
@@ -1953,7 +1933,7 @@ Crew 6</text>
       <name>Leyline Arcanist</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Monk </type>
@@ -1969,7 +1949,7 @@ When Leyline Arcanist enters the battlefield, target Instant or sorcery card in 
       <name>Reclusive Historian</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>4R</manacost>
         <cmc>5</cmc>
         <type>Creature - Bird Monk </type>
@@ -1984,7 +1964,7 @@ Whenever Reclusive Historian attacks, place a +1/+1 counter on target creature, 
       <name>Edge of Negation</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -1997,7 +1977,7 @@ Whenever Reclusive Historian attacks, place a +1/+1 counter on target creature, 
       <name>Snowy Peak Scout</name>
       <set rarity="common" splitterPath="/Snowy Peak Scout.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>3U</manacost>
         <cmc>4</cmc>
         <type>Artifact Creature - Construct </type>
@@ -2009,13 +1989,13 @@ Whenever Reclusive Historian attacks, place a +1/+1 counter on target creature, 
 2U: Transform Snowy Peak Scout, activate only if a creature blocked this turn.
 ---
 (Back): Portable Artillery Platform</text>
-      <related attach="transform">Portable Artillery Platform</related>
+      <related attach="attach">Portable Artillery Platform</related>
     </card>
     <card>
       <name>Portable Artillery Platform</name>
       <set rarity="common" splitterPath="/Portable Artillery Platform.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost></manacost>
         <cmc>4</cmc>
         <type>Artifact Creature - Void Construct </type>
@@ -2027,13 +2007,12 @@ Portable Artillery Platform cannot be blocked by creatures with higher power.
 Whenever this creature transforms into Portable Artillery Platform, Paradigm 2 (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
 ---
 (Front): Snowy Peak Scout</text>
-      <related attach="transform">Snowy Peak Scout</related>
     </card>
     <card>
       <name>Regal Miko</name>
       <set rarity="common" splitterPath="/Regal Miko.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
         <cmc>1</cmc>
         <type>Creature - Human Monk </type>
@@ -2044,13 +2023,13 @@ Whenever this creature transforms into Portable Artillery Platform, Paradigm 2 (
       <text>1R: Transform Regal Miko, activate only if a player took damage this turn.
 ---
 (Back): Dragon&apos;s Soul Caller</text>
-      <related attach="transform">Dragon&apos;s Soul Caller</related>
+      <related attach="attach">Dragon&apos;s Soul Caller</related>
     </card>
     <card>
       <name>Dragon&apos;s Soul Caller</name>
       <set rarity="common" splitterPath="/Dragon's Soul Caller.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost></manacost>
         <cmc>1</cmc>
         <type>Creature - Void Monk </type>
@@ -2061,13 +2040,12 @@ Whenever this creature transforms into Portable Artillery Platform, Paradigm 2 (
 Whenever this creature transforms into Dragon’s Soul Caller, Paradigm 2 (Put two Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
 ---
 (Front): Regal Miko</text>
-      <related attach="transform">Regal Miko</related>
     </card>
     <card>
       <name>Festival Fireworks</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
         <cmc>2</cmc>
         <type>Enchantment</type>
@@ -2080,7 +2058,7 @@ Whenever this creature transforms into Dragon’s Soul Caller, Paradigm 2 (Put t
       <name>Tenkami Academy Grounds</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost></manacost>
         <cmc>0</cmc>
         <type>Land</type>
@@ -2095,7 +2073,7 @@ As Tenkami Academy Grounds enters the battlefield, choose a color.
       <name>Seijuku Alleyways</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost></manacost>
         <cmc>0</cmc>
         <type>Land</type>
@@ -2108,7 +2086,7 @@ As Tenkami Academy Grounds enters the battlefield, choose a color.
       <name>Senzao Peak Shrine</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost></manacost>
         <cmc>0</cmc>
         <type>Land</type>
@@ -2121,7 +2099,7 @@ As Tenkami Academy Grounds enters the battlefield, choose a color.
       <name>Taraikyo Theater</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost></manacost>
         <cmc>0</cmc>
         <type>Land</type>
@@ -2134,7 +2112,7 @@ As Tenkami Academy Grounds enters the battlefield, choose a color.
       <name>The Void of Nightmares</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost></manacost>
         <cmc>0</cmc>
         <type>Land</type>
@@ -2147,7 +2125,7 @@ As Tenkami Academy Grounds enters the battlefield, choose a color.
       <name>Hidanko Arena</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost></manacost>
         <cmc>0</cmc>
         <type>Land</type>
@@ -2160,7 +2138,7 @@ As Tenkami Academy Grounds enters the battlefield, choose a color.
       <name>Smashing Mentor</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>2RR</manacost>
         <cmc>4</cmc>
         <type>Creature - Cyborg Student </type>
@@ -2174,7 +2152,7 @@ As Tenkami Academy Grounds enters the battlefield, choose a color.
       <name>Eager Blitzer</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
         <cmc>1</cmc>
         <type>Creature - Human Student </type>
@@ -2190,7 +2168,7 @@ If Eager Blitzer inflicts damage to an opponent, you may sacrifice it and discar
       <name>Stoker of Hearthflame</name>
       <set rarity="uncommon" splitterPath="/Stoker of Hearthflame.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Student </type>
@@ -2202,13 +2180,13 @@ If Eager Blitzer inflicts damage to an opponent, you may sacrifice it and discar
 {2}{R}: Transform Stoker of Hearthflame, activate only if a creature you control was damaged this turn.
 ---
 (Back): Hearthfire Scorcher</text>
-      <related attach="transform">Hearthfire Scorcher</related>
+      <related attach="attach">Hearthfire Scorcher</related>
     </card>
     <card>
       <name>Hearthfire Scorcher</name>
       <set rarity="uncommon" splitterPath="/Hearthfire Scorcher.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost></manacost>
         <cmc>2</cmc>
         <type>Creature - Void Wizard </type>
@@ -2219,13 +2197,12 @@ If Eager Blitzer inflicts damage to an opponent, you may sacrifice it and discar
 Whenever this creature transforms into Hearthfire Scorcher Paradigm 1 (Put one Charge Counter on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
 ---
 (Front): Stoker of Hearthflame</text>
-      <related attach="transform">Stoker of Hearthflame</related>
     </card>
     <card>
       <name>Festival Celebrator</name>
       <set rarity="uncommon" splitterPath="/Festival Celebrator.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
         <cmc>3</cmc>
         <type>Creature - Spirit Monk </type>
@@ -2237,13 +2214,13 @@ Whenever this creature transforms into Hearthfire Scorcher Paradigm 1 (Put one C
 4R: Transform Festival Celebrator, activate only if two or more cards entered your graveyard this turn.
 ---
 (Back): Defender of Festivities</text>
-      <related attach="transform">Defender of Festivities</related>
+      <related attach="attach">Defender of Festivities</related>
     </card>
     <card>
       <name>Defender of Festivities</name>
       <set rarity="uncommon" splitterPath="/Defender of Festivities.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Creature - Void Berserker </type>
@@ -2254,13 +2231,12 @@ Whenever this creature transforms into Hearthfire Scorcher Paradigm 1 (Put one C
 Whenever this creature transforms into Defender of Festivities, paradigm 3 (Put three Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
 ---
 (Front): Festival Celebrator</text>
-      <related attach="transform">Festival Celebrator</related>
     </card>
     <card>
       <name>Blood after the Storm</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>XBB</manacost>
         <cmc>2</cmc>
         <type>Enchantment</type>
@@ -2275,7 +2251,7 @@ At the beginning of the end step, sacrifice Blood after the Storm.</text>
       <name>Rampaging Wurmcoil</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>12</manacost>
         <cmc>12</cmc>
         <type>Artifact Creature - Wurm </type>
@@ -2290,7 +2266,7 @@ Creatures blocking Rampaging Wurmcoil lose lose all abilities until end of turn.
       <name>Electrokinetic Hammer</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>1</manacost>
         <cmc>1</cmc>
         <type>Artifact - Equipment </type>
@@ -2304,7 +2280,7 @@ Equip {10}. This ability costs {X} less to activate where X is the number of tap
       <name>Roadride Speeder</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <type>Artifact - Vehicle </type>
@@ -2319,7 +2295,7 @@ Crew 3</text>
       <name>Constructed Security</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors></colors>
+        <color></color>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <type>Artifact Creature - Construct </type>
@@ -2333,7 +2309,7 @@ Crew 3</text>
       <name>All-Out Tactics</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>XR</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -2346,7 +2322,7 @@ Crew 3</text>
       <name>Burden of the Firebird</name>
       <set rarity="uncommon" splitterPath="/Burden of the Firebird.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>1RR</manacost>
         <cmc>3</cmc>
         <type>Enchantment - Saga </type>
@@ -2359,13 +2335,13 @@ II — Target creature you control with power higher than it’s original power 
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Phoenixian Ascension</text>
-      <related attach="transform">Phoenixian Ascension</related>
+      <related attach="attach">Phoenixian Ascension</related>
     </card>
     <card>
       <name>Phoenixian Ascension</name>
       <set rarity="uncommon" splitterPath="/Phoenixian Ascension.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Enchantment</type>
@@ -2376,13 +2352,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
 • Return this creature to the battlefield tapped under its owner’s control”
 ---
 (Front): Burden of the Firebird</text>
-      <related attach="transform">Burden of the Firebird</related>
     </card>
     <card>
       <name>The Aspirant to Glory</name>
       <set rarity="uncommon" splitterPath="/The Aspirant to Glory.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
         <cmc>1</cmc>
         <type>Enchantment - Saga </type>
@@ -2395,13 +2370,13 @@ II — When you cast your next creature spell this turn, that creature gains has
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Glory past Mattering</text>
-      <related attach="transform">Glory past Mattering</related>
+      <related attach="attach">Glory past Mattering</related>
     </card>
     <card>
       <name>Glory past Mattering</name>
       <set rarity="uncommon" splitterPath="/Glory past Mattering.png" >ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost></manacost>
         <cmc>1</cmc>
         <type>Enchantment</type>
@@ -2410,13 +2385,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <text>Creatures you control get +1/+0 and haste.
 ---
 (Front): The Aspirant to Glory</text>
-      <related attach="transform">The Aspirant to Glory</related>
     </card>
     <card>
       <name>Spirit-Forme Containment</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
         <cmc>1</cmc>
         <type>Enchantment</type>
@@ -2430,7 +2404,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <name>Kindled Determination</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
         <cmc>3</cmc>
         <type>Instant</type>
@@ -2444,7 +2418,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <name>Harness Your Inner Strength</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
         <cmc>1</cmc>
         <type>Sorcery - Lesson </type>
@@ -2457,7 +2431,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <name>Masked Temptations</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
         <cmc>3</cmc>
         <type>Sorcery</type>
@@ -2470,7 +2444,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <name>Chromatic Rend</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>XW</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -2483,7 +2457,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <name>Seraphic Assistant</name>
       <set rarity="uncommon" splitterPath="/Seraphic Assistant.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
         <cmc>2</cmc>
         <type>Artifact Creature - Prototype </type>
@@ -2499,13 +2473,13 @@ Target creature gets +1/+1 for each creature you control until end of turn.
 Transform Seraphic Assistant
 ---
 (Back): Shining Seraph Rig</text>
-      <related attach="transform">Shining Seraph Rig</related>
+      <related attach="attach">Shining Seraph Rig</related>
     </card>
     <card>
       <name>Shining Seraph Rig</name>
       <set rarity="uncommon" splitterPath="/Shining Seraph Rig.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost></manacost>
         <cmc>2</cmc>
         <type>Artifact - Equipment </type>
@@ -2516,13 +2490,12 @@ Whenever a player is dealt damage by a creature equipped with Shining Seraph Rig
 Equip {1}
 ---
 (Front): Seraphic Assistant</text>
-      <related attach="transform">Seraphic Assistant</related>
     </card>
     <card>
       <name>Spatial Assistant</name>
       <set rarity="uncommon" splitterPath="/Spatial Assistant.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
         <cmc>3</cmc>
         <type>Artifact Creature - Prototype </type>
@@ -2538,13 +2511,13 @@ Exile Target tapped creature with an information counter
 Transform Spatial Assistant.
 ---
 (Back): Low-Orbit Defense Unit</text>
-      <related attach="transform">Low-Orbit Defense Unit</related>
+      <related attach="attach">Low-Orbit Defense Unit</related>
     </card>
     <card>
       <name>Low-Orbit Defense Unit</name>
       <set rarity="uncommon" splitterPath="/Low-Orbit Defense Unit.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Artifact - Vehicle </type>
@@ -2555,13 +2528,12 @@ When Low-Orbit Defense Unit attacks, you may create a token copy of target creat
 Crew 3.
 ---
 (Front): Spatial Assistant</text>
-      <related attach="transform">Spatial Assistant</related>
     </card>
     <card>
       <name>Stadium Favourite</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>4WW</manacost>
         <cmc>6</cmc>
         <type>Creature - Human Warrior </type>
@@ -2576,7 +2548,7 @@ When Stadium Favourite enters the battlefield, you may tap target creature. Dest
       <name>Loreweaver Teacher</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>3WW</manacost>
         <cmc>5</cmc>
         <type>Creature - Fox Warlock </type>
@@ -2591,7 +2563,7 @@ Lifelink.</text>
       <name>Kami-Touched Channeler</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>3W</manacost>
         <cmc>4</cmc>
         <type>Creature - Kirin Human </type>
@@ -2605,7 +2577,7 @@ Lifelink.</text>
       <name>As once told</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
         <cmc>3</cmc>
         <type>Sorcery</type>
@@ -2619,7 +2591,7 @@ Channel — {W}, Discard As once told, return target creature or enchantment you
       <name>Yokai&apos;s Meditation</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -2633,7 +2605,7 @@ Channel — {W}, Discard Yokai’s Meditation, create a white Aura enchantment t
       <name>Honor-Bound Conscription</name>
       <set rarity="uncommon" splitterPath="/Honor-Bound Conscription.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
         <cmc>3</cmc>
         <type>Enchantment - Saga </type>
@@ -2646,13 +2618,13 @@ II — If a creature you control attacks this turn, it can’t be blocked by cre
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Last March of the Honored</text>
-      <related attach="transform">Last March of the Honored</related>
+      <related attach="attach">Last March of the Honored</related>
     </card>
     <card>
       <name>Last March of the Honored</name>
       <set rarity="uncommon" splitterPath="/Last March of the Honored.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost></manacost>
         <cmc>3</cmc>
         <type>Enchantment</type>
@@ -2662,13 +2634,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
 Tapped creatures you control get +0/+2.
 ---
 (Front): Honor-Bound Conscription</text>
-      <related attach="transform">Honor-Bound Conscription</related>
     </card>
     <card>
       <name>Rampage of Inari</name>
       <set rarity="uncommon" splitterPath="/Rampage of Inari.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>4W</manacost>
         <cmc>5</cmc>
         <type>Enchantment - Saga </type>
@@ -2681,13 +2652,13 @@ II — Exile target artifact or enchantment with mana value less than or equal t
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Inari&apos;s Sealed Influence</text>
-      <related attach="transform">Inari&apos;s Sealed Influence</related>
+      <related attach="attach">Inari&apos;s Sealed Influence</related>
     </card>
     <card>
       <name>Inari&apos;s Sealed Influence</name>
       <set rarity="uncommon" splitterPath="/Inari's Sealed Influence.png" >ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost></manacost>
         <cmc>5</cmc>
         <type>Enchantment</type>
@@ -2698,13 +2669,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
  • Target creature has base power and toughness 1/1 until end of turn
 ---
 (Front): Rampage of Inari</text>
-      <related attach="transform">Rampage of Inari</related>
     </card>
     <card>
       <name>Understand the Abstract</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
         <cmc>3</cmc>
         <type>Sorcery - Lesson </type>
@@ -2717,7 +2687,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <name>Senzao Shrine Guard</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
         <cmc>1</cmc>
         <type>Creature - Spirit Monk </type>
@@ -2732,7 +2702,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <name>Imaginative Scroll-Painter</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Student </type>
@@ -2747,7 +2717,7 @@ Channel — 2G, Discard Imaginative Scroll-Painter, target enchantment  becomes 
       <name>Insectile Abomination</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>3GG</manacost>
         <cmc>5</cmc>
         <type>Creature - Insect Horror </type>
@@ -2762,7 +2732,7 @@ Devour 5 (As this enters the battlefield, you may sacrifice any number of creatu
       <name>Campus Security</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>4GG</manacost>
         <cmc>6</cmc>
         <type>Creature - Bear Warrior </type>
@@ -2777,7 +2747,7 @@ Campus Security enters the battlefield with two +1/+1 counters on it for each co
       <name>Entranced Seeker</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>2GG</manacost>
         <cmc>4</cmc>
         <type>Creature - Spirit Archer </type>
@@ -2793,7 +2763,7 @@ Channel — 1G, Discard Entranced Seeker, it inflicts 3 damage to target attacki
       <name>Stage-Tag Team</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Spirit Student </type>
@@ -2807,7 +2777,7 @@ Channel — 1G, Discard Entranced Seeker, it inflicts 3 damage to target attacki
       <name>Walk Among Spirits</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
         <cmc>5</cmc>
         <type>Sorcery</type>
@@ -2821,7 +2791,7 @@ Search your library for up to two basic or double-faced land cards, put them ont
       <name>Whispers of Orochi</name>
       <set rarity="uncommon" splitterPath="/Whispers of Orochi.png" >ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>2GG</manacost>
         <cmc>4</cmc>
         <type>Enchantment - Saga </type>
@@ -2834,13 +2804,13 @@ II — target creature you control deals damage equal to its power to target cre
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Searching for the Serpents</text>
-      <related attach="transform">Searching for the Serpents</related>
+      <related attach="attach">Searching for the Serpents</related>
     </card>
     <card>
       <name>Searching for the Serpents</name>
       <set rarity="uncommon" splitterPath="/Searching for the Serpents.png" >ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost></manacost>
         <cmc>4</cmc>
         <type>Enchantment</type>
@@ -2850,13 +2820,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
 Non-token creatures you control get +2/+2 as long as you control a token.
 ---
 (Front): Whispers of Orochi</text>
-      <related attach="transform">Whispers of Orochi</related>
     </card>
     <card>
       <name>Forgotten Edifice</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
         <cmc>3</cmc>
         <type>Artifact</type>
@@ -2870,7 +2839,7 @@ Non-token creatures you control get +2/+2 as long as you control a token.
       <name>Renewed Blessings</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>WG</colors>
+        <color>WG</color>
         <manacost>GW</manacost>
         <cmc>2</cmc>
         <type>Sorcery</type>
@@ -2884,7 +2853,7 @@ Channel — {G/W}, Discard Renewed Blessings, place target card from your gravey
       <name>Sharing of Joy</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
         <cmc>2</cmc>
         <type>Enchantment</type>
@@ -2898,7 +2867,7 @@ Creatures you control have trample. </text>
       <name>Unwavering Challenge</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>XXG</manacost>
         <cmc>1</cmc>
         <type>Sorcery</type>
@@ -2912,7 +2881,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Glimpse the Past</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
         <cmc>3</cmc>
         <type>Instant - Sorcery </type>
@@ -2927,7 +2896,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Dusk-Lantern Pilgrim</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Monk </type>
@@ -2942,7 +2911,7 @@ Whenever you discard one or more cards, draw a card.</text>
       <name>Berserker Assistant</name>
       <set rarity="uncommon" splitterPath="/Berserker Assistant.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
         <cmc>1</cmc>
         <type>Artifact Creature - Prototype </type>
@@ -2958,13 +2927,13 @@ Target creature gets +2/-2 until end of turn.
 Transform Berserker Assistant.
 ---
 (Back): Unrestrained Exosuit</text>
-      <related attach="transform">Unrestrained Exosuit</related>
+      <related attach="attach">Unrestrained Exosuit</related>
     </card>
     <card>
       <name>Unrestrained Exosuit</name>
       <set rarity="uncommon" splitterPath="/Unrestrained Exosuit.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost></manacost>
         <cmc>1</cmc>
         <type>Artifact - Equipment </type>
@@ -2975,13 +2944,12 @@ At the end of combat, if equipped creature has 0 or less toughness: Transform Un
 Equip: Pay 2 Life.
 ---
 (Front): Berserker Assistant</text>
-      <related attach="transform">Berserker Assistant</related>
     </card>
     <card>
       <name>Vengeful Manifestation</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>5BB</manacost>
         <cmc>7</cmc>
         <type>Creature - Spirit Horror </type>
@@ -2997,7 +2965,7 @@ When Vengeful Manifestation enters the battlefield, creatures your opponents con
       <name>Midnight Entertainer</name>
       <set rarity="uncommon" splitterPath="/Midnight Entertainer.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>3BB</manacost>
         <cmc>5</cmc>
         <type>Creature - Human Monk </type>
@@ -3009,13 +2977,13 @@ When Vengeful Manifestation enters the battlefield, creatures your opponents con
 2B: Transform Midnight Entertainer, activate only if two or more creatures attacked this turn.
 ---
 (Back): Midnight Guardian</text>
-      <related attach="transform">Midnight Guardian</related>
+      <related attach="attach">Midnight Guardian</related>
     </card>
     <card>
       <name>Midnight Guardian</name>
       <set rarity="uncommon" splitterPath="/Midnight Guardian.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost></manacost>
         <cmc>5</cmc>
         <type>Creature - Void Monk </type>
@@ -3026,13 +2994,12 @@ When Vengeful Manifestation enters the battlefield, creatures your opponents con
 When this creature transforms into Midnight Guardian, Paradigm 1 (Put one Charge Counter on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
 ---
 (Front): Midnight Entertainer</text>
-      <related attach="transform">Midnight Entertainer</related>
     </card>
     <card>
       <name>Soul-Channeling Kitsune</name>
       <set rarity="uncommon" splitterPath="/Soul-Channeling Kitsune.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
         <cmc>2</cmc>
         <type>Creature - Fox Spirit Student </type>
@@ -3045,13 +3012,13 @@ When Soul-Channeling Kitsune enters the battlefield: Learn. (You may reveal a Le
 1BB: Transform Soul-Channeling Kitsune, activate only if a player cast a non-creature spell this turn.
 ---
 (Back): Oni-Harnessing Breaker</text>
-      <related attach="transform">Oni-Harnessing Breaker</related>
+      <related attach="attach">Oni-Harnessing Breaker</related>
     </card>
     <card>
       <name>Oni-Harnessing Breaker</name>
       <set rarity="uncommon" splitterPath="/Oni-Harnessing Breaker.png" >ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost></manacost>
         <cmc>2</cmc>
         <type>Creature - Void Spirit Demon </type>
@@ -3062,13 +3029,12 @@ When Soul-Channeling Kitsune enters the battlefield: Learn. (You may reveal a Le
 Whenever this card transforms into Oni-Harnessing Breaker, Paradigm 3. (Put three Charge Counters on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
 ---
 (Front): Soul-Channeling Kitsune</text>
-      <related attach="transform">Soul-Channeling Kitsune</related>
     </card>
     <card>
       <name>Enforcer Rig</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
         <cmc>2</cmc>
         <type>Artifact - Equipment </type>
@@ -3083,7 +3049,7 @@ Equip {1}</text>
       <name>Glimpse the Unthinkable</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
         <cmc>3</cmc>
         <type>Sorcery - Lesson </type>
@@ -3096,7 +3062,7 @@ Equip {1}</text>
       <name>Lay Down Arms</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -3109,7 +3075,7 @@ Equip {1}</text>
       <name>Glimpse into the Void</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
         <cmc>1</cmc>
         <type>Sorcery</type>
@@ -3122,7 +3088,7 @@ Equip {1}</text>
       <name>Deal With Desperation</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -3136,7 +3102,7 @@ Create a tapped 1/1 colorless Spirit creature token. Draw 2 Cards</text>
       <name>Stitching Assistant</name>
       <set rarity="uncommon" splitterPath="/Stitching Assistant.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
         <cmc>1</cmc>
         <type>Artifact Creature - Prototype </type>
@@ -3152,13 +3118,13 @@ Return target creature to its owner’s hand, Surveil 1.
 Transform Stitching Assistant.
 ---
 (Back): Spirit-Stitcher Scissors</text>
-      <related attach="transform">Spirit-Stitcher Scissors</related>
+      <related attach="attach">Spirit-Stitcher Scissors</related>
     </card>
     <card>
       <name>Spirit-Stitcher Scissors</name>
       <set rarity="uncommon" splitterPath="/Spirit-Stitcher Scissors.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost></manacost>
         <cmc>1</cmc>
         <type>Artifact - Equipment </type>
@@ -3168,13 +3134,12 @@ Transform Stitching Assistant.
 1U, Attach Spirit-Stitcher Scissors to target creature.
 ---
 (Front): Stitching Assistant</text>
-      <related attach="transform">Stitching Assistant</related>
     </card>
     <card>
       <name>Intercessor Assistant</name>
       <set rarity="uncommon" splitterPath="/Intercessor Assistant.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>UU</manacost>
         <cmc>2</cmc>
         <type>Artifact Creature - Prototype </type>
@@ -3190,13 +3155,13 @@ Scry 3, then draw one card.
 Transform Intercessor Assistant.
 ---
 (Back): Intercessor Power Suit</text>
-      <related attach="transform">Intercessor Power Suit</related>
+      <related attach="attach">Intercessor Power Suit</related>
     </card>
     <card>
       <name>Intercessor Power Suit</name>
       <set rarity="uncommon" splitterPath="/Intercessor Power Suit.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost></manacost>
         <cmc>2</cmc>
         <type>Artifact - Vehicle </type>
@@ -3207,13 +3172,12 @@ When Intercessor Power Suit deals combat damage to a player you may scry equal t
 Crew 3
 ---
 (Front): Intercessor Assistant</text>
-      <related attach="transform">Intercessor Assistant</related>
     </card>
     <card>
       <name>Tired Planner</name>
       <set rarity="uncommon" splitterPath="/Tired Planner.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>2UU</manacost>
         <cmc>4</cmc>
         <type>Creature - Human Student </type>
@@ -3226,13 +3190,13 @@ At the start of combat, scry X where X is the number of creatures you control.
 4U, Transform Tired Planner, this costs {X} less where X is the number of cards you have scried this turn.
 ---
 (Back): Operations Strategist</text>
-      <related attach="transform">Operations Strategist</related>
+      <related attach="attach">Operations Strategist</related>
     </card>
     <card>
       <name>Operations Strategist</name>
       <set rarity="uncommon" splitterPath="/Operations Strategist.png" >ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost></manacost>
         <cmc>4</cmc>
         <type>Artifact Creature - Void Artificer </type>
@@ -3243,13 +3207,12 @@ At the start of combat, scry X where X is the number of creatures you control.
 Whenever this creature transforms into Operations Strategist, Paradigm 1 (Put one Charge Counter on this card. At the beginning of your upkeep, remove a charge counter from it. Then if it doesn’t have any charge counters, transform it.)
 ---
 (Front): Tired Planner</text>
-      <related attach="transform">Tired Planner</related>
     </card>
     <card>
       <name>Improvising Thopterist</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>5U</manacost>
         <cmc>6</cmc>
         <type>Creature - Human Artificer </type>
@@ -3264,7 +3227,7 @@ When Improvising Thopterist enters the battlefield or attacks, create a 1/1 colo
       <name>Fabricated Onnabudo</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
         <cmc>1</cmc>
         <type>Artifact Creature - Construct Samurai </type>
@@ -3278,7 +3241,7 @@ When Improvising Thopterist enters the battlefield or attacks, create a 1/1 colo
       <name>Gigant Cloud Punch</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -3292,7 +3255,7 @@ Return target creature to its owner’s hand. If this spell’s additional cost 
       <name>Spectral Dissolution</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -3305,7 +3268,7 @@ Return target creature to its owner’s hand. If this spell’s additional cost 
       <name>Electromagnetic Rampage</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>4UU</manacost>
         <cmc>6</cmc>
         <type>Instant</type>
@@ -3319,7 +3282,7 @@ Return all attacking creatures to their owner’s hand.</text>
       <name>Strobe Flash</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
         <cmc>1</cmc>
         <type>Instant</type>
@@ -3333,7 +3296,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Culmination of Studies</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
         <cmc>2</cmc>
         <type>Enchantment</type>
@@ -3347,7 +3310,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Teachings of the Silent</name>
       <set rarity="common">ONI</set>
       <prop>
-        <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
         <cmc>2</cmc>
         <type>Sorcery - Lesson </type>
@@ -3360,7 +3323,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Challenge the Unknown</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>UB</colors>
+        <color>UB</color>
         <manacost>XUB</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -3373,7 +3336,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <name>Dread in the Night</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>BR</colors>
+        <color>BR</color>
         <manacost>BR</manacost>
         <cmc>2</cmc>
         <type>Sorcery</type>
@@ -3384,9 +3347,9 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
     </card>
     <card>
       <name>Dragonflame Disciple</name>
-      <set rarity="common">ONI</set>
+      <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>BR</colors>
+        <color>BR</color>
         <manacost>2BR</manacost>
         <cmc>4</cmc>
         <type>Creature - Human Spirit Mercenary </type>
@@ -3399,9 +3362,9 @@ When Dragonflame Disciple attacks you may pay 1R, create a create a 5/5 red Drag
     </card>
     <card>
       <name>Shrine Celebrant </name>
-      <set rarity="common">ONI</set>
+      <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>WG</colors>
+        <color>WG</color>
         <manacost>1GW</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Monk </type>
@@ -3416,7 +3379,7 @@ Once each turn, you may cast an instant or sorcery spell from your hand with man
       <name>Moonlit Team</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>UB</colors>
+        <color>UB</color>
         <manacost>UB</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Ninja </type>
@@ -3431,7 +3394,7 @@ When Moonlit Team enters the battlefield or attacks, target creature gets -X/-0 
       <name>Hero of the Story</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>RG</colors>
+        <color>RG</color>
         <manacost>2RG</manacost>
         <cmc>4</cmc>
         <type>Creature - Human Student Warrior </type>
@@ -3446,7 +3409,7 @@ creatures you control have ward {X} where X is the number of lore counters among
       <name>Piloting Instructor</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>WU</colors>
+        <color>WU</color>
         <manacost>WU</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Pilot </type>
@@ -3461,7 +3424,7 @@ Piloting Instructor crews vehicles as though its power was 2 greater.</text>
       <name>Coordinated Partners</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>UBR</colors>
+        <color>UBR</color>
         <manacost>UBR</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Wizard Samurai </type>
@@ -3477,7 +3440,7 @@ Whenever one or more creatures you control attack, coordinated partners deals X 
       <name>Professor of Fortunetelling</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>WUG</colors>
+        <color>WUG</color>
         <manacost>1GWU</manacost>
         <cmc>4</cmc>
         <type>Creature - Human Wizard </type>
@@ -3491,9 +3454,9 @@ Whenever one or more creatures you control attack, coordinated partners deals X 
     </card>
     <card>
       <name>Taraikyo Playwright</name>
-      <set rarity="common">ONI</set>
+      <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>WRG</colors>
+        <color>WRG</color>
         <manacost>RGW</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Wizard </type>
@@ -3508,7 +3471,7 @@ Whenever Taraikyo Playwright deals combat damage to a player, you may return tar
       <name>Agent of Insurgency</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>BRG</colors>
+        <color>BRG</color>
         <manacost>2BRG</manacost>
         <cmc>5</cmc>
         <type>Creature - Demon Spirit Advisor </type>
@@ -3521,9 +3484,9 @@ Whenever one or more creatures you control die, each opponent must sacrifice a c
     </card>
     <card>
       <name>Conductor Mechanist</name>
-      <set rarity="common">ONI</set>
+      <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>WUB</colors>
+        <color>WUB</color>
         <manacost>WUB</manacost>
         <cmc>3</cmc>
         <type>Creature - Human Student Artificr </type>
@@ -3538,7 +3501,7 @@ Whenever one or more creatures you control die, each opponent must sacrifice a c
       <name>Pull of the Spirit Realm</name>
       <set rarity="uncommon">ONI</set>
       <prop>
-        <colors>WU</colors>
+        <color>WU</color>
         <manacost>WU</manacost>
         <cmc>2</cmc>
         <type>Instant</type>
@@ -3547,3 +3510,6 @@ Whenever one or more creatures you control die, each opponent must sacrifice a c
       <tablerow>3</tablerow>
       <text>Counter target spell unless its controller pays {3}, if they do, draw one card.</text>
     </card>
+
+  </cards>
+</cockatrice_carddatabase>

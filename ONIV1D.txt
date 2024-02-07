@@ -2074,7 +2074,7 @@
 	    },
 	    {
 	        "name": "Dragonflame Disciple",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}{R}",
 	        "type": "Creature — Human Spirit Mercenary ",
 	        "image_uris": {
@@ -2083,7 +2083,7 @@
 	    },
 	    {
 	        "name": "Shrine Celebrant",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
@@ -2137,7 +2137,7 @@
 	    },
 	    {
 	        "name": "Taraikyo Playwright",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{R}{G}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
@@ -2155,7 +2155,7 @@
 	    },
 	    {
 	        "name": "Conductor Mechanist",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{W}{U}{B}",
 	        "type": "Creature — Human Student Artificr ",
 	        "image_uris": {
@@ -2172,6 +2172,7 @@
 	        }
 	    }
 	]
+	[RareSlot(0)]
 	[UncommonSlot(4)]
 		50 Kenzai Braves the Forest
 		50 In the Kami's Footsteps
@@ -2246,12 +2247,16 @@
 		50 Culmination of Studies
 		50 Challenge the Unknown
 		50 Dread in the Night
+		50 Dragonflame Disciple
+		50 Shrine Celebrant
 		50 Moonlit Team
 		50 Hero of the Story
 		50 Piloting Instructor
 		50 Coordinated Partners
 		50 Professor of Fortunetelling
+		50 Taraikyo Playwright
 		50 Agent of Insurgency
+		50 Conductor Mechanist
 		50 Pull of the Spirit Realm
 	[CommonSlot(11)]
 		50 Customized Battle-Suit
@@ -2362,7 +2367,5 @@
 		50 Walk Among Spirits
 		50 Deal With Desperation
 		50 Teachings of the Silent
-		50 Dragonflame Disciple
-		50 Shrine Celebrant
-		50 Taraikyo Playwright
-		50 Conductor Mechanist
+	[BasicSlot(0)]
+	
