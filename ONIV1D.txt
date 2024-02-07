@@ -2238,7 +2238,7 @@
 		50 Intercessor Assistant
 		50 Tired Planner
 		50 Improvising Thopterist
-		50 Fabricated Onnabudo
+		50 Disciplinary Guard
 		50 Gigant Cloud Punch
 		50 Spectral Dissolution
 		50 Electromagnetic Rampage
@@ -2280,7 +2280,7 @@
 		50 Soul Spite
 		50 Lessons in Swordsmanship
 		50 Suit Assistant
-		50 Disciplinary Guard
+		50 Fabricated Onnabudo
 		50 Aspiring Novelist
 		50 Curious Creation
 		50 Spirit-Sword Monk
