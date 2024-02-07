@@ -2172,7 +2172,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
 	[UncommonSlot(4)]
 		50 Kenzai Braves the Forest
 		50 In the Kami's Footsteps
@@ -2366,6 +2365,4 @@
 		50 Hidanko Arena
 		50 Walk Among Spirits
 		50 Deal With Desperation
-		50 Teachings of the Silent
-	[BasicSlot(0)]
-	
+		50 Teachings of the Silent	
