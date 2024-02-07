@@ -2244,6 +2244,7 @@
 		50 Electromagnetic Rampage
 		50 Strobe Flash
 		50 Culmination of Studies
+		50 Teachings of the Silent	
 		50 Challenge the Unknown
 		50 Dread in the Night
 		50 Dragonflame Disciple
@@ -2365,4 +2366,3 @@
 		50 Hidanko Arena
 		50 Walk Among Spirits
 		50 Deal With Desperation
-		50 Teachings of the Silent	
