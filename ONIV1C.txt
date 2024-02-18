@@ -2172,7 +2172,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
 	[UncommonSlot(4)]
 		50 Kenzai Braves the Forest
 		50 Disciplinary Guard
@@ -2367,5 +2366,4 @@
 		50 Walk Among Spirits
 		50 Deal With Desperation
 		50 Fabricated Onnabudo
-	[BasicSlot(0)]
 	
