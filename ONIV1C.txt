@@ -2133,7 +2133,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
 	[UncommonSlot(4)]
 		50 Kenzai Braves the Forest
 		50 Disciplinary Guard
@@ -2329,5 +2328,3 @@
 		50 Seijuku Artificer
 		50 Disruption Protocol
 		50 Deep-Water Surveyor
-	[BasicSlot(0)]
-	
