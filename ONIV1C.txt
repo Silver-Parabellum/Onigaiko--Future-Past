@@ -236,19 +236,6 @@
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hidanko First-Year.png"
-	        },
-	        "printed names": {
-	            "en": "Hidanko First-Year"
-	        },
-	        "back": {
-	            "name": "Hidanko Arcanic Channeler",
-	            "printed_names": {
-	                "en": "Hidanko Arcanic Channeler"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hidanko Arcanic Channeler.png"
-	            },
-	            "type": "Creature — Void Wizard "
 	        }
 	    },
 	    {
@@ -1151,19 +1138,6 @@
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Indecisive First-Year.png"
-	        },
-	        "printed names": {
-	            "en": "Indecisive First-Year"
-	        },
-	        "back": {
-	            "name": "Hidanko Rescue Engineer",
-	            "printed_names": {
-	                "en": "Hidanko Rescue Engineer"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hidanko Rescue Engineer.png"
-	            },
-	            "type": "Creature — Void Artificer "
 	        }
 	    },
 	    {
@@ -1454,19 +1428,6 @@
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Regal Miko.png"
-	        },
-	        "printed names": {
-	            "en": "Regal Miko"
-	        },
-	        "back": {
-	            "name": "Dragon's Soul Caller",
-	            "printed_names": {
-	                "en": "Dragon's Soul Caller"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Dragon's Soul Caller.png"
-	            },
-	            "type": "Creature — Void Monk "
 	        }
 	    },
 	    {
@@ -1565,19 +1526,6 @@
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Stoker of Hearthflame.png"
-	        },
-	        "printed names": {
-	            "en": "Stoker of Hearthflame"
-	        },
-	        "back": {
-	            "name": "Hearthfire Scorcher",
-	            "printed_names": {
-	                "en": "Hearthfire Scorcher"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hearthfire Scorcher.png"
-	            },
-	            "type": "Creature — Void Wizard "
 	        }
 	    },
 	    {
@@ -1586,19 +1534,6 @@
 	        "type": "Creature — Spirit Monk ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Festival Celebrator.png"
-	        },
-	        "printed names": {
-	            "en": "Festival Celebrator"
-	        },
-	        "back": {
-	            "name": "Defender of Festivities",
-	            "printed_names": {
-	                "en": "Defender of Festivities"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Defender of Festivities.png"
-	            },
-	            "type": "Creature — Void Berserker "
 	        }
 	    },
 	    {
@@ -2138,19 +2073,6 @@
 	        "type": "Creature — Fox Spirit Student ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Soul-Channeling Kitsune.png"
-	        },
-	        "printed names": {
-	            "en": "Soul-Channeling Kitsune"
-	        },
-	        "back": {
-	            "name": "Oni-Harnessing Breaker",
-	            "printed_names": {
-	                "en": "Oni-Harnessing Breaker"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Oni-Harnessing Breaker.png"
-	            },
-	            "type": "Creature — Void Spirit Demon "
 	        }
 	    },
 	    {
@@ -2264,19 +2186,6 @@
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Tired Planner.png"
-	        },
-	        "printed names": {
-	            "en": "Tired Planner"
-	        },
-	        "back": {
-	            "name": "Operations Strategist",
-	            "printed_names": {
-	                "en": "Operations Strategist"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Operations Strategist.png"
-	            },
-	            "type": "Artifact Creature — Void Artificer "
 	        }
 	    },
 	    {
