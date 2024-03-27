@@ -1812,15 +1812,6 @@
 	        }
 	    },
 	    {
-	        "name": "Baiken, Samurai Slasher",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{1}{W}",
-	        "type": "Legendary Creature — Human Samurai ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Baiken, Samurai Slasher.png"
-	        }
-	    },
-	    {
 	        "name": "Spectral Dissolution",
 	        "rarity": "uncommon",
 	        "mana_cost": "{U}",
