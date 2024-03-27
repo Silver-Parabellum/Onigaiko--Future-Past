@@ -30,15 +30,6 @@
 	        }
 	    },
 	    {
-	        "name": "Thopter",
-	        "rarity": "special",
-	        "mana_cost": "",
-	        "type": "Token Artifact Creature — Thopter ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Thopter.png"
-	        }
-	    },
-	    {
 	        "name": "Seijuku Survey Drone",
 	        "rarity": "common",
 	        "mana_cost": "{3}",
@@ -96,15 +87,6 @@
 	        }
 	    },
 	    {
-	        "name": "Onigaiko: Future Past Archetypes — 3 color reminder",
-	        "rarity": "special",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Onigaiko: Future Past Archetypes — 3 color reminder.png"
-	        }
-	    },
-	    {
 	        "name": "Maneki, Mysterious Headmaster",
 	        "rarity": "rare",
 	        "mana_cost": "{5}",
@@ -120,15 +102,6 @@
 	        "type": "Legendary Creature — Human Student ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Inami, Art of Taraikyo.png"
-	        }
-	    },
-	    {
-	        "name": "two colour themes Onigaiko: Future Past",
-	        "rarity": "special",
-	        "mana_cost": "",
-	        "type": "",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/two colour themes Onigaiko: Future Past.png"
 	        }
 	    },
 	    {
@@ -1239,15 +1212,6 @@
 	        "type": "Land",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hidanko Arena.png"
-	        }
-	    },
-	    {
-	        "name": "Soldier",
-	        "rarity": "special",
-	        "mana_cost": "",
-	        "type": "Token Artifact Creature — Soldier ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Soldier.png"
 	        }
 	    },
 	    {
@@ -2805,33 +2769,6 @@
 	        }
 	    },
 	    {
-	        "name": "Urenkal, Void Anomaly",
-	        "rarity": "special",
-	        "mana_cost": "{5}",
-	        "type": "Legendary Planeswalker — Urenkal ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Urenkal, Void Anomaly.png"
-	        }
-	    },
-	    {
-	        "name": "Urenkal, Profane Deity",
-	        "rarity": "special",
-	        "mana_cost": "{2}{W}{U}{B}{R}{G}",
-	        "type": "Legendary Creature — Void God ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Urenkal, Profane Deity.png"
-	        }
-	    },
-	    {
-	        "name": "Void Fractal",
-	        "rarity": "special",
-	        "mana_cost": "",
-	        "type": "Token Creature — Void Fractal ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Void Fractal.png"
-	        }
-	    },
-	    {
 	        "name": "Automotized Lead",
 	        "rarity": "rare",
 	        "mana_cost": "{U}",
@@ -2847,15 +2784,6 @@
 	        "type": "Sorcery — Lesson ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Mandatory Beach Episode.png"
-	        }
-	    },
-	    {
-	        "name": "Death's Shadow",
-	        "rarity": "special",
-	        "mana_cost": "{B}",
-	        "type": "Creature — Avatar",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Death's Shadow.png"
 	        }
 	    },
 	    {
@@ -2982,15 +2910,6 @@
 	        "type": "land",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Tenkami Skyline.png"
-	        }
-	    },
-	    {
-	        "name": "Puppet",
-	        "rarity": "special",
-	        "mana_cost": "",
-	        "type": "Token Artifact Creature — Puppet ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Puppet.png"
 	        }
 	    },
 	    {
@@ -3210,30 +3129,12 @@
 	        }
 	    },
 	    {
-	        "name": "Spirit",
-	        "rarity": "special",
-	        "mana_cost": "",
-	        "type": "Token Creature — Spirit ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Spirit.png"
-	        }
-	    },
-	    {
 	        "name": "Darkbolt Helix",
 	        "rarity": "rare",
 	        "mana_cost": "{B}{R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Darkbolt Helix.png"
-	        }
-	    },
-	    {
-	        "name": "Wurm",
-	        "rarity": "special",
-	        "mana_cost": "",
-	        "type": "Token Artifact Creature — Wurm ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Wurm.png"
 	        }
 	    },
 	    {
