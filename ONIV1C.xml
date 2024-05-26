@@ -41,7 +41,7 @@ Transform Automotive Assistant.
         <type>Artifact - Vehicle </type>
       </prop>
       <tablerow>1</tablerow>
-      <text>Flying, Menace.
+      <text>Flying.
 Whenever Sonic Response Cycle deals combat damage to a player, you may add that much {U}, Until end of turn you don’t lose this mana as steps and phases end. 
 Crew 3
 ---
@@ -60,21 +60,6 @@ Crew 3
       <tablerow>1</tablerow>
       <text>Trample
 Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
-    </card>
-    <card>
-      <name>Seijuku Survey Drone</name>
-      <set rarity="common">ONI</set>
-      <prop>
-        <color></color>
-        <manacost>3</manacost>
-        <cmc>3</cmc>
-        <type>Artifact Creature - Drone </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-When Seijuku Survey Drone enters,  you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Fabricated Proxy</name>
@@ -120,8 +105,8 @@ When Seijuku Survey Drone enters,  you may search your library for a basic land 
 {1}, Discard Taraikyo Play Usher: Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
     </card>
     <card>
-      <name>Kenzai Braves the Forest</name>
-      <set rarity="uncommon" splitterPath="/Kenzai Braves the Forest.png" >ONI</set>
+      <name>Izuna Braves the Forest</name>
+      <set rarity="uncommon" splitterPath="/Izuna Braves the Forest.png" >ONI</set>
       <prop>
         <color>RG</color>
         <manacost>1RG</manacost>
@@ -132,7 +117,7 @@ When Seijuku Survey Drone enters,  you may search your library for a basic land 
       <tablerow>1</tablerow>
       <text>
 I — Create a 2/2 white samurai creature token with vigilance.
-II — search your library for a basic forest card, reveal it, put it into your hand, then shuffle.
+II — search your library for a land card, reveal it, put it into your hand, then shuffle.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): In the Presence of the Empress</text>
@@ -151,7 +136,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <text>Creature spells you cast can’t be countered.
 Creatures you control get +1/+1, haste and trample. 
 ---
-(Front): Kenzai Braves the Forest</text>
+(Front): Izuna Braves the Forest</text>
     </card>
     <card>
       <name>Maneki, Mysterious Headmaster</name>
@@ -183,7 +168,7 @@ Once each turn, you may cast a spell with mana value less than or equal to the n
       <tablerow>2</tablerow>
       <text>Lifelink, vigilance
 Whenever an enchantment enters under your control, you may draw a card, if you don’t, Retell.
-Whenever Inami, Art of Taraikyo deals combat damage to a player, you may create a token that’s a copy of an enchantment you control. Do this only once each turn.</text>
+Whenever the final chapter ability of a saga you control resolves, Inami deals damage equal to that saga’s mana value to any nonplayer target.</text>
     </card>
     <card>
       <name>Illusionism Student</name>
@@ -192,13 +177,13 @@ Whenever Inami, Art of Taraikyo deals combat damage to a player, you may create 
         <color>R</color>
         <manacost>1R</manacost>
         <cmc>2</cmc>
-        <type>Creature - Fox Student </type>
+        <type>Creature - Human Student </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Each other creature you control named Illusionism Student gets +1/+0.
+As long as you control another creature named Illusionism Student, this card gets +1/+0
 Whenever you cast a noncreature spell, you may create a token that’s a copy of Illusionism Student. Do this only once each turn.</text>
     </card>
     <card>
@@ -210,10 +195,11 @@ Whenever you cast a noncreature spell, you may create a token that’s a copy of
         <cmc>2</cmc>
         <type>Creature - Spirit Cat Rogue </type>
         <maintype>Creature</maintype>
-        <pt>1/3</pt>
+        <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>2B/G: Create a tapped 1/1 colorless spirit creature token.</text>
+      <text>Haste
+2B/G: Sacrifice another creature: You gain life equal to the sacrificed creature’s toughness. Draw a card. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Archery Club Member</name>
@@ -238,11 +224,11 @@ Whenever you cast a noncreature spell, you may create a token that’s a copy of
         <cmc>5</cmc>
         <type>Creature - Demon Spirit </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)</text>
+When Faceless Flame-Touched enters you may sacrifice another creature, if you do, it gets +2/+1 and haste until end of turn.</text>
     </card>
     <card>
       <name>Spirited Script-Writer</name>
@@ -283,7 +269,7 @@ Devour 1 (As this enters the battlefield, you may sacrifice any number of creatu
       </prop>
       <tablerow>3</tablerow>
       <text>This spell costs {2} less to cast if your opponent controls more creatures than you do.
-Limiter Burst deals 2 damage to any target and 1 damage to each creature target opponent controls.</text>
+Limiter Burst deals 3 damage to target creature and 1 damage to each other creature target opponent controls.</text>
     </card>
     <card>
       <name>A Tale of Three Samurai</name>
@@ -298,7 +284,7 @@ Limiter Burst deals 2 damage to any target and 1 damage to each creature target 
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create a 2/2 colorless Puppet artifact creature token
-II — Up to three target creatures you control get +2/+0 until end of turn.
+II — Up to three target creatures you control get +1/+0 until end of turn.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Imoe&apos;s Recollections</text>
@@ -314,7 +300,9 @@ III — Exile this Saga, then return it to the battlefield transformed under you
         <type>Enchantment</type>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the start of combat, target creature you control gets +2/+0 and haste until end of turn.
+      <text>At the beginning of combat on your turn, choose one — 
+• Target creature you control gets +1/+0 until end of turn. 
+• Target creature you control gets haste until end of turn.
 ---
 (Front): A Tale of Three Samurai</text>
     </card>
@@ -339,13 +327,12 @@ Draw two cards. </text>
         <color></color>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Artifact - Vehicle </type>
+        <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Flying
-Whenever Hardlight Jump-Pack attacks, target attacking creature you control gets flying until end of turn.
-Crew 1</text>
+      <text>Equipped creature has flying and gets +X/+X where X is the number of artifacts you control.
+Equip {3}</text>
     </card>
     <card>
       <name>Burning Discipline</name>
@@ -445,16 +432,16 @@ Equip Creature with a counter: {1}
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>U</color>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
         <type>Creature - Human Student </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
 When Disciplinary Guard enters, you may [return target instant or sorcery from your graveyard to your hand], then discard a card.
-Paradigm Shift 1UU (You may cast this as an instant spell with only the text in square brackets for 1UU)</text>
+Paradigm Shift 1U (You may cast this as an instant spell with only the text in square brackets for 1U)</text>
     </card>
     <card>
       <name>Aspiring Novelist</name>
@@ -469,7 +456,7 @@ Paradigm Shift 1UU (You may cast this as an instant spell with only the text in 
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-2R/G: Retell, activate only as a sorcery. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
+2R/G,{T}: Retell. Activate only as a sorcery. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
     </card>
     <card>
       <name>Spirit-Sword Monk</name>
@@ -510,7 +497,7 @@ Paradigm Shift 1W (You may cast this as an instant spell with only the text in s
         <cmc>4</cmc>
         <type>Creature - Human Student </type>
         <maintype>Creature</maintype>
-        <pt>3/1</pt>
+        <pt>4/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike
@@ -543,7 +530,7 @@ Paradigm Shift {W} (You may cast this as an instant spell with only the text in 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +1/+4  and hexproof until end of turn.
+      <text>Target creature gets +1/+4 and gains hexproof until end of turn.
 Learn (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
     <card>
@@ -551,14 +538,14 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <set rarity="common">ONI</set>
       <prop>
         <color>W</color>
-        <manacost>2WW</manacost>
+        <manacost>3W</manacost>
         <cmc>4</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one — 
-• Exile target attacking or blocking creature
+• Exile target attacking or blocking creature.
 • Exile target enchantment.</text>
     </card>
     <card>
@@ -572,8 +559,9 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Enchant nonland permanent
-Enchanted permanent can’t attack, block, or crew Vehicles. Its activated abilities can’t be activated unless they are mana abilities.</text>
+      <text>Binding Prank has flash as long as you control a spirit.
+enchant nonland permanent
+Enchanted permanent can’t attack, block, or crew Vehicles. Its activated abilities can’t be activated unless they’re mana abilities.</text>
     </card>
     <card>
       <name>Reminisce History</name>
@@ -587,7 +575,7 @@ Enchanted permanent can’t attack, block, or crew Vehicles. Its activated abili
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target creature you control, then return it to the battlefield under its owner’s control.
-Learn (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Slip on the Mask</name>
@@ -600,7 +588,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target Creature gets +1/+1 until end of turn. create a Mask Token attached to it (It’s a white Aura enchantment with enchant permanent and umbra armor.)</text>
+      <text>Target Creature gets +1/+1 and protection from the color of your choice until end of turn. (It can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn.)</text>
     </card>
     <card>
       <name>Wisdom of the Cranes</name>
@@ -614,8 +602,8 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Create a 2/2 colorless Puppet artifact creature token
-II — You may tap a creature you control: Create a 1/1 White bird spirit creature token with flying.
+I — Create a 2/2 colorless Puppet artifact creature token.
+II — Create a 1/1 White bird spirit creature token with flying.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Lord of the Cranes</text>
@@ -631,7 +619,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
         <type>Enchantment</type>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the start of combat on your turn, target creature you control gets flying and vigilance until end of turn.
+      <text>At the beginning of combat on your turn, target creature you control gets flying until end of turn.
 ---
 (Front): Wisdom of the Cranes</text>
     </card>
@@ -647,22 +635,22 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       </prop>
       <tablerow>3</tablerow>
       <text>
-Search your library for a saga card, reveal it, put it into your hand, then shuffle.</text>
+Search your library for a Saga card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Void-Charged Behemoth</name>
       <set rarity="common">ONI</set>
       <prop>
         <color>G</color>
-        <manacost>4G</manacost>
-        <cmc>5</cmc>
+        <manacost>6G</manacost>
+        <cmc>7</cmc>
         <type>Creature - Spirit Dragon </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>6/6</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, reach.
-Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)</text>
+Void-Charged Behemoth costs {2} less to cast if a creature died this turn.</text>
     </card>
     <card>
       <name>Studious Spirit</name>
@@ -673,10 +661,10 @@ Devour 2 (As this enters the battlefield, you may sacrifice any number of creatu
         <cmc>2</cmc>
         <type>Creature - Spirit Student </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Studious Spirit attacks, untap target creature or land. Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
+      <text>When Studious Spirit enters, you may put  a land card from your hand onto the battlefield tapped. If you don’t, Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
     </card>
     <card>
       <name>Biomancy Student</name>
@@ -690,22 +678,22 @@ Devour 2 (As this enters the battlefield, you may sacrifice any number of creatu
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ward {X}, where X is the number of lands you control. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {X}.)
-{T}: Add one mana of any color</text>
+      <text>{T}: Add one mana of any color
+When Biomancy Student is sacrificed, you may exile it, if you do: Return target card from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Monastery Trainee</name>
       <set rarity="common">ONI</set>
       <prop>
         <color>G</color>
-        <manacost>G</manacost>
-        <cmc>1</cmc>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
         <type>Creature - Human Monk Spirit </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1W/U: Monastery Trainee gets +X/+X until end of turn where X is the number of other spirits you control, activate only as a sorcery.</text>
+      <text>1W/U: Monastery Trainee gets +X/+X until end of turn where X is the number of other Spirits you control, activate only as a sorcery.</text>
     </card>
     <card>
       <name>Greater Toad Sage</name>
@@ -734,7 +722,7 @@ Other Spirits you control have trample.</text>
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Tenkami Forest Scout enters, create a Mask Token attached to another target permanent. (It’s a white Aura enchantment with enchant permanent and umbra armor.)</text>
+      <text>Whenever Tenkami Forest Scout enters, you may search your library for a forest, put it onto the battlefield tapped then shuffle.</text>
     </card>
     <card>
       <name>Tanuki Celebrant</name>
@@ -745,11 +733,11 @@ Other Spirits you control have trample.</text>
         <cmc>3</cmc>
         <type>Creature - Spirit Raccoon Rogue </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)</text>
+Whenever another creature you control dies, put a +1/+1 counter on Tanuki Celebrant.</text>
     </card>
     <card>
       <name>Hebika Assailant</name>
@@ -799,13 +787,13 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       <set rarity="common">ONI</set>
       <prop>
         <color>G</color>
-        <manacost>G</manacost>
-        <cmc>1</cmc>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +2/+2 and reach until end of turn.
+      <text>Target creature gets +2/+2 and trample until end of turn.
 Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
     <card>
@@ -876,7 +864,7 @@ Search your library for up to two basic land cards, put them onto the battlefiel
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create a 2/2 colorless Puppet artifact creature Token.
-II — put three +1/+1 counters on target creature you control.
+II — put two +1/+1 counters on target creature you control.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): The Fallen&apos;s Predation</text>
@@ -892,7 +880,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
         <type>Enchantment</type>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Creatures you control have trample.
+      <text>Creatures you control get +1/+1 and trample.
 ---
 (Front): Hidejo and the Forest&apos;s Call</text>
     </card>
@@ -934,22 +922,6 @@ Equip {1}
 (Front): Bladesmith Assistant</text>
     </card>
     <card>
-      <name>Channeler Adept</name>
-      <set rarity="common">ONI</set>
-      <prop>
-        <color>U</color>
-        <manacost>4U</manacost>
-        <cmc>5</cmc>
-        <type>Creature - Human Monk </type>
-        <maintype>Creature</maintype>
-        <pt>4/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Prowess
-Whenever Channeler Adept enters, you may [tap target creature and put a stun counter on it.]
-Paradigm Shift {U} (You may cast this as an instant spell with only the text in square brackets for {U})</text>
-    </card>
-    <card>
       <name>Denial Matrix</name>
       <set rarity="rare">ONI</set>
       <prop>
@@ -979,20 +951,6 @@ Counter target spell. Create X 1/1 colorless Thopter artifact creature tokens wi
 • Target creature has base power and toughness 5/5 until end of turn.</text>
     </card>
     <card>
-      <name>Stroll through Imagination</name>
-      <set rarity="common">ONI</set>
-      <prop>
-        <color>U</color>
-        <manacost>U</manacost>
-        <cmc>1</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Look at target player’s hand.
-Draw a card.</text>
-    </card>
-    <card>
       <name>Calculated Reconstruction</name>
       <set rarity="uncommon">ONI</set>
       <prop>
@@ -1011,13 +969,13 @@ Return target artifact with mana value X or less from your graveyard to the batt
       <set rarity="common">ONI</set>
       <prop>
         <color>U</color>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Scry 2. Draw one card.
+      <text>Draw two cards.
 Learn (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
     <card>
@@ -1059,7 +1017,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create a 2/2 colorless Puppet artifact creature Token.
 II — Draw a card, then discard a card.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -1141,27 +1099,27 @@ Equip {1}
         <cmc>5</cmc>
         <type>Creature - Spirit Horror </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Doomed Apparition dies, [create three tapped 1/1colorless Spirit creature tokens.]
-Paradigm Shift 3B (You may cast this as an instant spell with only the text in square brackets for 3B)</text>
+When Doomed Apparition dies, [create two tapped 1/1colorless Spirit creature tokens.]
+Paradigm Shift 2B (You may cast this as an instant spell with only the text in square brackets for 2B)</text>
     </card>
     <card>
       <name>Forest trickster</name>
       <set rarity="common">ONI</set>
       <prop>
         <color>B</color>
-        <manacost>2B</manacost>
-        <cmc>3</cmc>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
         <type>Creature - Demon Spirit </type>
         <maintype>Creature</maintype>
-        <pt>3/1</pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace 
-When Forest trickster dies, up to two target creatures get -1/-1 until end of turn.</text>
+When Forest trickster dies, up to one target creature gets -1/-1 until end of turn.</text>
     </card>
     <card>
       <name>Senzao Peak Scavenger</name>
@@ -1175,8 +1133,8 @@ When Forest trickster dies, up to two target creatures get -1/-1 until end of tu
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)
-When Senzao Peak Scavenger enters, target creature gets -1/-1 until end of turn for each creature that died this turn.</text>
+      <text>Deathtouch
+When Senzao Peak Scavenger enters, you may sacrifice another creature. When you do, destroy target creature.</text>
     </card>
     <card>
       <name>Fragment of Fury</name>
@@ -1203,7 +1161,7 @@ When Senzao Peak Scavenger enters, target creature gets -1/-1 until end of turn 
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create a 2/2 colorless Puppet artifact creature Token.
 II — The Shogun’s Downfall deals 3 damage to target opponent and you gain 3 life.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -1258,28 +1216,14 @@ Crew 1 (Tap any number of creatures you control with total power 1 or greater: T
       <set rarity="common">ONI</set>
       <prop>
         <color>B</color>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Until end of turn, target creature gains “When this creature dies, return it to the battlefield tapped under its owner’s control.”
 Learn (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
-    </card>
-    <card>
-      <name>Bloodsoaked Intent</name>
-      <set rarity="common">ONI</set>
-      <prop>
-        <color>B</color>
-        <manacost>1BB</manacost>
-        <cmc>3</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>This spell costs {1} less to cast if your opponent controls the creature with the highest power.
-Destroy target creature.</text>
     </card>
     <card>
       <name>Lessons in Natural Order</name>
@@ -1331,8 +1275,8 @@ Destroy target creature.</text>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put two +1/+1 counter on target creature. 
-Create a food token.</text>
+      <text>Put two +1/+1 counters on target creature. 
+You gain 3 life.</text>
     </card>
     <card>
       <name>Introduction to Combat</name>
@@ -1349,7 +1293,7 @@ Create a food token.</text>
     </card>
     <card>
       <name>Void-Fettered Monstrosity</name>
-      <set rarity="common" splitterPath="/Void-Fettered Monstrosity.png" >ONI</set>
+      <set rarity="common">ONI</set>
       <prop>
         <color>BRG</color>
         <manacost>2BRG</manacost>
@@ -1359,30 +1303,12 @@ Create a food token.</text>
         <pt>5/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature enters or transforms into Void-Fettered Monstrosity: Up to two target creatures an opponent controls can’t block until end of turn.
----
-(Back): Slumbers in the Ruin</text>
-      <related attach="attach">Slumbers in the Ruin</related>
-    </card>
-    <card>
-      <name>Slumbers in the Ruin</name>
-      <set rarity="common" splitterPath="/Slumbers in the Ruin.png" >ONI</set>
-      <prop>
-        <color></color>
-        <manacost>1</manacost>
-        <cmc>5</cmc>
-        <type>Enchantment - Aura </type>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant Land
-Enchanted Land has “{T}: Add {B}, {R}, or {G}”
-2BRG: Transform Slumbers in the Ruin.
----
-(Front): Void-Fettered Monstrosity</text>
+      <text>When Void-Fettered Monstrosity enters, Up to two target creatures an opponent controls can’t block until end of turn.
+{1}, Exile Void-Fettered Monstrosity from your hand: Target land gains “{T}: Add {B}, {R}, or {G}” until Void-Fettered Monstrosity is cast from exile. You may cast Void-Fettered Monstrositys for as long as it remains exiled.</text>
     </card>
     <card>
       <name>Hidanko Instructor</name>
-      <set rarity="common" splitterPath="/Hidanko Instructor.png" >ONI</set>
+      <set rarity="common">ONI</set>
       <prop>
         <color>UBR</color>
         <manacost>2UBR</manacost>
@@ -1392,30 +1318,12 @@ Enchanted Land has “{T}: Add {B}, {R}, or {G}”
         <pt>4/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature enters or transforms into Hidanko Instructor: Place a +1/+1 counter on target creature.
----
-(Back): Teachings of an Adversary</text>
-      <related attach="attach">Teachings of an Adversary</related>
-    </card>
-    <card>
-      <name>Teachings of an Adversary</name>
-      <set rarity="common" splitterPath="/Teachings of an Adversary.png" >ONI</set>
-      <prop>
-        <color></color>
-        <manacost>1</manacost>
-        <cmc>5</cmc>
-        <type>Enchantment - Aura </type>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant Land.
-Enchanted land has “{T}: Add {U}, {B}, or {R}”
-2UBR: Transform Teachings of an Adversary.
----
-(Front): Hidanko Instructor</text>
+      <text>When Hidanko Instructor enters, put a Prowess counter on target creature.
+{1}, Exile Hidanko Instructor from your hand: Target land gains “{T}: Add {U}, {B}, or {R}” until Hidanko Instructor is cast from exile. You may cast Hidanko Instructor for as long as it remains exiled.</text>
     </card>
     <card>
       <name>Venerable Baihu</name>
-      <set rarity="common" splitterPath="/Venerable Baihu.png" >ONI</set>
+      <set rarity="common">ONI</set>
       <prop>
         <color>WUG</color>
         <manacost>4GWU</manacost>
@@ -1425,30 +1333,12 @@ Enchanted land has “{T}: Add {U}, {B}, or {R}”
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying, Vigilance
----
-(Back): Path of Wisdom</text>
-      <related attach="attach">Path of Wisdom</related>
-    </card>
-    <card>
-      <name>Path of Wisdom</name>
-      <set rarity="common" splitterPath="/Path of Wisdom.png" >ONI</set>
-      <prop>
-        <color></color>
-        <manacost>1</manacost>
-        <cmc>7</cmc>
-        <type>Enchantment - Aura </type>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant Land.
-Enchanted land has “{T}: Add {G}, {W}, or {U}”
-4GWU: Transform Path of Wisdom.
----
-(Front): Venerable Baihu</text>
+      <text>Flying, Vigilance, Lifelink
+{1}, Exile Venerable Baihu from your hand: Target land gains “{T}: Add {G}, {W}, or {U}” until Venerable Baihu is cast from exile. You may cast Venerable Baihu for as long as it remains exiled.</text>
     </card>
     <card>
       <name>Taraikyo Showstopper</name>
-      <set rarity="common" splitterPath="/Taraikyo Showstopper.png" >ONI</set>
+      <set rarity="common">ONI</set>
       <prop>
         <color>WRG</color>
         <manacost>3RGW</manacost>
@@ -1458,30 +1348,12 @@ Enchanted land has “{T}: Add {G}, {W}, or {U}”
         <pt>4/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature enters or transforms into Taraikyo Showstopper: Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)
----
-(Back): Festival Opening Act</text>
-      <related attach="attach">Festival Opening Act</related>
-    </card>
-    <card>
-      <name>Festival Opening Act</name>
-      <set rarity="common" splitterPath="/Festival Opening Act.png" >ONI</set>
-      <prop>
-        <color></color>
-        <manacost>1</manacost>
-        <cmc>6</cmc>
-        <type>Enchantment - Aura </type>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant Land.
-Enchanted Land has “{T}: Add {R}, {G} or {W}”
-3RGW: Transform Festival Opening Act.
----
-(Front): Taraikyo Showstopper</text>
+      <text>When Taraikyo Showstopper enters, Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)
+{1}, Exile Taraikyo Showstopper from your hand: Target land gains “{T}: Add {R}, {G}, or {W}” until Taraikyo Showstopper is cast from exile. You may cast Taraikyo Showstopper for as long as it remains exiled.</text>
     </card>
     <card>
       <name>Seijuku Field Mechanic</name>
-      <set rarity="common" splitterPath="/Seijuku Field Mechanic.png" >ONI</set>
+      <set rarity="common">ONI</set>
       <prop>
         <color>WUB</color>
         <manacost>3WUB</manacost>
@@ -1491,26 +1363,8 @@ Enchanted Land has “{T}: Add {R}, {G} or {W}”
         <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature enters or transforms into Seijuku Field Mechanic: You may tap target nonland permanent and put a stun counter on it.
----
-(Back): Ley-Charged Fabricator Array</text>
-      <related attach="attach">Ley-Charged Fabricator Array</related>
-    </card>
-    <card>
-      <name>Ley-Charged Fabricator Array</name>
-      <set rarity="common" splitterPath="/Ley-Charged Fabricator Array.png" >ONI</set>
-      <prop>
-        <color></color>
-        <manacost>1</manacost>
-        <cmc>6</cmc>
-        <type>Enchantment - Aura </type>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant Land.
-Enchanted land has “{T}: Add {W}, {U}, or {B}”
-3WUB: Transform Ley-Charged Fabricator Array
----
-(Front): Seijuku Field Mechanic</text>
+      <text>When Seijuku Field Mechanic enters, You may tap target nonland permanent and put a stun counter on it.
+{1}, Exile Seijuku Field Mechanic from your hand: Target land gains “{T}: Add {W}, {U}, or {B}” until Seijuku Field Mechanic is cast from exile. You may cast Seijuku Field Mechanic for as long as it remains exiled.</text>
     </card>
     <card>
       <name>Excited Innovator</name>
@@ -1524,7 +1378,7 @@ Enchanted land has “{T}: Add {W}, {U}, or {B}”
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Excited Innovator attacks, you may tap an untapped artifact you control. Create a 1/1 colorless Thopter artifact creature token with flying. It enters tapped and attacking, sacrifice it at the beginning of your end step.</text>
+      <text>Whenever Excited Innovator becomes tapped, create a 1/1 colorless Thopter artifact creature token with flying. </text>
     </card>
     <card>
       <name>Theatric Virtuoso</name>
@@ -1553,8 +1407,7 @@ Paradigm Shift {W} (You may cast this as an instant spell with only the text in 
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Mischief Makers enters, you may discard a card, if you do, draw a card. Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)
-RG: Sacrifice Mischief Makers. It deals X damage to target creature or planeswalker, where X is the number of lore counters among permanents you control.</text>
+      <text>When Mischief Makers enters, you may discard a card, if you do, draw a card. Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
     </card>
     <card>
       <name>Swordsmanship Teacher</name>
@@ -1577,11 +1430,11 @@ Paradigm Shift UB (You may cast this as an instant spell with only the text in s
       <set rarity="common">ONI</set>
       <prop>
         <color>BR</color>
-        <manacost>BR</manacost>
-        <cmc>2</cmc>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
         <type>Creature - Demon Spirit </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you sacrifice another creature, put a +1/+1 counter on Ruthless Devourer
@@ -1611,12 +1464,11 @@ BR: Sacrifice another creature: Ruthless devourer gains first strike until end o
         <cmc>2</cmc>
         <type>Artifact Creature - Human Rogue </type>
         <maintype>Creature</maintype>
-        <pt>1/2</pt>
+        <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Haste
-{T}: Untap another target artifact you control.
-{2},{T}: Another target artifact you control gains indestructible until end of turn.</text>
+      <text>{T}: Untap another target artifact you control.
+{2},{T}: Another target artifact you control gains hexproof and can’t be blocked until end of turn.</text>
     </card>
     <card>
       <name>Azami, Duelist of Tradition</name>
@@ -1665,10 +1517,9 @@ At the beginning of your upkeep, if Azami’s Dai Benkei is not a creature: Tran
       </prop>
       <tablerow>2</tablerow>
       <text>Sagas you control have ward {3}
-At the beginning of your upkeep, choose one that hasn’t been chosen — 
+When Urako, Studious Miko enters, choose one
 • Draw a card, then Urako deals 2 damage to any target.
-• Retell, Retell.
-• Exile target creature you control, then return it to the battlefield under its owner’s control.</text>
+• Retell, Retell.</text>
     </card>
     <card>
       <name>Sae, the Inspired</name>
@@ -1749,7 +1600,7 @@ Whenever you sacrifice another creature, put a +1/+1 counter on Omukade, Void Fe
       <text>Upgradeable (Upgrade as a sorcery to activate that effect)
 When Planar Assistant enters, you may search your library for an assistant card, put it into your hand then shuffle
 {6} In Progress 
-create X 1/1 colorless Thopter artifact creature tokens with flying, where X is the greatest mana value among artifacts you control, until the end of your next turn, spells you cast and abilities you activate have improvise.
+create X 1/1 colorless Thopter artifact creature tokens with flying, where X is the greatest mana value among artifacts you control, until the end of your next turn, spells you cast and abilities of other permanents you control have improvise, This effect can’t reduce the mana in that cost to less than one mana..
 {9} Completed
 Transform Planar Assistant.
 ---
@@ -1797,25 +1648,25 @@ Sacrifice Thundering Sealmaster: Choose an exiled card an opponent owns with a s
         <cmc>1</cmc>
         <type>Artifact Creature - Cyborg Cat Bard </type>
         <maintype>Creature</maintype>
-        <pt>0/1</pt>
+        <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever one or more counters are placed on another permanent you control: You may put a +1/+1 counter on Shining Star Aspirant.
-At the end of combat, if Shining Star Aspirant attacked, remove all counters from it.</text>
+      <text>Lifelink
+Whenever one or more counters are placed on another noncreature permanent you control, You may put a +1/+1 counter on Shining Star Aspirant.</text>
     </card>
     <card>
       <name>Stage Adversary</name>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>B</color>
-        <manacost>1BB</manacost>
-        <cmc>3</cmc>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
         <type>Artifact Creature - Cyborg Student </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Stage Adversary enters or dies, [target creature gets -2/-2 until end of turn.]
+      <text>When Stage Adversary enters or dies, you may have [target creature get -2/-2 until end of turn.]
 Paradigm Shift {B} (You may cast this as an instant spell with only the text in square brackets for {B})</text>
     </card>
     <card>
@@ -1845,7 +1696,7 @@ Crew 2</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever Reclusive Historian attacks, place a +1/+1 counter on target creature, Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
+When Reclusive Historian enters, you may place a +1/+1 counter on target creature. Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
     </card>
     <card>
       <name>Taraikyo Theater Disciplinary</name>
@@ -1859,7 +1710,8 @@ Whenever Reclusive Historian attacks, place a +1/+1 counter on target creature, 
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever one or more +1/+1 counters are put on another creature you control, you may gain 1 life, then put a +1/+1 counter on Taraikyo Theater Disciplinary.</text>
+      <text>Trample
+Whenever one or more counters are put on another permanent you control for the first time each turn, you gain 1 life, then put a +1/+1 counter on Taraikyo Theater Disciplinary.</text>
     </card>
     <card>
       <name>Edge of Negation</name>
@@ -1898,9 +1750,9 @@ Whenever Reclusive Historian attacks, place a +1/+1 counter on target creature, 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Tenkami Academy Grounds enters tapped unless you control a double-faced permanent.
-As Tenkami Academy Grounds enters the battlefield, choose a color.
-{T}: Add one mana of the chosen color.</text>
+      <text>As Tenkami Academy Grounds enters the battlefield, Scry 1.
+{T}: Add {C}
+{4},{T}, Sacrifice Tenkami Academy Grounds: Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Seijuku Alleyways</name>
@@ -1994,23 +1846,9 @@ Paradigm Shift 1R (You may cast this as an instant spell with only the text in s
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Haste
+      <text>Haste, menace
 Whenever Eager Blitzer attacks, exile the top card of your library face down. (You can’t look at it.)
-If Eager Blitzer inflicts damage to an opponent, you may sacrifice it and discard your hand: Put all cards exiled with Eager Blitzer into their owners’ hands.</text>
-    </card>
-    <card>
-      <name>Blood after the Storm</name>
-      <set rarity="uncommon">ONI</set>
-      <prop>
-        <color>B</color>
-        <manacost>XBB</manacost>
-        <cmc>2</cmc>
-        <type>Enchantment</type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>When Blood after the Storm enters, Creatures get -X/-X until end of turn. If a creature dies, creatures get -1/-1 until end of turn.
-At the beginning of the end step, sacrifice Blood after the Storm.</text>
+When Eager Blitzer deals damage to an opponent,, you may sacrifice it and discard your hand: Put all cards exiled with Eager Blitzer into their owners’ hands.</text>
     </card>
     <card>
       <name>Rampaging Wurmcoil</name>
@@ -2029,20 +1867,6 @@ Improvise (Your artifacts can help cast this spell. Each artifact you tap after 
 When Rampaging Wurmcoil dies, create two 6/6 colorless wurm artifact creature tokens with lifelink and deathtouch.</text>
     </card>
     <card>
-      <name>Colossus Hammer</name>
-      <set rarity="uncommon">ONI</set>
-      <prop>
-        <color></color>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
-        <type>Artifact - Equipment </type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Equipped creature gets +10/+10 and loses flying.
-Equip {8} ({8}: Attach to target creature you control. Equip only as a sorcery.)</text>
-    </card>
-    <card>
       <name>Roadride Speeder</name>
       <set rarity="uncommon">ONI</set>
       <prop>
@@ -2054,7 +1878,7 @@ Equip {8} ({8}: Attach to target creature you control. Equip only as a sorcery.)
       </prop>
       <tablerow>1</tablerow>
       <text>Menace
-Whenever Roadride Speeder attacks or blocks, you may draw a card. If you do, discard a card.
+Whenever Roadride Speeder attacks, you may draw a card. If you do, discard a card.
 Crew 1</text>
     </card>
     <card>
@@ -2096,8 +1920,8 @@ Crew 1</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Up to one target creature gets +2/+2 and is treated as a Monk in addition to its other types as long as you control Burden of the Firebird
-II — Target creature you control with power higher than it’s original power deals damage equal to its power to every other creature.
+I — Up to one target creature gets +1/+1 and is treated as a Monk in addition to its other types as long as you control Burden of the Firebird
+II — Target creature you control with power greater than it’s original power deals damage equal to its power to every other creature.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Phoenixian Ascension</text>
@@ -2113,9 +1937,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
         <type>Enchantment</type>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of combat on your turn, target creature you control gains “until end of turn, if this creature dies, you may have target opponent choose one —
-• This creature inflicts damage equal to its power to any target”
-• Return this creature to the battlefield tapped under its owner’s control”
+      <text>At the beginning of combat on your turn, target creature you control gains “until end of turn, if this creature dies, it inflicts damage equal to its power to any target”
 ---
 (Front): Burden of the Firebird</text>
     </card>
@@ -2231,7 +2053,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
       </prop>
       <tablerow>1</tablerow>
       <text>Upgradeable (Upgrade as a sorcery to activate that effect)
-Whenever one or more creatures you control attack, you may create a 1/1 colorless thopter artifact creature token with flying 
+Whenever you attack, create a 1/1 colorless Thopter artifact creature token with flying 
 {1}{W} In Progress
 Target creature gets +1/+1 for each creature you control until end of turn.
 {1}{W} Completed
@@ -2251,7 +2073,6 @@ Transform Seraphic Assistant
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature gets +1/+0 for each creature you control, flying and vigilance.
-Whenever a player is dealt damage by a creature equipped with Shining Seraph Rig, they may pay {X} where X is the damage dealt, otherwise you draw one card.
 Equip 1W
 ---
 (Front): Seraphic Assistant</text>
@@ -2268,10 +2089,10 @@ Equip 1W
       </prop>
       <tablerow>1</tablerow>
       <text>Upgradeable (Upgrade as a sorcery to activate that effect)
-If a creature would go to the graveyard, exile it instead.
-{W} Level 2
-Exile Target tapped creature.
-{1}{W} Level 3
+If a creature card would be put into a graveyard from anywhere, exile it instead.
+{W} In Progress
+Exile target tapped creature.
+{1}{W} Completed
 Transform Spatial Assistant.
 ---
 (Back): Low-Orbit Defense Unit</text>
@@ -2287,9 +2108,9 @@ Transform Spatial Assistant.
         <type>Artifact - Vehicle </type>
       </prop>
       <tablerow>1</tablerow>
-      <text>Flying, First strike.
-When Low-Orbit Defense Unit attacks, you may create a token copy of target exiled creature.
-Crew 3.
+      <text>Flying, first strike
+Whenever Low-Orbit Defense Unit attacks, create a token that’s a copy of target creature card in exile.
+Crew 3
 ---
 (Front): Spatial Assistant</text>
     </card>
@@ -2319,7 +2140,7 @@ This spell costs {1} less to cast for each enchantment you control.</text>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return up to one target creature and or enchantment with mana value 3 or less from your graveyard to the battlefield.
+      <text>Return up to one target artifact or enchantment with mana value 3 or less from your graveyard to the battlefield.
 Learn (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
     <card>
@@ -2334,8 +2155,8 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       </prop>
       <tablerow>1</tablerow>
       <text>
-I — Create a 2/2 white samurai token with vigilance.
-II — If a creature you control attacks this turn, it can’t be blocked by creatures with greater power.
+I — Create a 2/2 white Samurai token with vigilance.
+II — Whenever a creature you control attacks this turn, it can’t be blocked by creatures with greater power.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
 (Back): Last March of the Honored</text>
@@ -2351,14 +2172,13 @@ III — Exile this Saga, then return it to the battlefield transformed under you
         <type>Enchantment</type>
       </prop>
       <tablerow>1</tablerow>
-      <text>Untapped creatures you control get +2/+0.
-Tapped creatures you control get +0/+2.
+      <text>Creatures you control get +1/+1.
 ---
 (Front): Honor-Bound Conscription</text>
     </card>
     <card>
-      <name>Rampage of Inari</name>
-      <set rarity="uncommon" splitterPath="/Rampage of Inari.png" >ONI</set>
+      <name>Rampage of Inari (Remove)</name>
+      <set rarity="uncommon" splitterPath="/Rampage of Inari (Remove).png" >ONI</set>
       <prop>
         <color>W</color>
         <manacost>4W</manacost>
@@ -2368,7 +2188,7 @@ Tapped creatures you control get +0/+2.
       </prop>
       <tablerow>1</tablerow>
       <text>
-I — Target creature you control has base power and toughness 5/5 as long as you control Rampage of Inari.
+I — Target creature you control has base power and toughness 5/5 as long as you control Rampage of Inari (Remove).
 II — Exile target artifact or enchantment with mana value less than or equal to the highest power among creatures you control.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
@@ -2389,7 +2209,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
  • Target creature has base power and toughness 5/5 until end of turn
  • Target creature has base power and toughness 1/1 until end of turn
 ---
-(Front): Rampage of Inari</text>
+(Front): Rampage of Inari (Remove)</text>
     </card>
     <card>
       <name>Understand the Abstract</name>
@@ -2402,21 +2222,22 @@ III — Exile this Saga, then return it to the battlefield transformed under you
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Tap target creature, another target creature gets +X/+X until end of turn where X is the tapped creature’s power.</text>
+      <text>Tap target creature. Another target creature gets +X/+X until end of turn where X is the tapped creature’s power.</text>
     </card>
     <card>
       <name>Senzao Shrine Guard</name>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>G</color>
-        <manacost>G</manacost>
-        <cmc>1</cmc>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
         <type>Creature - Snake Human Monk </type>
         <maintype>Creature</maintype>
-        <pt>0/2</pt>
+        <pt>0/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>{T}: Add one mana of any color. Spend this mana only to cast a Spirit spell or activate an ability of a Spirit source.</text>
+      <text>When Senzao Shrine Guard enters, look at the top three cards of your library, you may put a spirit card from among them into your hand, and the rest on the bottom of your library in any order.
+{T}: Add two mana in any combination of colors, spend this mana only to cast a creature spell.</text>
     </card>
     <card>
       <name>Imaginative Scroll-Painter</name>
@@ -2427,11 +2248,11 @@ III — Exile this Saga, then return it to the battlefield transformed under you
         <cmc>3</cmc>
         <type>Creature - Human Student </type>
         <maintype>Creature</maintype>
-        <pt>3/4</pt>
+        <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>{T}: Target creature you control gets +X/+X where X is the highest mana value among creatures or enchantments you control.
-Channel — {G}, Discard Imaginative Scroll-Painter, Retell. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
+      <text>{T}: Target creature you control gets +X/+X until end of turn where X is the highest mana value among creatures or enchantments you control.
+{G}, Exile Imaginative Scroll-Painter from your graveyard: Retell (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
     </card>
     <card>
       <name>Insectile Abomination</name>
@@ -2442,11 +2263,12 @@ Channel — {G}, Discard Imaginative Scroll-Painter, Retell. (To retell, remove 
         <cmc>5</cmc>
         <type>Creature - Insect Spirit Horror </type>
         <maintype>Creature</maintype>
-        <pt>0/0</pt>
+        <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, ward {2}
-Devour 5 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with five times that many +1/+1 counters on it.)</text>
+Insectile Abomination can’t be blocked by more than one creature.
+2G, Sacrifice a creature: Return Insectile Abomination from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Campus Security</name>
@@ -2479,21 +2301,6 @@ Campus Security enters with two +1/+1 counters on it for each color of mana spen
 Whenever you cast your second spell each turn, if it’s a spirit, you may return Entranced Seeker from your graveyard to the battlefield tapped.</text>
     </card>
     <card>
-      <name>Stage-Tag Team</name>
-      <set rarity="uncommon">ONI</set>
-      <prop>
-        <color>G</color>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Human Spirit Student </type>
-        <maintype>Creature</maintype>
-        <pt>0/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample.
-Stage-Tag Team gets +X/+X where X is the number of counters among permanents you control.</text>
-    </card>
-    <card>
       <name>Walk Among Spirits</name>
       <set rarity="common">ONI</set>
       <prop>
@@ -2512,8 +2319,8 @@ Search your library for a basic land card, put it onto the battlefield tapped, t
       <set rarity="uncommon" splitterPath="/Whispers of Orochi.png" >ONI</set>
       <prop>
         <color>G</color>
-        <manacost>2GG</manacost>
-        <cmc>4</cmc>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
         <type>Enchantment - Saga </type>
         <maintype>Enchantment</maintype>
       </prop>
@@ -2532,12 +2339,12 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <prop>
         <color>G</color>
         <manacost></manacost>
-        <cmc>4</cmc>
+        <cmc>3</cmc>
         <type>Enchantment</type>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your end step, create a 1/1 green Snake creature token with deathtouch.
-Non-token creatures you control get +2/+2 as long as you control a token.
+      <text>At the beginning of your end step, create a 1/1 green Snake creature token.
+as long as you control five or more tokens, creatures you control have deathtouch.
 ---
 (Front): Whispers of Orochi</text>
     </card>
@@ -2566,7 +2373,8 @@ Non-token creatures you control get +2/+2 as long as you control a token.
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return up to two cards with different types from your graveyard to your hand.</text>
+      <text>Return up to two cards with different types from your graveyard to your hand.
+Exile Renewed Blessings.</text>
     </card>
     <card>
       <name>Sharing of Joy</name>
@@ -2587,8 +2395,8 @@ Creatures you control have trample. </text>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>G</color>
-        <manacost>XXG</manacost>
-        <cmc>1</cmc>
+        <manacost>XXGG</manacost>
+        <cmc>2</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
@@ -2645,8 +2453,8 @@ Whenever you discard one or more cards, draw a card.</text>
       <set rarity="uncommon" splitterPath="/Berserker Assistant.png" >ONI</set>
       <prop>
         <color>B</color>
-        <manacost>B</manacost>
-        <cmc>1</cmc>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
         <type>Artifact - Assistant </type>
         <maintype>Artifact</maintype>
       </prop>
@@ -2667,7 +2475,7 @@ Transform Berserker Assistant.
       <prop>
         <color>B</color>
         <manacost></manacost>
-        <cmc>1</cmc>
+        <cmc>2</cmc>
         <type>Artifact - Equipment </type>
       </prop>
       <tablerow>1</tablerow>
@@ -2675,22 +2483,6 @@ Transform Berserker Assistant.
 Equip: Pay 3 Life.
 ---
 (Front): Berserker Assistant</text>
-    </card>
-    <card>
-      <name>Vengeful Manifestation</name>
-      <set rarity="uncommon">ONI</set>
-      <prop>
-        <color>B</color>
-        <manacost>5BB</manacost>
-        <cmc>7</cmc>
-        <type>Creature - Spirit Horror </type>
-        <maintype>Creature</maintype>
-        <pt>7/7</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>This spell costs {1} less to cast for each creature that died this turn.
-When Vengeful Manifestation enters, [creatures your opponents control get -1/-1 until end of turn.]
-Paradigm Shift 2B (You may cast this as an instant spell with only the text in square brackets for 2B)</text>
     </card>
     <card>
       <name>See the Unimaginable</name>
@@ -2704,19 +2496,6 @@ Paradigm Shift 2B (You may cast this as an instant spell with only the text in s
       </prop>
       <tablerow>3</tablerow>
       <text>Put target creature card from a graveyard onto the battlefield under your control. Sacrifice it at the beginning of the end step.</text>
-    </card>
-    <card>
-      <name>Lay Down Arms</name>
-      <set rarity="uncommon">ONI</set>
-      <prop>
-        <color>B</color>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Destroy target creature or planeswalker, its controller creates a treasure token.</text>
     </card>
     <card>
       <name>Glimpse into the Void</name>
@@ -2776,12 +2555,12 @@ Equip 1U
         <cmc>6</cmc>
         <type>Legendary Planeswalker - Ai </type>
         <maintype>Planeswalker</maintype>
-      <loyalty>5</loyalty>
+      <loyalty>4</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>[+2]:  Target player discards two cards, for each creature card discarded this way you create a 2/2 colorless Soldier artifact creature token.
+      <text>[+1]: Target player discards two cards, for each creature card you discarded this way, create a 2/2 colorless Soldier artifact creature token.
 [-3]: [Target opponent sacrifices two creatures]
-[-10]: Each opponent sacrifices six permanents, loses six life and discards six cards. you gain 6 life and may put up to six permanents from any graveyard onto the battlefield under your control.
+[-7]: Each opponent sacrifices six permanents, loses six life and discards six cards. you gain 6 life and may put up to six permanents from any graveyard onto the battlefield under your control.
 Paradigm Shift 3B</text>
     </card>
     <card>
@@ -2826,8 +2605,8 @@ Crew 3
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>U</color>
-        <manacost>2UU</manacost>
-        <cmc>4</cmc>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
         <type>Creature - Human Artificer </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
@@ -2837,7 +2616,7 @@ Crew 3
 2U, Tap two untapped artifacts you control: Create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.”</text>
     </card>
     <card>
-      <name>Improvising Thopterist</name>
+      <name>Improvising Hacker</name>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>U</color>
@@ -2845,19 +2624,19 @@ Crew 3
         <cmc>6</cmc>
         <type>Artifact Creature - Cyborg Artificer </type>
         <maintype>Creature</maintype>
-        <pt>5/4</pt>
+        <pt>5/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Improvise  (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
-When Improvising Thopterist enters or attacks, create a 1/1 colorless thopter creature token with flying.</text>
+When Improvising Hacker enters or attacks, create two 1/1 colorless thopter creature tokens with flying.</text>
     </card>
     <card>
       <name>Fabricated Onnabudo</name>
       <set rarity="common">ONI</set>
       <prop>
         <color>W</color>
-        <manacost>W</manacost>
-        <cmc>1</cmc>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
         <type>Artifact Creature - Construct Samurai </type>
         <maintype>Creature</maintype>
         <pt>0/0</pt>
@@ -2900,11 +2679,11 @@ Return target creature to its owner’s hand. If this spell’s additional cost 
         <color>U</color>
         <manacost>XXUU</manacost>
         <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Tap all creatures your opponent controls then put X stun counters on each tapped creature your opponent controls.</text>
+      <text>Tap all creatures your opponent controls then put X stun counters on each tapped creature your opponent controls, X can’t be 0.</text>
     </card>
     <card>
       <name>Strobe Flash</name>
@@ -2947,17 +2726,17 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
       <text>Surveil 3, then return a card from your graveyard to your hand with mana value X or less. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
     </card>
     <card>
-      <name>Dread in the Night</name>
+      <name>Darkbolt Helix</name>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>BR</color>
-        <manacost>BR</manacost>
-        <cmc>2</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put target creature card from a graveyard onto the battlefield under your control. It deals damage equal to its power to target creature you control.</text>
+      <text>Darkbolt Helix deals 3 damage to any target. If excess damage was dealt this way, Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
     </card>
     <card>
       <name>Dragonflame Disciple</name>
@@ -2998,26 +2777,26 @@ Once each turn, you may cast a spirit spell from your hand with mana value less 
         <cmc>4</cmc>
         <type>Creature - Human Ninja </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Moonlit Team enters or attacks, [target creature gets -X/-X until end of turn, where X is the number of creatures you control.]
+      <text>When Moonlit Team enters or attacks, [Target creature gets -2/-0 until end of turn]
 Paradigm Shift {U/B} (You may cast this as an instant spell with only the text in square brackets for {U/B})</text>
     </card>
     <card>
-      <name>Hero of the Story</name>
+      <name>Unbridled Expressionist</name>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>RG</color>
         <manacost>2RG</manacost>
         <cmc>4</cmc>
-        <type>Creature - Human Student Warrior </type>
+        <type>Creature - Human Student Rogue </type>
         <maintype>Creature</maintype>
-        <pt>5/4</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>First strike, Trample
-creatures you control have ward {X} where X is the number of lore counters among sagas you control. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {X}.)</text>
+      <text>Double strike
+Whenever Unbridled Expressionist deals combat damage to a player you may Retell, if you don’t, put a +1/+1 counter on another target creature you control. (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
     </card>
     <card>
       <name>Piloting Instructor</name>
@@ -3031,7 +2810,7 @@ creatures you control have ward {X} where X is the number of lore counters among
         <pt>1/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>While Piloting Instructor is tapped, Artifact creatures you control get +1+1.
+      <text>While Piloting Instructor is tapped, other Artifact creatures you control get +1+1.
 Piloting Instructor crews vehicles as though its power was 2 greater.</text>
     </card>
     <card>
@@ -3047,8 +2826,8 @@ Piloting Instructor crews vehicles as though its power was 2 greater.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste, Prowess
-Whenever Coordinated Partners attacks, you may [return target card with Paradigm Shift from your graveyard to your hand]
-Paradigm Shift 1U (You may cast this as an instant spell with only the text in square brackets for 1U)</text>
+Whenever Coordinated Partners attacks, you may [put target card with Paradigm Shift from your graveyard into the bottom of your library, draw a card.]
+Paradigm Shift {U} (You may cast this as an instant spell with only the text in square brackets for {U})</text>
     </card>
     <card>
       <name>Professor of Fortunetelling</name>
@@ -3082,18 +2861,18 @@ Paradigm Shift 1U (You may cast this as an instant spell with only the text in s
 Whenever Taraikyo Playwright deals combat damage to a player, you may retell, (To retell, remove one lore counter from a saga you control, or transform a transformed enchantment you control.)</text>
     </card>
     <card>
-      <name>Agent of Insurgency</name>
+      <name>Hellraisers Bruiser</name>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>BRG</color>
         <manacost>2BRG</manacost>
         <cmc>5</cmc>
-        <type>Creature - Demon Spirit Advisor </type>
+        <type>Creature - Demon Spirit Berserker </type>
         <maintype>Creature</maintype>
-        <pt>6/4</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Menace, Lifelink
+      <text>Menace.
 Whenever one or more creatures you control die, [each opponent sacrifices a creature.]
 Paradigm Shift 1B (You may cast this as an instant spell with only the text in square brackets for 1B)</text>
     </card>
@@ -3127,7 +2906,7 @@ Paradigm Shift 1B (You may cast this as an instant spell with only the text in s
     </card>
     <card>
       <name>Owari, Dreaming Idol</name>
-      <set rarity="mythic">ONI</set>
+      <set rarity="rare">ONI</set>
       <prop>
         <color>W</color>
         <manacost>2W</manacost>
@@ -3138,8 +2917,8 @@ Paradigm Shift 1B (You may cast this as an instant spell with only the text in s
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-You cannot cast spells with mana value 3 or greater.
-whenever you cast a spell with mana value 2 or lower, you may copy that spell, you may choose new targets for the copy. Do this only once each turn.</text>
+You can’t cast spells with mana value 3 or greater.
+Whenever you cast a spell with mana value 2 or less, you may copy that spell. If you do, you may choose new targets. Do this only once each turn. (A copy of a permanent becomes a token)</text>
     </card>
     <card>
       <name>Haiden of Life&apos;s Might</name>
@@ -3152,8 +2931,9 @@ whenever you cast a spell with mana value 2 or lower, you may copy that spell, y
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>({T}, Add {G})
-5GGG: Transform Haiden of Life’s Might.
+      <text>As Haiden of Life’s Might  enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {G}
+5GGG,{T}: Transform Haiden of Life’s Might.
 ---
 (Back): Kami-Born of Life&apos;s Might</text>
       <related attach="attach">Kami-Born of Life&apos;s Might</related>
@@ -3210,13 +2990,13 @@ Paradigm Shift 1R</text>
       <set rarity="rare">ONI</set>
       <prop>
         <color>G</color>
-        <manacost>4G</manacost>
-        <cmc>5</cmc>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return all land cards from your graveyard to the battlefield tapped. Create an X/X spirit dragon creature token, where X is the number of differently named lands you control.</text>
+      <text>Return all land cards from your graveyard to the battlefield tapped. Create an X/X Dragon elemental creature token with flying, where X is the number of differently named lands you control.</text>
     </card>
     <card>
       <name>Swamp</name>
@@ -3284,54 +3064,19 @@ Paradigm Shift 1R</text>
       <text></text>
     </card>
     <card>
-      <name>In Solemn Silence</name>
+      <name>Hellraiser Sukeban</name>
       <set rarity="rare">ONI</set>
-      <prop>
-        <color>WU</color>
-        <manacost>1WU</manacost>
-        <cmc>3</cmc>
-        <type>Enchantment - Aura </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Flash
-When In Solemn Silence enters, exile target attacking or blocking creature, if you do, create a token copy of that creature and place a sealing counter on it. When In Solemn Silence leaves the battlefield, sacrifice a creature you control with a silence counter on it.</text>
-    </card>
-    <card>
-      <name>NAME </name>
-      <set rarity="rare" splitterPath="/NAME .png" >ONI</set>
       <prop>
         <color>BR</color>
         <manacost>1BR</manacost>
         <cmc>3</cmc>
-        <type>Creature - Human Rogue </type>
+        <type>Creature - Human Rogue Student </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the beginning of each player’s upkeep, the next time they would draw a card this turn, you may instead have them exile the top card of their library. They may play it this turn.
-5RB: Transform NAME , this costs {1} less to activate for each exiled card.
----
-(Back): NAME, Madness Sparked</text>
-      <related attach="attach">NAME, Madness Sparked</related>
-    </card>
-    <card>
-      <name>NAME, Madness Sparked</name>
-      <set rarity="rare" splitterPath="/NAME, Madness Sparked.png" >ONI</set>
-      <prop>
-        <color>BR</color>
-        <manacost></manacost>
-        <cmc>3</cmc>
-        <type>Legendary Planeswalker - NAME </type>
-        <loyalty>6</loyalty>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>You may spend mana as though it were mana of any color to cast spells from exile.
-[+2]: Exile the top three cards of target player’s library, you may play them this turn.
-[-2]: Exile target creature or planeswalker, until end of turn, you may cast that card.
-[-8]: Exile the top thirteen cards of target player’s library, you may cast any number of spells from among cards exiled this way without paying their mana costs.
----
-(Front): NAME </text>
+      <text>Menace, Ward—discard a card.
+At the beginning of each player’s upkeep, the next time they would draw a card this turn, you may instead have them exile the top card of their library. They may play it this turn.</text>
     </card>
     <card>
       <name>Urenkal, Void Anomaly</name>
@@ -3377,7 +3122,7 @@ When In Solemn Silence enters, exile target attacking or blocking creature, if y
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Tengu Galerider enters, create a Mask token attached to another target Spirit you control. (It’s a white Aura enchantment with enchant permanent and umbra armor.)</text>
+When Tengu Galerider enters, put a +1/+1 counter on another target creature you control. If it’s a spirit, it gains lifelink until end of turn.</text>
     </card>
     <card>
       <name>Charming Scamp</name>
@@ -3420,7 +3165,7 @@ Whenever Renegade Prototype attacks, you may sacrifice another artifact or creat
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 until end of turn for each spirit you control.</text>
+      <text>Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 until end of turn for each creature that died this turn.</text>
     </card>
     <card>
       <name>Augmented Breaker</name>
@@ -3449,7 +3194,7 @@ Augmented Breaker costs {1} less to cast for each artifact card in your graveyar
         <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>3W/B: Exile Seijuku Artificer from your graveyard, create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.” </text>
+      <text>3W/B: Exile Seijuku Artificer from your graveyard, create a tapped 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.” </text>
     </card>
     <card>
       <name>Disruption Protocol</name>
@@ -3493,7 +3238,7 @@ Paradigm Shift {U} (You may cast this as an instant spell with only the text in 
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, Prowess.
-Whenever Izanami, Hidanko Dean enters or you cast an instant spell: You may exile target spell you own or card with paradigm shift in your graveyard, then return it to the battlefield under your control. This ability triggers only once each turn.</text>
+Whenever Izanami, Hidanko Dean enters or you cast an instant spell: You may exile target spell you own or card with paradigm shift in your graveyard, then create a token that’s a copy of it. This ability triggers only once each turn.</text>
     </card>
     <card>
       <name>Norio, Taraikyo Dean</name>
@@ -3556,7 +3301,7 @@ Whenever Yumiko, Reality Archifex attacks, you may cast an artifact spell with m
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever one or more non-Spirit creatures you control attack, look at the top five cards of your library. You may put a Spirit creature card from among them onto the battlefield. Create a Mask Token attached to it. Put the rest of the cards on the bottom of your library in a random order.</text>
+      <text>Whenever a non-Spirit creature you control attacks, look at the top five cards of your library. You may put a Spirit creature card from among them onto the battlefield. Create a Mask Token attached to it. Put the rest of the cards on the bottom of your library in a random order.</text>
     </card>
     <card>
       <name>Hishoki, Apex Nightmare</name>
@@ -3590,21 +3335,6 @@ When Hishoki, Apex Nightmare enters, you may put target creature from a graveyar
 When Master-Crafted Idol enters, you may have each artifact you control become an artifact creature with base power and toughness X/X until end of turn.</text>
     </card>
     <card>
-      <name>Monastery Swiftspear</name>
-      <set rarity="uncommon">ONI</set>
-      <prop>
-        <color>R</color>
-        <manacost>R</manacost>
-        <cmc>1</cmc>
-        <type>Creature - Human Monk </type>
-        <maintype>Creature</maintype>
-        <pt>1/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Haste
-Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-    </card>
-    <card>
       <name>Haiden of Cryptic Winds</name>
       <set rarity="mythic" splitterPath="/Haiden of Cryptic Winds.png" >ONI</set>
       <prop>
@@ -3615,8 +3345,9 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>({T}, Add {U})
-5UUU: Transform Haiden of Cryptic Winds
+      <text>As Haiden of Cryptic Winds  enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {U}
+5UUU,{T}: Transform Haiden of Cryptic Winds
 ---
 (Back): Kami-Born of Cryptic Winds</text>
       <related attach="attach">Kami-Born of Cryptic Winds</related>
@@ -3648,8 +3379,9 @@ Remove an indestructible counter from Kami-Born of Cryptic Winds: Exile target n
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>({T}, Add {B})
-5BBB: Transform Haiden of Night’s Betrayal.
+      <text>As Haiden of Night’s Betrayal enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {B}
+5BBB,{T}: Transform Haiden of Night’s Betrayal.
 ---
 (Back): Kami-Born of Night&apos;s Betrayal</text>
       <related attach="attach">Kami-Born of Night&apos;s Betrayal</related>
@@ -3681,8 +3413,9 @@ Remove an indestructible counter from Kami-Born of Night’s Betrayal: Put all c
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>({T}, Add {R})
-5RRR: Transform Haiden of Infinite Blades.
+      <text>As Haiden of Infinite Blades  enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {R}
+5RRR,{T}: Transform Haiden of Infinite Blades.
 ---
 (Back): Kami-Born of Infinite Blades</text>
       <related attach="attach">Kami-Born of Infinite Blades</related>
@@ -3714,8 +3447,9 @@ Remove an indestructible counter from Kami-Born of Infinite Blades: Create X 2/1
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>({T}, Add {W})
-5WWW: Transform Haiden of Cleansing Dawn
+      <text>As Haiden of Cleansing Dawn  enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {W}
+5WWW,{T}: Transform Haiden of Cleansing Dawn
 ---
 (Back): Kami-Born of Cleansing Dawn</text>
       <related attach="attach">Kami-Born of Cleansing Dawn</related>
@@ -3732,7 +3466,7 @@ Remove an indestructible counter from Kami-Born of Infinite Blades: Create X 2/1
       </prop>
       <tablerow>2</tablerow>
       <text>As this permanent transforms into Kami-Born of Cleansing Dawn, put an indestructible counter on it.
-Remove an indestructible counter from Kami-Born of Cleansing Dawn: Exile all nonland permanents your opponent controls and all cards in their graveyard. 
+Remove an indestructible counter from Kami-Born of Cleansing Dawn: Tap all permanents your opponent controls, they don’t untap during their next untap step. 
 ---
 (Front): Haiden of Cleansing Dawn</text>
     </card>
@@ -3748,7 +3482,7 @@ Remove an indestructible counter from Kami-Born of Cleansing Dawn: Exile all non
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Investigator of Timelines enters, if it entered from exile or was cast from exile: Transform it.
+      <text>If Investigator of Timelines would be cast from exile, it enters transformed.
 3UU: Exile Investigator of Timelines with four time counters on it, it gains suspend. Take an extra turn after this one. Activate only as a sorcery.
 ---
 (Back): Serafhin, Sundered Paradox</text>
@@ -3774,7 +3508,7 @@ Remove an indestructible counter from Kami-Born of Cleansing Dawn: Exile all non
     </card>
     <card>
       <name>Nekaru, Volatile Mentor</name>
-      <set rarity="mythic" splitterPath="/Nekaru, Volatile Mentor.png" >ONI</set>
+      <set rarity="rare" splitterPath="/Nekaru, Volatile Mentor.png" >ONI</set>
       <prop>
         <color>R</color>
         <manacost>4RR</manacost>
@@ -3784,9 +3518,9 @@ Remove an indestructible counter from Kami-Born of Cleansing Dawn: Exile all non
       <loyalty>4</loyalty>
       </prop>
       <tablerow>3</tablerow>
-      <text>When Nekaru, Volatile Mentor leaves the battlefield you may exile it, if you do, you may cast it transformed without paying their mana cost until the end of your next turn.
-[+2]:  add RR, if this mana is spent to cast a red spell, that spell can’t be countered.
-[0]:  Create a 3/3 red cat elemental creature token with menace. 
+      <text>When Nekaru, Volatile Mentor leaves the battlefield you may exile then, if you do, you may cast them transformed without paying their mana cost as long as they remained in exile.
+[+2]:  add RRR, if this mana is spent to cast a red spell, that spell can’t be countered.
+[0]:  Create a 3/3 red bird elemental creature token with menace. 
 [-8]: You get an emblem with “Whenever you cast an instant or sorcery spell, copy it twice, you may choose new targets for the copies”
 ---
 (Back): Nekaru&apos;s Wild Ride</text>
@@ -3794,7 +3528,7 @@ Remove an indestructible counter from Kami-Born of Cleansing Dawn: Exile all non
     </card>
     <card>
       <name>Nekaru&apos;s Wild Ride</name>
-      <set rarity="mythic" splitterPath="/Nekaru's Wild Ride.png" >ONI</set>
+      <set rarity="rare" splitterPath="/Nekaru's Wild Ride.png" >ONI</set>
       <prop>
         <color>R</color>
         <manacost></manacost>
@@ -3839,11 +3573,11 @@ When Tardy Vampire enters, look at target opponent’s hand. You may exile a non
       <set rarity="common">ONI</set>
       <prop>
         <color>B</color>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
         <type>Creature - Human Rogue </type>
         <maintype>Creature</maintype>
-        <pt>3/1</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When Spiritual Dealers enters, [destroy target creature that was dealt damage this turn.]
@@ -3892,7 +3626,7 @@ Paradigm Shift 1G</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, Ward {3}
-Whenever Ryujin of Swirling Mist enters or attacks, you may [return target creature to its owner’s hand,] then surveil 2.
+Whenever Ryujin of Swirling Mist enters or attacks, you may [return target creature to its owner’s hand], then surveil 2.
 Paradigm Shift {U}</text>
     </card>
     <card>
@@ -3923,7 +3657,7 @@ Paradigm Shift 1R</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Flying, vigilance
-Whenever Ryujin of Otherworldly Light enters or attacks, [create two 1/1 white Spirit Samurai creature tokens,] then put a +1/+1 counter on each creature you control.
+Whenever Ryujin of Otherworldly Light enters or attacks, [create two 1/1 white Spirit Samurai creature tokens], then put a +1/+1 counter on each creature you control.
 Paradigm Shift 2W</text>
     </card>
     <card>
@@ -3944,7 +3678,7 @@ Paradigm Shift 4B</text>
     </card>
     <card>
       <name>Pawn of Aeons Torn</name>
-      <set rarity="rare" splitterPath="/Pawn of Aeons Torn.png" >ONI</set>
+      <set rarity="rare">ONI</set>
       <prop>
         <color>UB</color>
         <manacost>4UB</manacost>
@@ -3955,29 +3689,7 @@ Paradigm Shift 4B</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, menace
-Whenever Pawn of Aeons Torn enters or attacks,  you may look at that player’s hand. If you do, you may cast a spell from among those cards without paying its mana cost.
-When Pawn of Aeons Torn dies, you may exile it, it gains “2UU/RB: Cast this card from exile transformed, without paying it’s mana cost” for as long as it reamins exiled.
----
-(Back): Kazumi, Redeemed Storm</text>
-      <related attach="attach">Kazumi, Redeemed Storm</related>
-    </card>
-    <card>
-      <name>Kazumi, Redeemed Storm</name>
-      <set rarity="rare" splitterPath="/Kazumi, Redeemed Storm.png" >ONI</set>
-      <prop>
-        <color>UBR</color>
-        <manacost></manacost>
-        <cmc>6</cmc>
-        <type>Legendary Planeswalker - Kazumi </type>
-        <loyalty>5</loyalty>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Whenever you cast a noncreature spell, put a loyalty counter on Kazumi, Redeemed Storm.
-[+1]: Draw three cards, then discard two cards unless you discard a noncreature spell.
-[-2]: Exile a noncreature spell from your graveyard: Copy it, you may cast that copy without paying it’s mana cost.
-[-12]: Draw seven cards, You get an emblem with “You may cast noncreature spells from your hand without paying their mana costs” and “you have no maximum hand size”
----
-(Front): Pawn of Aeons Torn</text>
+Whenever Pawn of Aeons Torn enters or attacks, you may look at target player’s hand. If you do, you may cast a spell from among those cards without paying its mana cost.</text>
     </card>
     <card>
       <name>Security Conductor</name>
@@ -4022,17 +3734,18 @@ When Urenkal, Profane Deity enters, reveal the top ten cards of your library. Fo
       <text>{T}, Pay 1 life: Add one mana of any color.</text>
     </card>
     <card>
-      <name>Chromatic Salvo</name>
-      <set rarity="mythic">ONI</set>
+      <name>Unrelenting Salvo</name>
+      <set rarity="rare">ONI</set>
       <prop>
         <color>R</color>
-        <manacost>XRR</manacost>
-        <cmc>2</cmc>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Chromatic Salvo deals X damage to each creature and planeswalker. You create a number of tapped treasure tokens equal to the number of colors of mana spent to cast this spell.</text>
+      <text>Unrelenting Salvo deals X damage to any target.
+If you control a legendary creature or planeswalker, you may cast Unrelenting Salvo from your graveyard, but exile it as it resolves.</text>
     </card>
     <card>
       <name>Void Rend</name>
@@ -4085,11 +3798,12 @@ Crew 2</text>
         <cmc>6</cmc>
         <type>Legendary Creature - Spirit Noble </type>
         <maintype>Creature</maintype>
-        <pt>0/0</pt>
+        <pt>7/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample, ward {3}
-Devour X, where X is the number of creatures devoured this way (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with X times that many +1/+1 counters on it.)</text>
+      <text>Trample, ward— Sacrifice a creature.
+When Lord of Hebika Forest declares an attack, defending player sacrifices a creature.
+Whenever a player sacrifices a nontoken creature, create an X/X black Snake horror creature token, where X is the power of that creature.</text>
     </card>
     <card>
       <name>Shinju, Venerated Bushi</name>
@@ -4123,23 +3837,6 @@ Whenever you attack, for each opponent, create a 1/1 colorless spirit creature t
 Highrise Thrillseeker cannot be blocked as long as you control another spirit.</text>
     </card>
     <card>
-      <name>Kairumi, Reality Diver</name>
-      <set rarity="rare">ONI</set>
-      <prop>
-        <color>U</color>
-        <manacost>2UU</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Planeswalker - Kairumi </type>
-        <maintype>Planeswalker</maintype>
-      <loyalty>4</loyalty>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>[+2]: Up to two Target creatures get -X/-0 until your next turn, where X is the number of cards in your hand
-[0]: Draw two cards, then discard a card.
-[-3]: [Create an X/X Blue Shark elemental token, where X is the number of cards in your hand.]
-Paradigm Shift 2U (You may cast this as an instant spell with only the text in square brackets for 2U)</text>
-    </card>
-    <card>
       <name>Seijuku Ascendancy</name>
       <set rarity="rare">ONI</set>
       <prop>
@@ -4151,7 +3848,7 @@ Paradigm Shift 2U (You may cast this as an instant spell with only the text in s
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever one or more nontoken artifacts you control become tapped, create a 1/1 colorless thopter artifact creature token with flying.
-Whenever an artifact creature you control attacks, it gets +1/+1 for each tapped artifact you control until end of turn.</text>
+Whenever you attack, you may have target artifact creature get +1/+1 for each tapped artifact you control until end of turn.</text>
     </card>
     <card>
       <name>Taraikyo Ascendancy</name>
@@ -4179,7 +3876,7 @@ Sacrifice three enchantments: Exile target nonland permanent.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast a noncreature spell, creatures you control get +1/+0 and menace until end of turn.
-Whenever one or more creatures you control attack, you may return target nonland permanent to its owners hand.</text>
+Whenever one or more creatures you control attack, you may discard a card, if you do: Return target nonland permanent to its owners hand.</text>
     </card>
     <card>
       <name>Senzao Ascendancy</name>
@@ -4192,8 +3889,8 @@ Whenever one or more creatures you control attack, you may return target nonland
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature enters the battlefield under your control, if it shares a creature type with another creature you control, create a mask token attached to it. (It’s a white Aura enchantment with enchant permanent and umbra armor.)
-Enchanted creatures you control get +1/+1.</text>
+      <text>Whenever a creature enters the battlefield under your control, if it shares a creature type with another creature you control, put a +1/+1 counter on it.
+Modified creatures you control have lifelink. (Equipment, Auras you control, and counters are modifications.)</text>
     </card>
     <card>
       <name>Hebika Ascendancy</name>
@@ -4237,25 +3934,25 @@ Sacrifice Hebika Ascendancy, the creature you control with the greatest power ga
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one — 
-• Destroy all tapped creatures
-• Destroy all untapped creatures</text>
+• Destroy all tapped creatures.
+• Destroy all untapped creatures.</text>
     </card>
     <card>
       <name>Michiko, the Eternal</name>
-      <set rarity="rare">ONI</set>
+      <set rarity="mythic">ONI</set>
       <prop>
         <color>G</color>
-        <manacost>3GG</manacost>
-        <cmc>5</cmc>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
         <type>Legendary Planeswalker - Michiko </type>
         <maintype>Planeswalker</maintype>
-      <loyalty>4</loyalty>
+      <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>[+1]:  Put a +1/+1 counter on [target creature you control], it [fights another target creature]
+      <text>[+2]: [Mill three cards, then you may return a creature card from your graveyard to your hand.]
 [-2]: Sacrifice a creature, then reveal cards from the top of your library until you reveal a creature card with higher mana value. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
 [-X]: Creatures you control get +X/+X and gain trample until end of turn.
-Paradigm Shift G (You may cast this as an instant spell with only the text in square brackets for G)</text>
+Paradigm Shift 1G</text>
     </card>
     <card>
       <name>Beckon the Fools</name>
@@ -4275,7 +3972,7 @@ Paradigm Shift G (You may cast this as an instant spell with only the text in sq
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>U</color>
-        <manacost>X1U</manacost>
+        <manacost>XUU</manacost>
         <cmc>2</cmc>
         <type>Creature - Spirit Rogue </type>
         <maintype>Creature</maintype>
@@ -4286,22 +3983,6 @@ Paradigm Shift G (You may cast this as an instant spell with only the text in sq
 When Leyline Temptress enters gain control of target creature with lesser power for as long as you control Leyline Temptress.</text>
     </card>
     <card>
-      <name>Tenkami Proctor</name>
-      <set rarity="rare">ONI</set>
-      <prop>
-        <color>W</color>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Knight </type>
-        <maintype>Creature</maintype>
-        <pt>2/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flash
-You have hexproof.
-Sacrifice Tenkami Proctor: Target permanent you control gains hexproof until end of turn.</text>
-    </card>
-    <card>
       <name>Ryu-Blessed Fireblade</name>
       <set rarity="rare">ONI</set>
       <prop>
@@ -4310,12 +3991,12 @@ Sacrifice Tenkami Proctor: Target permanent you control gains hexproof until end
         <cmc>2</cmc>
         <type>Creature - Human Samurai </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash 
 Prowess
-When Ryu-Blessed Fireblade enters and whenever you cast a noncreature spell, Ryu-Blessed Fireblade deals 1 damage to any target.</text>
+When Ryu-Blessed Fireblade enters and whenever you cast a noncreature spell, Ryu-Blessed Fireblade deals 1 damage to any noncreature target.</text>
     </card>
     <card>
       <name>Festival Entertainer</name>
@@ -4342,10 +4023,11 @@ Paradigm Shift 1R (You may cast this as an instant spell with only the text in s
         <cmc>2</cmc>
         <type>Creature - Human Student </type>
         <maintype>Creature</maintype>
-        <pt>0/4</pt>
+        <pt>0/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Indecisive First-Year enters: [scry 1, then draw a card]
+      <text>Defender
+When Indecisive First-Year enters: scry 1, then [draw a card]
 Paradigm Shift {U} (You may cast this as an instant spell with only the text in square brackets for {U})</text>
     </card>
     <card>
@@ -4372,7 +4054,7 @@ Paradigm Shift 1R (You may cast this as an instant spell with only the text in s
         <cmc>1</cmc>
         <type>Creature - Human Monk </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess
@@ -4407,7 +4089,7 @@ When Soul-Channeling Kitsune enters: Learn. (You may reveal a Lesson card you ow
       <tablerow>2</tablerow>
       <text>Prowess
 When Stadium Underdog enters, create a 1/1 colorless thopter artifact creature token with flying.
-Whenever Stadium Underdog’s power is increased, other artifact creatures you control get +1/+0 until end of turn.</text>
+Whenever Stadium Underdog’s power is increased, token artifact creatures you control get +1/+0 until end of turn.</text>
     </card>
     <card>
       <name>Sakura-Tail Blademaster</name>
@@ -4422,21 +4104,6 @@ Whenever Stadium Underdog’s power is increased, other artifact creatures you c
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, lifelink, haste</text>
-    </card>
-    <card>
-      <name>Living Firewall</name>
-      <set rarity="rare">ONI</set>
-      <prop>
-        <color>WUB</color>
-        <manacost>WUB</manacost>
-        <cmc>3</cmc>
-        <type>Artifact Creature - Construct </type>
-        <maintype>Creature</maintype>
-        <pt>3/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flash
-When Living Firewall enters, you may take control of target spell with mana value less than or equal to the number of artifacts you control. You may choose new targets for it.</text>
     </card>
     <card>
       <name>Canopy Ambusher</name>
@@ -4488,20 +4155,20 @@ Whenever Night-Dread Orochi enters or attacks, choose one —
 • Destroy target noncreature, nonbasic permanent.</text>
     </card>
     <card>
-      <name>Jun, Artificed Telepath</name>
-      <set rarity="rare">ONI</set>
+      <name>Jun, Infiltrator Telepath</name>
+      <set rarity="mythic">ONI</set>
       <prop>
         <color>W</color>
         <manacost>2WW</manacost>
         <cmc>4</cmc>
         <type>Legendary Planeswalker - Jun </type>
         <maintype>Planeswalker</maintype>
-      <loyalty>3</loyalty>
+      <loyalty>5</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>[+2]: [Until end of turn, whenever your opponent casts a spell or activates an ability targeting you or a permanent you control, counter it unless they pay 2]
-[-1]:  create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.”
-[-8]: Search your library for an artifact card and put it onto the battlefield under your control.
+      <text>[+1]: [Until end of turn, whenever your opponent casts a spell or activates an ability targeting you or a permanent you control, counter it unless they pay 2]
+[-2]:  Choose a nonland card type, target opponent gets an emblem with “Spells you cast of the chosen type cost 1 more to cast”
+[-8]: You get an emblem with “Whenever an opponent taps a permanent, it doesn’t untap during their next untap step.”
 Paradigm Shift W (You may cast this as an instant spell with only the text in square brackets for W)</text>
     </card>
     <card>
@@ -4640,8 +4307,8 @@ Whenever Tenkami Archery Tutor deals combat damage to a player or planeswalker y
         <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Vigilance
-Whenever a source deals damage to Embodiment of Hebika, create that many 3/3 elemental spirit creature tokens.</text>
+      <text>Trample
+Whenever damage is dealt to Embodiment of Hebika, create that many 3/3 elemental spirit creature tokens.</text>
     </card>
     <card>
       <name>The Void of Nightmares </name>
@@ -4656,21 +4323,7 @@ Whenever a source deals damage to Embodiment of Hebika, create that many 3/3 ele
       <tablerow>0</tablerow>
       <text>The Void of Nightmares  enters the battlefield tapped.
 {T}: Add {B}, {R}, or {G}.
-Channel — {3}, Discard The Void of Nightmares : Add BRG.</text>
-    </card>
-    <card>
-      <name>Chronoform Gateway</name>
-      <set rarity="mythic">ONI</set>
-      <prop>
-        <color>U</color>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Creatures you control cannot be blocked by creatures with greater power.
-At the beginning of your end step, you may sacrifice Chronoform Gateway, draw X cards, where X is the number of creatures you control that dealt combat damage to a player or planeswalker this turn.</text>
+{3}, Discard The Void of Nightmares : Add BRG.</text>
     </card>
     <card>
       <name>Miyakawa Cityscape</name>
@@ -4685,7 +4338,7 @@ At the beginning of your end step, you may sacrifice Chronoform Gateway, draw X 
       <tablerow>0</tablerow>
       <text>Miyakawa Cityscape enters the battlefield tapped.
 {T}: Add {G},{W} or {U}
-Channel — {3}, Discard Miyakawa Cityscape: Add GWU</text>
+{3}, Discard Miyakawa Cityscape: Add GWU</text>
     </card>
     <card>
       <name>All-Terrain Response Unit</name>
@@ -4698,7 +4351,7 @@ Channel — {3}, Discard Miyakawa Cityscape: Add GWU</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever All-Terrain Response Unit becomes crewed, creatures you control that share a type with a creature that crewed All-Terrain Response Unit get +1/+1 until end of turn.
+      <text>Whenever All-Terrain Response Unit becomes crewed for the first time each turn, creatures you control that share a type with a creature that crewed All-Terrain Response Unit get +1/+1 until end of turn.
 Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
     </card>
     <card>
@@ -4714,7 +4367,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or greater: T
       <tablerow>0</tablerow>
       <text>Domain of Meditation enters the battlefield tapped.
 {T}: Add {U}, {B}, or {R}.
-Channel — {3}, Discard Domain of Meditation: Add UBR</text>
+{3}, Discard Domain of Meditation: Add UBR</text>
     </card>
     <card>
       <name>Taraikyo Exhibition Halls</name>
@@ -4729,7 +4382,7 @@ Channel — {3}, Discard Domain of Meditation: Add UBR</text>
       <tablerow>0</tablerow>
       <text>Taraikyo Exhibition Halls enters the battlefield tapped.
 {T}: Add {R}, {G}, or {W}.
-Channel — {3}, Discard Taraikyo Exhibition Halls: Add RGW.</text>
+{3}, Discard Taraikyo Exhibition Halls: Add RGW.</text>
     </card>
     <card>
       <name>Tenkami Skyline</name>
@@ -4744,7 +4397,7 @@ Channel — {3}, Discard Taraikyo Exhibition Halls: Add RGW.</text>
       <tablerow>1</tablerow>
       <text>Tenkami Skyline enters the battlefield tapped.
 {T}: Add {W}, {U}, or {B}.
-Channel — {3}, Discard Tenkami Skyline: Add WUB.</text>
+{3}, Discard Tenkami Skyline: Add WUB.</text>
     </card>
     <card>
       <name>Marked Territory</name>
@@ -4789,7 +4442,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
         <type>Enchantment</type>
       </prop>
       <tablerow>1</tablerow>
-      <text>at the beginning of combat on your turn, put a +1/+1 counter on target creature you control, it gains  vigilance until end of turn.
+      <text>At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. It gains  vigilance until end of turn.
 ---
 (Front): The Stars Awaited</text>
     </card>
@@ -4804,7 +4457,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Exile target nonland permanent an opponent controls.
 II — Search your library for a God or Legendary Land card, add it to your hand, then shuffle.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -4828,49 +4481,12 @@ Each creature you control has vigilance if it’s white, hexproof if it’s blue
 (Front): The Planar Visitors</text>
     </card>
     <card>
-      <name>Reflection of Inner Self</name>
-      <set rarity="rare" splitterPath="/Reflection of Inner Self.png" >ONI</set>
-      <prop>
-        <color>WB</color>
-        <manacost>1WB</manacost>
-        <cmc>3</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Exile target nonland permanent.  You lose life equal to that permanent’s mana value.
-When you cast Reflection of Inner Self, if you both own and control a creature named Mizuho-Battle tested, exile it and this card, then meld them into Mizuho, Sought by the Void.
----
-(Back): Mizuho, Sought by the Void</text>
-      <related attach="attach">Mizuho, Sought by the Void</related>
-    </card>
-    <card>
-      <name>Mizuho, Sought by the Void</name>
-      <set rarity="rare" splitterPath="/Mizuho, Sought by the Void.png" >ONI</set>
-      <prop>
-        <color>WBR</color>
-        <manacost></manacost>
-        <cmc>3</cmc>
-        <type>Legendary Creature - Void Demigod </type>
-        <pt>6/6</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying, vigilance, deathtouch, lifelink
-Whenever you cast an instant or sorcery spell, choose one that hasn’t been chosen this turn —
-• Copy it. You may choose new targets for the copy.
-• The next instant or sorcery spell you cast this turn can be cast without paying it’s mana cost.
-• Exile target nonland permanent with lesser mana value than that spell’s.
-• create an X/X colorless Void Fractal creature token, where X is that spell’s mana value.
----
-(Front): Reflection of Inner Self</text>
-    </card>
-    <card>
       <name>Impromptu Celebrations </name>
       <set rarity="rare">ONI</set>
       <prop>
         <color>R</color>
-        <manacost>XRR</manacost>
-        <cmc>2</cmc>
+        <manacost>XXR</manacost>
+        <cmc>1</cmc>
         <type>Sorcery - Lesson </type>
         <maintype>Sorcery</maintype>
       </prop>
@@ -4889,7 +4505,9 @@ Whenever you cast an instant or sorcery spell, choose one that hasn’t been cho
         <pt>0/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>
+      <text>Defender
+Hitori, Hidanko Duelist enters the battlefield with four cognition counters on it.
+Whenever you cast an instant or sorcery spell, remove a cognition counter from Hitori, Hidanko Duelist. Then if it has no cognition counters on it, exile her, then return her to the battlefield transformed under her owner’s control.
 ---
 (Back): Hitori, Shard of Shadow</text>
       <related attach="attach">Hitori, Shard of Shadow</related>
@@ -4901,10 +4519,14 @@ Whenever you cast an instant or sorcery spell, choose one that hasn’t been cho
         <color>UBR</color>
         <manacost></manacost>
         <cmc>2</cmc>
-        <type></type>
+        <type>Legendary Planeswalker - Hitori </type>
+        <loyalty>5</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>If an ability of a creature with Prowess you control triggers, that ability triggers an additional time.
+[+2]: Exile target card from a graveyard, if it’s an instant, sorcery or creature with paradigm shift you may cast it until the end of your next turn. 
+[-3]: Search your library for a creature with prowess, put it onto the battlefield, then shuffle.
+[-10]: You get an emblem with “Creatures you control get Prowess, Prowess, Prowess”. You may cast an instant or sorcery card from your hand or graveyard without paying it’s mana cost.
 ---
 (Front): Hitori, Hidanko Duelist</text>
     </card>
@@ -4934,23 +4556,7 @@ Whenever you cast an instant or sorcery spell, choose one that hasn’t been cho
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-When Student’s Aide enters the battlefield or blocks, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
-    </card>
-    <card>
-      <name>Mizuho, Battle-Tested</name>
-      <set rarity="mythic">ONI</set>
-      <prop>
-        <color>WR</color>
-        <manacost>2RW</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Creature - Human Warrior </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying, vigilance
-The first instant or sorcery spell you cast from hand each turn has rebound. (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
-(Melds with Reflection of Inner Self)</text>
+Whenever Student’s Aide enters the battlefield or blocks, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Shadowed Horizons</name>
@@ -4965,21 +4571,6 @@ The first instant or sorcery spell you cast from hand each turn has rebound. (If
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, discard a card or pay 3 life.
 Destroy target creature or planeswalker.</text>
-    </card>
-    <card>
-      <name>Ripple-Edge Sohei</name>
-      <set rarity="rare">ONI</set>
-      <prop>
-        <color>U</color>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Monk Samurai </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>{U}, Sacrifice Ripple-Edge Sohei: Counter target noncreature spell.
-When Ripple-Edge Sohei dies, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Ignited Potential</name>
@@ -5004,7 +4595,7 @@ Enchanted creature gets +1/+0 and prowess.</text>
         <cmc>4</cmc>
         <type>Creature - Demon Spirit Advisor </type>
         <maintype>Creature</maintype>
-        <pt>3/4</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike, Deathtouch.
@@ -5036,7 +4627,7 @@ Whenever a land enters the battlefield under your control, put a +1/+1 counter o
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
 II — The next time you cast an enchantment spell this turn copy it, you may cast the copy without paying it’s mana cost.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -5070,8 +4661,8 @@ Whenever you take combat damage, you may exile cards from the top of your librar
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
-I — Exile target nonland permanent an opponent controls. For as long as that card remains exiled, its owner may play it. A spell cast this way costs  more to cast.
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Exile target nonland permanent an opponent controls. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
 II — You may discard a card. When you do, return target permanent card with mana value 3 or less from your graveyard to the battlefield.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
 ---
@@ -5093,19 +4684,6 @@ III — Exile this Saga, then return it to the battlefield transformed under you
 (Front): Ecounter of the Eternal</text>
     </card>
     <card>
-      <name>Darkbolt Helix</name>
-      <set rarity="rare">ONI</set>
-      <prop>
-        <color>BR</color>
-        <manacost>BR</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Darkbolt Helix deals 3 damage to any target. Surveil X where X is the amount of excess damage dealt this way. (Look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-    </card>
-    <card>
       <name>Guardian&apos;s Assistant</name>
       <set rarity="rare" splitterPath="/Guardian's Assistant.png" >ONI</set>
       <prop>
@@ -5119,9 +4697,9 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <text>Upgradeable (Upgrade as a sorcery to activate that effect)
 Once each turn, If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
 {W} In Progress
-Target creature you control can’t be blocked this turn.
+Target creature you control gets first strike and lifelink until end of turn.
 {3}{W} Completed
-Transform Guardian’s Assistant
+Transform Guardian’s Assistant.
 ---
 (Back): Titanic Guardian</text>
       <related attach="attach">Titanic Guardian</related>
@@ -5147,17 +4725,17 @@ Crew 2
       <set rarity="rare" splitterPath="/Brawler's Assistant.png" >ONI</set>
       <prop>
         <color>B</color>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
         <type>Artifact - Assistant </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Upgradeable (Upgrade as a sorcery to activate that effect)
-whenever a creature you control attacks or blocks, target creature an opponent controls gets -1/-1 until end of turn
+whenever one or more creatures you control attack or block, target creature an opponent controls gets -1/-1 until end of turn
 {1}{B} In Progress
-Creatures you control get +1/+1 and menace until end of turn.
-{1}{B} Level 3
+Creatures you control get +1/+0 and menace until end of turn.
+{2}{B} Level 3
 Transform Brawler’s Assistant.
 ---
 (Back): Electrokinetic Power Fist</text>
@@ -5169,7 +4747,7 @@ Transform Brawler’s Assistant.
       <prop>
         <color>B</color>
         <manacost></manacost>
-        <cmc>2</cmc>
+        <cmc>1</cmc>
         <type>Artifact - Equipment </type>
       </prop>
       <tablerow>1</tablerow>
@@ -5178,6 +4756,310 @@ Whenever equipped creature attacks, Permanents your opponents control lose hexpr
 Equip {2}
 ---
 (Front): Brawler&apos;s Assistant</text>
+    </card>
+    <card>
+      <name>Fragmented Expertise</name>
+      <set rarity="rare">ONI</set>
+      <prop>
+        <color>R</color>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, you may create a token that’s a copy of target creature. That token gains haste. Sacrifice it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Voidforged Dragon Engine</name>
+      <set rarity="uncommon">ONI</set>
+      <prop>
+        <color>B</color>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Dragon Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {2}
+When Voidforged Dragon Engine enters, other [creatures get -X/-X until end of turn] where X is the number of artifacts you control.
+Paradigm Shift XBB (You may cast this as an instant spell with only the text in square brackets for XBB)</text>
+    </card>
+    <card>
+      <name>Ebonwing Proctor</name>
+      <set rarity="rare">ONI</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Spirit Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+You have hexproof.
+Sacrifice Ebonwing Proctor: Another target permanent you control gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Turf Watcher</name>
+      <set rarity="common">ONI</set>
+      <prop>
+        <color></color>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Turf Watcher enters, you may search your library for a basic land card with a different name from all the lands you control, put that card onto the battlefield tapped, then shuffle.
+When Turf Watcher dies, if you control four or more lands with different names, you may draw a card.</text>
+    </card>
+    <card>
+      <name>Russet Ridge Seraph (to add)</name>
+      <set rarity="uncommon">ONI</set>
+      <prop>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+When Russet Ridge Seraph (to add) enters, [put a +1/+1 counter on each creature you control.]
+Paradigm Shift 1W (You may cast this as an instant spell with only the text in square brackets for 1W)</text>
+    </card>
+    <card>
+      <name>Armored Responder </name>
+      <set rarity="rare">ONI</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Human Student </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Armored Responder  enters, create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+{2},{T}: Create a token that’s a copy of another target artifact you control.</text>
+    </card>
+    <card>
+      <name>Ayano, Reconstructed</name>
+      <set rarity="mythic">ONI</set>
+      <prop>
+        <color>U</color>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Ayano </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: [Draw three cards, then discard two cards unless you discard an artifact card.]
+[-1]: create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+[-X]: Search your library for an artifact card with mana value X or less, put it onto the battlefield, then shuffle.
+Paradigm Shift 2U</text>
+    </card>
+    <card>
+      <name>Missing in Action</name>
+      <set rarity="uncommon">ONI</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target non-Spirit creature.</text>
+    </card>
+    <card>
+      <name>Stage-Wrecker Wurm </name>
+      <set rarity="rare">ONI</set>
+      <prop>
+        <color>R</color>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Void Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+When Stage-Wrecker Wurm  declares an attack, you may choose one — 
+• [Stage-Wrecker Wurm  deals 3 damage divided as you choose among any number of nonplayer targets.]
+• Destroy up to three target artifacts.
+Paradigm Shift 2R</text>
+    </card>
+    <card>
+      <name>Guard Shatter </name>
+      <set rarity="common">ONI</set>
+      <prop>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+Exile target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Champion of the Spirited</name>
+      <set rarity="uncommon">ONI</set>
+      <prop>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Demon Spirit Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever another Spirit enters the battlefield under your control, put a +1/+1 counter on Champion of the Spirited.</text>
+    </card>
+    <card>
+      <name>Riftguard Patroller</name>
+      <set rarity="uncommon">ONI</set>
+      <prop>
+        <color></color>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Trample, Haste
+When Riftguard Patroller enters, it becomes an artifact creature until end of turn if an opponent has more cards in their graveyard than you.
+When Riftguard Patroller attacks, exile up to three cards from target graveyard.
+Crew 2</text>
+    </card>
+    <card>
+      <name>Miyakawa Sky Scout </name>
+      <set rarity="rare">ONI</set>
+      <prop>
+        <color></color>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Whenever you cast an instant with paradigm shift, exile it as it resolves. 
+Whenever Miyakawa Sky Scout  deals combat damage to a player, you may cast a spell exiled with it as a creature without paying it’s mana cost.
+Crew 2</text>
+    </card>
+    <card>
+      <name>Grasp From Beyond</name>
+      <set rarity="uncommon">ONI</set>
+      <prop>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to two target creature cards from your graveyard to the battlefield, they gain “at the beginning of your upkeep, you may pay {1}{B}, if you don’t, exile this card”</text>
+    </card>
+    <card>
+      <name>Sayuki, Taraikyo Warden</name>
+      <set rarity="rare">ONI</set>
+      <prop>
+        <color>WG</color>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Sayuki </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sayuki, Taraikyo Warden enters with an additional loyalty counter for each different kind of counter among you and other permanents you control.
+[+1]: Choose a counter on target permanent you control. Put another counter of that kind on it or remove one from it.
+[-X]: Create a 0/0 colorless Spirit creature token, then put X +1/+1 counters and your choice of a vigilance or trample counter on it.</text>
+    </card>
+    <card>
+      <name>Diva Sensation</name>
+      <set rarity="mythic">ONI</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Bard Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>*/1+*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Diva Sensation’s power is equal to the number of mana values among noncreature cards in your graveyard and its toughness is equal to that number plus 1.
+Diva Sensation can’t be blocked as long as there are four ore more mana values among noncreature cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Possessed Assailant</name>
+      <set rarity="uncommon">ONI</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Spirit Cyborg </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, prowess
+When [Possessed Assailant] dies, it [deals damage equal to the number of noncreature spells you’ve cast this turn to any target.] 
+Paradigm Shift {R} (You may cast this as an instant spell with only the text in square brackets for {R})</text>
+    </card>
+    <card>
+      <name>Ponder</name>
+      <set rarity="common">ONI</set>
+      <prop>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 1 (Look at the top card of your library. You may put that card into your graveyard.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Miyakawa Officers</name>
+      <set rarity="common">ONI</set>
+      <prop>
+        <color>U</color>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+Whenever Miyakawa Officers enters, you may [tap target creature and put a stun counter on it.]
+Paradigm Shift {U} (You may cast this as an instant spell with only the text in square brackets for {U})</text>
+    </card>
+    <card>
+      <name>Lapse of Reality</name>
+      <set rarity="rare">ONI</set>
+      <prop>
+        <color>U</color>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
     </card>
 
   </cards>
