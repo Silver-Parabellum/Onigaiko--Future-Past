@@ -115,7 +115,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or greater: T
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create a 2/2 white samurai creature token with vigilance.
 II — search your library for a land card, reveal it, put it into your hand, then shuffle.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -1017,7 +1017,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Create a 2/2 colorless Puppet artifact creature Token.
 II — Draw a card, then discard a card.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -1161,7 +1161,7 @@ When Senzao Peak Scavenger enters, you may sacrifice another creature. When you 
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Create a 2/2 colorless Puppet artifact creature Token.
 II — The Shogun’s Downfall deals 3 damage to target opponent and you gain 3 life.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -2154,7 +2154,7 @@ Learn (You may reveal a Lesson card you own from outside the game and put it int
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create a 2/2 white Samurai token with vigilance.
 II — Whenever a creature you control attacks this turn, it can’t be blocked by creatures with greater power.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -2175,41 +2175,6 @@ III — Exile this Saga, then return it to the battlefield transformed under you
       <text>Creatures you control get +1/+1.
 ---
 (Front): Honor-Bound Conscription</text>
-    </card>
-    <card>
-      <name>Rampage of Inari (Remove)</name>
-      <set rarity="uncommon" splitterPath="/Rampage of Inari (Remove).png" >ONI</set>
-      <prop>
-        <color>W</color>
-        <manacost>4W</manacost>
-        <cmc>5</cmc>
-        <type>Enchantment - Saga </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>
-I — Target creature you control has base power and toughness 5/5 as long as you control Rampage of Inari (Remove).
-II — Exile target artifact or enchantment with mana value less than or equal to the highest power among creatures you control.
-III — Exile this Saga, then return it to the battlefield transformed under your control.
----
-(Back): Inari&apos;s Sealed Influence</text>
-      <related attach="attach">Inari&apos;s Sealed Influence</related>
-    </card>
-    <card>
-      <name>Inari&apos;s Sealed Influence</name>
-      <set rarity="uncommon" splitterPath="/Inari's Sealed Influence.png" >ONI</set>
-      <prop>
-        <color>W</color>
-        <manacost></manacost>
-        <cmc>5</cmc>
-        <type>Enchantment</type>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>At the start of combat on your turn, you may choose one or both
- • Target creature has base power and toughness 5/5 until end of turn
- • Target creature has base power and toughness 1/1 until end of turn
----
-(Front): Rampage of Inari (Remove)</text>
     </card>
     <card>
       <name>Understand the Abstract</name>
@@ -4424,7 +4389,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or greater: T
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
 II — You gain 1 life for each lore counter among permanents you control.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -4457,7 +4422,7 @@ III — Exile this Saga, then return it to the battlefield transformed under you
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Exile target nonland permanent an opponent controls.
 II — Search your library for a God or Legendary Land card, add it to your hand, then shuffle.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -4627,7 +4592,7 @@ Whenever a land enters the battlefield under your control, put a +1/+1 counter o
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
 II — The next time you cast an enchantment spell this turn copy it, you may cast the copy without paying it’s mana cost.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -4661,7 +4626,7 @@ Whenever you take combat damage, you may exile cards from the top of your librar
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Exile target nonland permanent an opponent controls. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
 II — You may discard a card. When you do, return target permanent card with mana value 3 or less from your graveyard to the battlefield.
 III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -4816,22 +4781,6 @@ Sacrifice Ebonwing Proctor: Another target permanent you control gains hexproof 
       <tablerow>2</tablerow>
       <text>When Turf Watcher enters, you may search your library for a basic land card with a different name from all the lands you control, put that card onto the battlefield tapped, then shuffle.
 When Turf Watcher dies, if you control four or more lands with different names, you may draw a card.</text>
-    </card>
-    <card>
-      <name>Russet Ridge Seraph (to add)</name>
-      <set rarity="uncommon">ONI</set>
-      <prop>
-        <color>W</color>
-        <manacost>3W</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Angel Monk </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying, lifelink
-When Russet Ridge Seraph (to add) enters, [put a +1/+1 counter on each creature you control.]
-Paradigm Shift 1W (You may cast this as an instant spell with only the text in square brackets for 1W)</text>
     </card>
     <card>
       <name>Armored Responder </name>
@@ -5060,6 +5009,21 @@ Paradigm Shift {U} (You may cast this as an instant spell with only the text in 
       <tablerow>3</tablerow>
       <text>Counter target spell.
 Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>Upstaged Maneuver</name>
+      <set rarity="uncommon">ONI</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one, if you control an enchantment you may choose both instead — 
+• Target creature gains double strike until end of turn.
+• Target creature gains lifelink until end of turn.</text>
     </card>
 
   </cards>

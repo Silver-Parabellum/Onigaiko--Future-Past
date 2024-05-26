@@ -1359,27 +1359,6 @@
 	        }
 	    },
 	    {
-	        "name": "Rampage of Inari (Remove)",
-	        "mana_cost": "{4}{W}",
-	        "type": "Enchantment — Saga ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Rampage of Inari (Remove).png"
-	        },
-	        "printed names": {
-	            "en": "Rampage of Inari (Remove)"
-	        },
-	        "back": {
-	            "name": "Inari's Sealed Influence",
-	            "printed_names": {
-	                "en": "Inari's Sealed Influence"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Inari's Sealed Influence.png"
-	            },
-	            "type": "Enchantment"
-	        }
-	    },
-	    {
 	        "name": "Understand the Abstract",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
@@ -2577,24 +2556,6 @@
 	        }
 	    },
 	    {
-	        "name": "Omegaα",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{5}",
-	        "type": "Legendary Planeswalker — Urenkal ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Omegaα.png"
-	        }
-	    },
-	    {
-	        "name": "Urenkal, Profane Deity",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{2}{W}{U}{B}{R}{G}",
-	        "type": "Legendary Creature — Void God ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Urenkal, Profane Deity.png"
-	        }
-	    },
-	    {
 	        "name": "Void Fractal",
 	        "rarity": "special",
 	        "mana_cost": "",
@@ -3102,42 +3063,6 @@
 	        }
 	    },
 	    {
-	        "name": "Ninomae Ina'Nis",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{2}{G}{G}",
-	        "type": "Legendary Planeswalker — Michiko ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Ninomae Ina'Nis.png"
-	        }
-	    },
-	    {
-	        "name": "Takanashi Kiara",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{1}{R}{R}",
-	        "type": "Legendary Planeswalker — Akira ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Takanashi Kiara.png"
-	        }
-	    },
-	    {
-	        "name": "Amelia Watson",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{2}{W}{W}",
-	        "type": "Legendary Planeswalker — Jun ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Amelia Watson.png"
-	        }
-	    },
-	    {
-	        "name": "Mori Calliope",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{4}{B}{B}",
-	        "type": "Legendary Planeswalker — Ai ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Mori Calliope.png"
-	        }
-	    },
-	    {
 	        "name": "Voidforged Dragon Engine",
 	        "rarity": "uncommon",
 	        "mana_cost": "{5}{B}",
@@ -3162,15 +3087,6 @@
 	        "type": "Artifact Creature — Construct Scout ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Turf Watcher.png"
-	        }
-	    },
-	    {
-	        "name": "Russet Ridge Seraph (to add)",
-	        "rarity": "uncommon",
-	        "mana_cost": "{3}{W}",
-	        "type": "Creature — Angel Monk ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Russet Ridge Seraph (to add).png"
 	        }
 	    },
 	    {
@@ -3264,15 +3180,6 @@
 	        }
 	    },
 	    {
-	        "name": "Gawr Gura",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{3}{U}{U}",
-	        "type": "Legendary Planeswalker — Ayano ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Gawr Gura.png"
-	        }
-	    },
-	    {
 	        "name": "Diva Sensation",
 	        "rarity": "mythic",
 	        "mana_cost": "{1}{U}",
@@ -3315,6 +3222,15 @@
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Lapse of Reality.png"
+	        }
+	    },
+	    {
+	        "name": "Upstaged Maneuver",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Upstaged Maneuver.png"
 	        }
 	    }
 	]
@@ -3447,7 +3363,6 @@
 		50 Loreweaver Teacher
 		50 As once told
 		50 Honor-Bound Conscription
-		50 Rampage of Inari (Remove)
 		50 Senzao Shrine Guard
 		50 Imaginative Scroll-Painter
 		50 Insectile Abomination
@@ -3495,12 +3410,12 @@
 		50 Stadium Underdog
 		50 The Stars Awaited
 		50 Voidforged Dragon Engine
-		50 Russet Ridge Seraph (to add)
 		50 Missing in Action
 		50 Champion of the Spirited
 		50 Riftguard Patroller
 		50 Grasp From Beyond
 		50 Possessed Assailant
+		50 Upstaged Maneuver
 	[CommonSlot(10)]
 		50 Customized Battle-Suit
 		50 Fabricated Proxy
