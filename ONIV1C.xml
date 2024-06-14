@@ -2142,7 +2142,7 @@ Equip: Pay 3 Life.
       <text>Search your library for a card, put that card into your graveyard, then shuffle.</text>
     </card>
     <card>
-      <name>The Void Stares Back</name>
+      <name>Void&apos;s Glance</name>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>B</color>
@@ -2238,7 +2238,7 @@ Transform Intercessor Assistant.
         <type>Artifact - Vehicle </type>
       </prop>
       <tablerow>1</tablerow>
-      <text>Menace.
+      <text>Vigilance.
 When Intercessor Power Suit deals combat damage to a player you may scry equal to the damage dealt, then draw two cards.
 Crew 3
 ---
