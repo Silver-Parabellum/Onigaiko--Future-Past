@@ -1328,7 +1328,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/The Void Stares Back.png"
+	            "en": "https://github.com/Silver-Parabellum/Onigaiko--Future-Past/blob/f79283990999aa23a48bca2130ea91aa53a9c51a/ONIV1C-files/The%20Void%20Stares%20back.png"
 	        }
 	    },
 	    {
