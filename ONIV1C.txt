@@ -855,8 +855,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
-	[UncommonSlot(0)]
 	[CommonSlot(13)]
 		50 Serafhin's Timekeeper
 		50 Stations Guide
