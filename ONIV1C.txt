@@ -931,27 +931,27 @@
 		50 Instructor's Scorn
 		50 Skyline Skater
 		50 Seijuku Field Mechanic
-		50 Senzao Mountain Line
-		50 Okirumi Aquarium Line
-		50 Tidepool Sanctum Station
-		50 Private Convoy Line
-		50 Kitakui Central Station
-		50 Tranquil Seas Line
-		50 Hebika Station Ruins
-		50 Aoyama Alleyways
-		50 Hiruya Crossing
-		50 Tenkami Rail Line
-		50 Fixed Point in Reality
 		50 Honor Roll Blademaster
 		50 Swordsmanship Club Clique
 		50 Oni's Muster
 		50 Azure Gust Descendant
 		50 Call to Action
 		50 Shattered Ego
-	[BasicSlot(1)]
-		50 Swamp
-		50 Plains
-		50 Island
-		50 Forest
-		50 Mountain
+	[LandSlot(1)]
+		30 Senzao Mountain Line
+		30 Okirumi Aquarium Line
+		30 Tidepool Sanctum Station
+		30 Private Convoy Line
+		30 Kitakui Central Station
+		30 Tranquil Seas Line
+		30 Hebika Station Ruins
+		30 Aoyama Alleyways
+		30 Hiruya Crossing
+		30 Tenkami Rail Line
+		30 Fixed Point in Reality
+		10 Swamp
+		10 Plains
+		10 Island
+		10 Forest
+		10 Mountain
 	
