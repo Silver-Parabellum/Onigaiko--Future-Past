@@ -3180,206 +3180,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
-		50 Automotive Assistant
-		50 Inami, Art of Taraikyo
-		50 Denial Matrix
-		50 Sakaya, Seijuku Dean
-		50 Thundering Sealmaster
-		50 Rampaging Wurmcoil
-		50 Dusk-Lantern Pilgrim
-		50 Inverse Reflections
-		50 Owari, Dreaming Idol
-		50 Under the Kami's Gaze
-		50 Hellraisers Initiate
-		50 Master-Crafted Idol
-		50 Nekaru, Volatile Mentor
-		50 Ryujin of Burgeoning Life
-		50 Ryujin of Swirling Mist
-		50 Ryujin of Reckless Joy
-		50 Ryujin of Otherworldly Light
-		50 Ryujin of Wretched Sorrow
-		50 Pawn of Aeons Torn
-		50 Interplanar Stage
-		50 Void Rend
-		50 Arc-Charged Power Suit
-		50 Lord of Hebika Forest
-		50 Ogura, Freed Miko
-		50 Seijuku Ascendancy
-		50 Taraikyo Ascendancy
-		50 Hidanko Ascendancy
-		50 Senzao Ascendancy
-		50 Hebika Ascendancy
-		50 Overwhelming Workload
-		50 Incendiary Channeler
-		50 Sakura-Tail Blademaster
-		50 Rooftop Ambusher
-		50 Hidanko Sparring Partner
-		50 Night-Dread Orochi
-		50 Sukeban Enforcers
-		50 Outstanding Student
-		50 Senzao Peak Skythresher
-		50 Devoid's Descent
-		50 Impromptu Celebrations
-		50 Hitori, Hidanko Duelist
-		50 Shrouded Rendezvous
-		50 Student's Aide
-		50 Void Collapse
-		50 Ignited Potential
-		50 Spiritual Resonance
-		50 Guardian's Assistant
-		50 Brawler's Assistant
-		50 Fragmented Expertise
-		50 Ebonwing Proctor
-		50 Sayuki, Taraikyo Warden
-		50 Lapse of Reality
-		50 Mezu Sprinter
-		50 Realigner of Reality
-		50 Convergent Ultimatum
-		50 Reality Flare
-		50 Hellraisers Mastermind
-		50 Ishakawa, Idolized Outsider
-		50 Gallae, Life Tender
-		50 Haugrin, Savage Scion
-		50 Hinotori, Unyielding Flame
-		50 Kairumi, Reality Diver
-		50 The Untold One
-		50 Senzao Grove-Tender
-		50 Freila, Tenkami Seitokaicho
-		50 Founding of Taraikyo
-		50 Night Parade of Fury
-		50 What Could Have Been
-		50 Bael-Eye, Fell Usurper
-		10 Brightblade Prowler
-		10 Kajiwara Ai
-		10 Haiden of Life's Might
-		10 Izanami, Hidanko Dean
-		10 Norio, Taraikyo Dean
-		10 Masami, Tenkami Exemplar
-		10 Hishoki, Apex Nightmare
-		10 Haiden of Cryptic Winds
-		10 Haiden of Night's Betrayal
-		10 Haiden of Infinite Blades
-		10 Haiden of Cleansing Dawn
-		10 Investigator of Timelines
-		10 Urenkal, Profane Deity
-		10 Open the Blind Eternities
-		10 Mayumi, the Eternal
-		10 Embodiment of Hebika
-		10 The Planar Visitors
-		10 Ayano, Reconstructed
-		10 Diva Sensation
-		10 Jun, Artificed Telepath
-		10 Tatsuya, Ai's Second
-		10 Embodiment of Chaos
-		10 Yumiko, Masterful Inventor
-		10 Urenkal, Poincaré Recurrence
-		10 Akira, Blade of Hidanko
-		10 The Once Wayfinder
-	[UncommonSlot(0)]
-		50 Izuna Braves the Forest
-		50 Illusionism Student
-		50 Trigger Discipline
-		50 Lessons in Storytelling
-		50 In the Kami's Footsteps
-		50 Get in the Robot
-		50 Azami, Duelist of Tradition
-		50 Urako, Studious Miko
-		50 Kaeru, Hebika Pilgrim
-		50 Omukade, Void Feaster
-		50 Shining Star Aspirant
-		50 Battleground Adversary
-		50 Tenkami Academy Grounds
-		50 Inspiring Mentor
-		50 Hashiriya Outrider
-		50 Roadride Speeder
-		50 Constructed Security
-		50 All-Out Tactics
-		50 Burden of the Firebird
-		50 The Aspirant's Glory
-		50 After-School Joyride
-		50 Masked Temptations
-		50 Usurp Divinity
-		50 Spatial Assistant
-		50 Loreweaver Teacher
-		50 As Once Told
-		50 Senzao Shrine Guard
-		50 Insectile Abomination
-		50 Entranced Seeker
-		50 Whispers of Orochi
-		50 Forgotten Edifice
-		50 Renewed Blessings
-		50 Sharing of Joy
-		50 Unwavering Challenge
-		50 Glimpse the Past
-		50 Berserker Assistant
-		50 See the Unimaginable
-		50 The Void Stares Back
-		50 Stitching Assistant
-		50 Intercessor Assistant
-		50 Unlikely Pilot
-		50 Creative Dissolution (Find new art)
-		50 Strobe Flash
-		50 Challenge the Unknown
-		50 Darkbolt Helix
-		50 Shrine Celebrant
-		50 Unbridled Expressionist
-		50 Piloting Instructor
-		50 Coordinated Partners
-		50 Tenkami Tactician
-		50 Taraikyo Playwright
-		50 Otherworldly Nightmare
-		50 Conductor Mechanist
-		50 Grounds Caretaker
-		50 Tardy Vampire
-		50 Invoke the Kami
-		50 Coerced Intent
-		50 Ryu-Blessed Fireblade
-		50 Soul-Channeling Kitsune
-		50 Day Outta' Class
-		50 The Void of Nightmares
-		50 Miyakawa Cityscape
-		50 Domain of Meditation
-		50 Taraikyo Exhibition Halls
-		50 Tenkami Skyline
-		50 Marked Territory
-		50 Voidforged Dragon Engine
-		50 Turf Watcher
-		50 Missing in Action
-		50 Champion of the Spirited
-		50 Riftguard Patroller
-		50 Grasp from Beyond
-		50 Disaster Site Excavator
-		50 Upstaged Maneuver
-		50 Senzao Border Patrol
-		50 Interceptor Colossus
-		50 Seijuku Security Detail
-		50 In Solemn Silence
-		50 Ogura, Accursed Sukeban
-		50 Know Oneself
-		50 Escape Infinity
-		50 Ikoma, Senzao Sage
-		50 Itakura, Kami-Touched
-		50 Rie, Ace Pilot
-		50 Iako, Void Researcher
-		50 Consumed by Instinct
-		50 Tales Told, Tales Lost
-		50 Valkyr, Magnum Opus
-		50 Spiritual Reality
-		50 Backup Forces
-		50 Serafhin's Chronolock
-		50 Arsenal Synthesizer
-		50 Incandescent Scrollwarden
-		50 Shrine Shadowspear
-		50 Suit Assistant
-		50 Sae, Battle Star
-		50 Contracted Vengeant
-		50 Expressive Summoning
-		50 Hidanko Field Operative
-		50 Disciplinary Guard
-		50 Honor-Bound Conscription
-		50 Delinquent Oni
-		50 Thirst for Inspiration
 	[CommonSlot(13)]
 		50 Serafhin's Timekeeper
 		50 Stations Guide
@@ -3454,27 +3254,27 @@
 		50 Instructor's Scorn
 		50 Skyline Skater
 		50 Seijuku Field Mechanic
-		50 Senzao Mountain Line
-		50 Okirumi Aquarium Line
-		50 Tidepool Sanctum Station
-		50 Private Convoy Line
-		50 Kitakui Central Station
-		50 Tranquil Seas Line
-		50 Hebika Station Ruins
-		50 Aoyama Alleyways
-		50 Hiruya Crossing
-		50 Tenkami Rail Line
-		50 Fixed Point in Reality
 		50 Honor Roll Blademaster
 		50 Swordsmanship Club Clique
 		50 Oni's Muster
 		50 Azure Gust Descendant
 		50 Call to Action
 		50 Shattered Ego
-	[BasicSlot(1)]
-		50 Swamp
-		50 Plains
-		50 Island
-		50 Forest
-		50 Mountain
+	[LandSlot(1)]
+		30 Senzao Mountain Line
+		30 Okirumi Aquarium Line
+		30 Tidepool Sanctum Station
+		30 Private Convoy Line
+		30 Kitakui Central Station
+		30 Tranquil Seas Line
+		30 Hebika Station Ruins
+		30 Aoyama Alleyways
+		30 Hiruya Crossing
+		30 Tenkami Rail Line
+		30 Fixed Point in Reality
+		10 Swamp
+		10 Plains
+		10 Island
+		10 Forest
+		10 Mountain
 	
