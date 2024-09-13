@@ -1755,7 +1755,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
 	[UncommonSlot(4)]
 		50 Trigger Discipline
 		50 Honor-Worn Harisen
