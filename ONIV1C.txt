@@ -3276,127 +3276,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
-		0 Automotive Assistant
-		0 Inami, Art of Taraikyo
-		0 Denial Matrix
-		0 Sakaya, Seijuku Dean
-		0 Thundering Sealmaster
-		0 Tenkami Academy Grounds (Find a place)
-		0 Rampaging Wurmcoil
-		0 Dusk-Lantern Pilgrim
-		0 Inverse Reflections
-		0 Shiori, the Unbridled
-		0 Taraikyo Playwright
-		0 Owari, Dreaming Idol
-		0 Under the Kami's Gaze
-		0 Hellraisers Initiate
-		0 Master-Crafted Idol
-		0 Nekaru, Volatile Mentor
-		0 Ryujin of Burgeoning Life
-		0 Ryujin of Swirling Mist
-		0 Ryujin of Reckless Joy
-		0 Ryujin of Otherworldly Light
-		0 Ryujin of Wretched Sorrow
-		0 Pawn of Aeons Torn
-		0 Interplanar Stage
-		0 Void Rend
-		0 Arc-Charged Power Suit
-		0 Lord of Hebika Forest
-		0 Ogura, Freed Miko
-		0 Seijuku Ascendancy
-		0 Taraikyo Ascendancy
-		0 Hidanko Ascendancy
-		0 Senzao Ascendancy
-		0 Hebika Ascendancy
-		0 Overwhelming Workload
-		0 Incendiary Channeler
-		0 Rooftop Ambusher
-		0 Hidanko Sparring Partner
-		0 Night-Dread Orochi
-		0 Sukeban Enforcers
-		0 Outstanding Student
-		0 Senzao Peak Skythresher
-		0 Devoid's Descent
-		0 Impromptu Celebrations
-		0 Hitori, Hidanko Duelist
-		0 Shrouded Rendezvous
-		0 Student's Aide
-		0 Void Collapse
-		0 Ignited Potential
-		0 Spiritual Resonance
-		0 Guardian's Assistant
-		0 Brawler's Assistant
-		0 Fragmented Expertise
-		0 Ebonwing Proctor
-		0 Sayuki, Taraikyo Warden
-		0 Lapse of Reality
-		0 Mezu Sprinter
-		0 Know Oneself
-		0 Realigner of Reality
-		0 Convergent Ultimatum
-		0 Reality Flare
-		0 Hellraisers Mastermind
-		0 Ishakawa, Idolized Outsider
-		0 Gallae, Life Tender
-		0 Haugrin, Savage Scion
-		0 Hinotori, Unyielding Flame
-		0 The Untold One
-		0 Senzao Grove-Tender
-		0 Freila, Tenkami Seitokaicho
-		0 Founding of Taraikyo
-		0 Night Parade of Fury
-		0 What Could Have Been
-		0 Bael-Eye, Fell Usurper
-		0 Jinse's Command
-		0 Kanashi's Command
-		0 Moreu's Command
-		0 Odayaka's Command
-		0 Shingaku's Command
-		0 Cramming Student (WIP)
-		0 Forlorn Diabolist
-		0 Burning Pact Oni
-		0 Layabout Inugami
-		0 Itakura, Diver's Trainee
-		0 Reiko, Battle Choreographer
-		0 All Eyes Onstage
-		0 Brightblade Prowler
-		0 Kajiwara Ai
-		0 Haiden of Life's Might
-		0 Izanami, Hidanko Dean
-		0 Norio, Taraikyo Dean
-		0 Masami, Tenkami Exemplar
-		0 Hishoki, Apex Nightmare
-		0 Haiden of Cryptic Winds
-		0 Haiden of Night's Betrayal
-		0 Haiden of Infinite Blades
-		0 Haiden of Cleansing Dawn
-		0 Investigator of Timelines
-		0 Urenkal, Profane Deity
-		0 Open the Blind Eternities
-		0 Sakura-Tail Blademaster
-		0 Embodiment of Hebika
-		0 The Planar Visitors
-		0 Diva Sensation
-		0 Jun, Artificed Telepath
-		0 Tatsuya, Ai's Second
-		0 Embodiment of Chaos
-		0 Yumiko, Masterful Inventor
-		0 Urenkal, Void Recurrence
-		0 Akira, Blade of Hidanko
-		0 The Once Wayfinder
-		0 Arashi, Critter Collector
-		0 Rokuro, Dreadcaller
-		0 Akemi, Hellraisers Champion
-		0 Urenkal, Profane Deity
-		0 Urenkal, Profane Deity
-		0 Akuma, Miyakawa Revenger
-		0 Investigator of Timelines 2
-		0 Embodiment of Chaos PROMO
-		0 Tomoe, Exemplar Returned
-		0 Korra, Wayward Explorer
-		0 Kairumi, Reality Diver
-		0 Temporal Recurrence
 	[UncommonSlot(4)]
 		50 Trigger Discipline
 		50 Honor-Worn Harisen
@@ -3571,17 +3450,6 @@
 		50 Instructor's Scorn
 		50 Skyline Skater
 		50 Seijuku Field Mechanic
-		50 Senzao Mountain Line
-		50 Okirumi Aquarium Line
-		50 Tidepool Sanctum Station
-		50 Private Convoy Line
-		50 Kitakui Central Station
-		50 Tranquil Seas Line
-		50 Hebika Station Ruins
-		50 Aoyama Alleyways
-		50 Hiruya Crossing
-		50 Tenkami Rail Line
-		50 Fixed Point in Reality
 		50 Honor Roll Blademaster
 		50 Swordsmanship Club Clique
 		50 Oni's Muster
@@ -3589,10 +3457,21 @@
 		50 Call to Action
 		50 Shattered Ego
 		50 Shrine Shadowspear
-	[BasicSlot(1)]
-		50 Swamp
-		50 Plains
-		50 Island
-		50 Forest
-		50 Mountain
+	[LandSlot(1)]
+		30 Senzao Mountain Line
+		30 Okirumi Aquarium Line
+		30 Tidepool Sanctum Station
+		30 Private Convoy Line
+		30 Kitakui Central Station
+		30 Tranquil Seas Line
+		30 Hebika Station Ruins
+		30 Aoyama Alleyways
+		30 Hiruya Crossing
+		30 Tenkami Rail Line
+		30 Fixed Point in Reality
+		10 Swamp
+		10 Plains
+		10 Island
+		10 Forest
+		10 Mountain
 	
