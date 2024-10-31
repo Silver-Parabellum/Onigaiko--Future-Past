@@ -2142,12 +2142,12 @@
 	        }
 	    },
 	    {
-	        "name": "Consuming Ignition (WIP)",
+	        "name": "Consuming Ignition",
 	        "rarity": "uncommon",
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Consuming Ignition (WIP).png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Consuming Ignition.png"
 	        }
 	    },
 	    {
@@ -2973,15 +2973,6 @@
 	        }
 	    },
 	    {
-	        "name": "Survey the Peak (WIP)",
-	        "rarity": "common",
-	        "mana_cost": "{1}{G}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Survey the Peak (WIP).png"
-	        }
-	    },
-	    {
 	        "name": "Kotobuki of Lost Fury",
 	        "rarity": "uncommon",
 	        "mana_cost": "{6}{R}",
@@ -3018,21 +3009,12 @@
 	        }
 	    },
 	    {
-	        "name": "Consuming Ignition (WIP2)",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{R}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Consuming Ignition (WIP2).png"
-	        }
-	    },
-	    {
-	        "name": "Terminal Encounters (WIP)",
+	        "name": "Terminal Encounters",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Terminal Encounters (WIP).png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Terminal Encounters.png"
 	        }
 	    }
 	]
@@ -3208,7 +3190,7 @@
 		50 Kazue, Rebellious Beat
 		50 Leading Swordmaster
 		50 Angel's Flare
-		50 Consuming Ignition (WIP)
+		50 Consuming Ignition
 		50 Hellraiser's Mark
 		50 Jorugumo Troublemaker
 		50 Monastic Trainee
@@ -3234,7 +3216,6 @@
 		50 Monstruous Studies Teacher
 		50 Eidros, Lost Anomaly
 		50 Kotobuki of Lost Fury
-		50 Consuming Ignition (WIP2)
 	[CommonSlot(8)]
 		50 Serafhin's Timekeeper
 		50 Stations Guide
@@ -3305,6 +3286,23 @@
 		50 Instructor's Scorn
 		50 Skyline Skater
 		50 Seijuku Field Mechanic
+		50 Fixed Point in Reality
+		50 Honor Roll Blademaster
+		50 Swordsmanship Club Clique
+		50 Oni's Muster
+		50 Azure Gust Descendant
+		50 Call to Action
+		50 Shattered Ego
+		50 Shrine Shadowspear
+		50 Second-Year Heikegani
+		50 Taraikyo Stage-Maiden
+		50 Terminal Encounters
+	[BasicSlot(1)]
+		50 Plains
+		50 Island
+		50 Mountain
+		50 Forest
+		50 Swamp
 		50 Graffittied Train Yard
 		50 Pier Line Aquarium
 		50 Tidepool Sanctum Station
@@ -3315,22 +3313,4 @@
 		50 Back-Alley Station
 		50 Central Subway System
 		50 Academy Rail Line
-		50 Fixed Point in Reality
-		50 Honor Roll Blademaster
-		50 Swordsmanship Club Clique
-		50 Oni's Muster
-		50 Azure Gust Descendant
-		50 Call to Action
-		50 Shattered Ego
-		50 Shrine Shadowspear
-		50 Second-Year Heikegani
-		50 Survey the Peak (WIP)
-		50 Taraikyo Stage-Maiden
-		50 Terminal Encounters (WIP)
-	[BasicSlot(1)]
-		50 Plains
-		50 Island
-		50 Mountain
-		50 Forest
-		50 Swamp
 	
