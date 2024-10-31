@@ -3286,16 +3286,6 @@
 		50 Instructor's Scorn
 		50 Skyline Skater
 		50 Seijuku Field Mechanic
-		50 Graffittied Train Yard
-		50 Pier Line Aquarium
-		50 Tidepool Sanctum Station
-		50 Private Convoy Line
-		50 Miyakawa Central Station
-		50 Tranquil Seas Line
-		50 Hebika Station Ruins
-		50 Back-Alley Station
-		50 Central Subway System
-		50 Academy Rail Line
 		50 Fixed Point in Reality
 		50 Honor Roll Blademaster
 		50 Swordsmanship Club Clique
@@ -3313,4 +3303,14 @@
 		50 Mountain
 		50 Forest
 		50 Swamp
+		50 Graffittied Train Yard
+		50 Pier Line Aquarium
+		50 Tidepool Sanctum Station
+		50 Private Convoy Line
+		50 Miyakawa Central Station
+		50 Tranquil Seas Line
+		50 Hebika Station Ruins
+		50 Back-Alley Station
+		50 Central Subway System
+		50 Academy Rail Line
 	
