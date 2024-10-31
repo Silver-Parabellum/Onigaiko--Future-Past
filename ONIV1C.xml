@@ -3227,7 +3227,7 @@ Paradigm shift R (You may cast this as an instant spell with only the text in sq
 • Conjure a card named Fatigue on top of your library. (It’s a colorless sorcery that costs {2} with “Draw a card.”)</text>
     </card>
     <card>
-      <name>Consuming Ignition (WIP)</name>
+      <name>Consuming Ignition</name>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>R</color>
@@ -4434,20 +4434,6 @@ Hitori, Hidanko Duelist has all loyalty abilities of planeswalker cards exiled w
 When Aftermath Construction Crew enters, you may return any number of nonland permanents with total mana value 4 or less that were put into your graveyard from anywhere this turn from your graveyard to the battlefield. you lose 1 life for each permanent returned this way.</text>
     </card>
     <card>
-      <name>Survey the Peak (WIP)</name>
-      <set rarity="common">ONI</set>
-      <prop>
-        <color>G</color>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, reveal a Spirit card from your hand or pay {1}.
-Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-    </card>
-    <card>
       <name>Kotobuki of Lost Fury</name>
       <set rarity="uncommon">ONI</set>
       <prop>
@@ -4495,20 +4481,7 @@ Other creatures you control get +1/+1.</text>
 {T}, Exile an instant or sorcery card from your graveyard: Add one mana of any color.</text>
     </card>
     <card>
-      <name>Consuming Ignition (WIP2)</name>
-      <set rarity="uncommon">ONI</set>
-      <prop>
-        <color>R</color>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Target creature you control gets +2/+0 and gains haste until end of turn. When that creature dies this turn, it deals damage equal to its power to any target.</text>
-    </card>
-    <card>
-      <name>Terminal Encounters (WIP)</name>
+      <name>Terminal Encounters </name>
       <set rarity="common">ONI</set>
       <prop>
         <color>G</color>
@@ -4518,8 +4491,8 @@ Other creatures you control get +1/+1.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever Terminal Encounters (WIP) or a land you control enters, you may mill three cards.
-Whenever you spend four or more mana to cast a spell, you may sacrifice Terminal Encounters (WIP), if you do: Return target land or creature card from your graveyard to your hand.</text>
+      <text>Whenever Terminal Encounters  or a land you control enters, you may mill three cards.
+Whenever you spend four or more mana to cast a spell, you may sacrifice Terminal Encounters , if you do: Return target land or creature card from your graveyard to your hand.</text>
     </card>
 
     <!-->Tokens</-->
