@@ -137,7 +137,7 @@ Reckless Revelries deals 5 damage to any nonplayer target.</text>
       <tablerow>1</tablerow>
       <text>When Honor-Worn Harisen enters, create a 1/1 white and black Student creature token and equip Honor-Worn Harisen to it.
 Whenever equipped creature attacks, tap target creature defending player controls.
-Equip 2</text>
+Equip {2}</text>
     </card>
     <card>
       <name>Battle Spirit</name>
@@ -209,7 +209,7 @@ Equip 2</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you spend four or more mana to cast a spell, up to one [target creature gets +1/+2 and gains reach until end of turn, untap it.]
-Paradigm shift G (You may cast this as an instant spell with only the text in square brackets for {G})</text>
+Paradigm shift {G} (You may cast this as an instant spell with only the text in square brackets for {G})</text>
     </card>
     <card>
       <name>Regal Instructor</name>
@@ -239,7 +239,7 @@ Paradigm shift G (You may cast this as an instant spell with only the text in sq
       <tablerow>2</tablerow>
       <text>Flying
 When Hellraisers Seraph enters, [creatures you control get +1/+1 until end of turn.]
-Paradigm shift W (You may cast this as an instant spell with only the text in square brackets for {W})</text>
+Paradigm shift {W} (You may cast this as an instant spell with only the text in square brackets for {W})</text>
     </card>
     <card>
       <name>Hitori&apos;s Fragmentation</name>
@@ -329,7 +329,7 @@ Draw a card.</text>
       <tablerow>2</tablerow>
       <text>Reach
 When Serpentine Companion enters, [create a 1/1 white and black Student creature token.]
-Paradigm shift G (You may cast this as an instant spell with only the text in square brackets for {G})</text>
+Paradigm shift {G} (You may cast this as an instant spell with only the text in square brackets for {G})</text>
     </card>
     <card>
       <name>Biology Professor</name>
@@ -421,7 +421,7 @@ Itsumade Visitor gets +1/+1 for each Station you control.</text>
       <text>When Peaceful Tanuki enters, you may choose one — 
 • [Destroy target artifact or enchantment.]
 • Put a +1/+1 counter on target creature you control.
-Paradigm shift 2G (You may cast this as an instant spell with only the text in square brackets for 2G)</text>
+Paradigm shift 1G (You may cast this as an instant spell with only the text in square brackets for 1G)</text>
     </card>
     <card>
       <name>Light-Hearted Goading</name>
@@ -548,7 +548,7 @@ Paradigm shift 1B (You may cast this as an instant spell with only the text in s
       </prop>
       <tablerow>2</tablerow>
       <text>When Vengeful Apparition enters, [destroy target creature that was dealt damage this turn.]
-Paradigm shift B (You may cast this as an instant spell with only the text in square brackets for {B})</text>
+Paradigm shift {B} (You may cast this as an instant spell with only the text in square brackets for {B})</text>
     </card>
     <card>
       <name>Station Wraith</name>
@@ -634,7 +634,7 @@ Fragment of Fury gets +1/+2 as long as a creature card left your graveyard this 
       </prop>
       <tablerow>2</tablerow>
       <text>When Void-Fettered Monstrosity enters, up to two target creatures an opponent controls can’t block this turn.
-Stationcycling 2 ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
+Stationcycling {2} ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Hidanko Instructor</name>
@@ -649,7 +649,7 @@ Stationcycling 2 ({2}, Discard this card: Search your library for a Station card
       </prop>
       <tablerow>2</tablerow>
       <text>When Hidanko Instructor enters, put a prowess counter on each of up to two target creatures.
-Stationcycling 2 ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
+Stationcycling {2} ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Venerable Orochi</name>
@@ -663,8 +663,8 @@ Stationcycling 2 ({2}, Discard this card: Search your library for a Station card
         <pt>6/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample, ward 3
-Stationcycling 2 ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
+      <text>Trample, ward {3}
+Stationcycling {2} ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Taraikyo Showstopper</name>
@@ -679,7 +679,7 @@ Stationcycling 2 ({2}, Discard this card: Search your library for a Station card
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Taraikyo Showstopper becomes the target of a spell you control, creatures you control get +1/+1 until end of turn.
-Stationcycling 2 ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
+Stationcycling {2} ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Taraikyo Tachiyaku</name>
@@ -695,7 +695,7 @@ Stationcycling 2 ({2}, Discard this card: Search your library for a Station card
       <tablerow>2</tablerow>
       <text>Trample
 Whenever Taraikyo Tachiyaku becomes the target of a spell you control, up to one [Target creature you control gets +2/+0 until end of turn.] 
-Paradigm shift R (You may cast this as an instant spell with only the text in square brackets for {R})</text>
+Paradigm shift {R} (You may cast this as an instant spell with only the text in square brackets for {R})</text>
     </card>
     <card>
       <name>Hidanko Swordmaster</name>
@@ -711,7 +711,7 @@ Paradigm shift R (You may cast this as an instant spell with only the text in sq
       <tablerow>2</tablerow>
       <text>Prowess
 At the beginning of combat on your turn, [target creature you control gets +1/+1 and gains prowess until end of turn.]
-Paradigm shift U (You may cast this as an instant spell with only the text in square brackets for {U})</text>
+Paradigm shift {U} (You may cast this as an instant spell with only the text in square brackets for {U})</text>
     </card>
     <card>
       <name>Corrupted Remnant</name>
@@ -727,7 +727,7 @@ Paradigm shift U (You may cast this as an instant spell with only the text in sq
       <tablerow>2</tablerow>
       <text>Haste
 Whenever Corrupted Remnant dies, up to one [target creature gets -1/-1 until end of turn.]
-Paradigm shift B (You may cast this as an instant spell with only the text in square brackets for {B})</text>
+Paradigm shift {B} (You may cast this as an instant spell with only the text in square brackets for {B})</text>
     </card>
     <card>
       <name>Sakaya, Seijuku Dean</name>
@@ -804,7 +804,7 @@ Whenever Shining Star Aspirant becomes the target of a spell you control, put a 
       <tablerow>2</tablerow>
       <text>Prowess
 Whenever you cast your first noncreature spell each turn, you may [draw a card] and lose 2 life.
-Paradigm shift B (You may cast this as an instant spell with only the text in square brackets for {B})</text>
+Paradigm shift {B} (You may cast this as an instant spell with only the text in square brackets for {B})</text>
     </card>
     <card>
       <name>Hashiriya Outrider</name>
@@ -820,7 +820,7 @@ Paradigm shift B (You may cast this as an instant spell with only the text in sq
       <tablerow>2</tablerow>
       <text>Trample
 Whenever Hashiriya Outrider attacks, [up to two target creatures can’t block this turn.]
-Paradigm shift 1R (You may cast this as an instant spell with only the text in square brackets for 1R)</text>
+Paradigm shift {1}{R} (You may cast this as an instant spell with only the text in square brackets for {1})</text>
     </card>
     <card>
       <name>Rampaging Wurmcoil</name>
@@ -1071,7 +1071,7 @@ Whenever you cast a spell that targets Shiori, the Unbridled, copy it. You may c
       <tablerow>2</tablerow>
       <text>Double strike, prowess
 Whenever Coordinated Partners deals combat damage to a player, you may [return target instant card or sorcery card from your graveyard to your hand] with mana value less than or equal to the damage dealt.
-Paradigm shift UR (You may cast this as an instant spell with only the text in square brackets for UR)</text>
+Paradigm shift UB (You may cast this as an instant spell with only the text in square brackets for UB)</text>
     </card>
     <card>
       <name>Tenkami Tactician</name>
@@ -1288,7 +1288,7 @@ Counter target spell unless its controller pays {2}.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you spend four or more mana to cast a spell, you may [tap or untap target nonland permanent.]
-Paradigm shift U (You may cast this as an instant spell with only the text in square brackets for {U})</text>
+Paradigm shift {U} (You may cast this as an instant spell with only the text in square brackets for {U})</text>
     </card>
     <card>
       <name>Izanami, Hidanko Dean</name>
@@ -1383,7 +1383,7 @@ When Hishoki enters, target opponent chooses a creature card exiled with Hishoki
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, trample
-Whenever Ryujin of Burgeoning Life attacks, up to one [target creature you control gets +3/+3 and gains trample until end of turn.] Then if it’s another creature, you may have it fight target creature you don’t control.
+Whenever Ryujin of Burgeoning Life attacks, up to one [target creature you control gets +4/+4 and gains trample until end of turn.] Then if it’s another creature, you may have it fight target creature you don’t control.
 Paradigm shift 1G (You may cast this as an instant spell with only the text in square brackets for 1G)</text>
     </card>
     <card>
@@ -1398,7 +1398,7 @@ Paradigm shift 1G (You may cast this as an instant spell with only the text in s
         <pt>6/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying, ward 3
+      <text>Flying, ward {3}
 Whenever Ryujin of Swirling Mist attacks, you may [return target creature to its owner’s hand], then surveil 2.
 Paradigm shift 1U (You may cast this as an instant spell with only the text in square brackets for 1U)</text>
     </card>
@@ -1520,7 +1520,7 @@ This creature can’t be blocked by creatures with greater power.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast an instant or sorcery spell, up to one [target creature gets +1/+0 and gains first strike until end of turn.]
-Paradigm shift R (You may cast this as an instant spell with only the text in square brackets for {R})</text>
+Paradigm shift {R} (You may cast this as an instant spell with only the text in square brackets for {R})</text>
     </card>
     <card>
       <name>Redhorn Channeler</name>
@@ -1598,7 +1598,7 @@ Paradigm shift 1B (You may cast this as an instant spell with only the text in s
       </prop>
       <tablerow>2</tablerow>
       <text>This spell can’t be countered.
-Trample, ward 3
+Trample, ward {3}
 Whenever you spend four or more mana to cast a spell, you may return Senzao Peak Skythresher from your graveyard to your hand.</text>
     </card>
     <card>
@@ -1659,7 +1659,7 @@ Cycling WG/U (WG/U, Discard this card: Draw a card.)</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Affinity for stations (This spell costs {1} less to cast for each station you control.)
-Stationcycling 2 ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
+Stationcycling {2} ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Meditative Vista</name>
@@ -1758,7 +1758,7 @@ When Ebonwing Proctor enters, you may return another permanent you control to it
         <cmc>4</cmc>
         <type>Artifact Creature - Construct Scout </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When Turf Watcher enters, you may search your library for a basic land card or Station card. Put it onto the battlefield tapped, then shuffle.
@@ -1775,7 +1775,7 @@ When Turf Watcher dies, if you control four or more lands with different names, 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Destroy target creature. You lose 4 life if it did not enter this turn.</text>
+      <text>Destroy target creature. You lose 3 life if it did not enter this turn.</text>
     </card>
     <card>
       <name>Stand your Guard</name>
@@ -1877,7 +1877,7 @@ Draw a card.</text>
       <tablerow>2</tablerow>
       <text>Prowess
 Whenever Miyakawa Officers enters or you cast a noncreature spell,up to one [target creature gets -4/-0 until end of turn.]
-Paradigm shift U (You may cast this as an instant spell with only the text in square brackets for {U})</text>
+Paradigm shift {U} (You may cast this as an instant spell with only the text in square brackets for {U})</text>
     </card>
     <card>
       <name>Rail Line Daydreamer</name>
@@ -1923,7 +1923,7 @@ Paradigm shift 1G (You may cast this as an instant spell with only the text in s
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Ward 2
+Ward {2}
 When Interceptor Colossusenters or attacks, you may tap up to two other target creatures.</text>
     </card>
     <card>
@@ -1983,8 +1983,8 @@ Whenever Nekomata Nightmare leaves your graveyard, you may create a tapped token
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you conjure a card, [target creature you control] gets +1/+1 and [gains indestructible until end of turn.]
-Paradigm shift W (You may cast this as an instant spell with only the text in square brackets for {W})</text>
+      <text>Whenever you conjure a card, up to one [target creature you control gets +1/+1 and gains indestructible until end of turn.]
+Paradigm shift {W} (You may cast this as an instant spell with only the text in square brackets for {W})</text>
     </card>
     <card>
       <name>In Solemn Silence</name>
@@ -2227,7 +2227,7 @@ Whenever a creature you control dies, if its power was greater than its base pow
       </prop>
       <tablerow>2</tablerow>
       <text>When Seijuku Field Mechanic enters, you may return target instant, sorcery or card with paradigm shift from your graveyard to your hand.
-Stationcycling 2 ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
+Stationcycling {2} ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Jun, Artificed Telepath</name>
@@ -2241,7 +2241,7 @@ Stationcycling 2 ({2}, Discard this card: Search your library for a Station card
       <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>[+1]: Tap up to one target creature or planeswalker and put a stun counter on it. Its activated abilities  can’t be activated for as long as it’s tapped.
+      <text>[+1]: Tap up to one target creature or planeswalker and put a stun counter on it. Its activated abilities can’t be activated for as long as it’s tapped.
 [-2]:  [Exile target tapped creature.] You gain life equal to its power.
 [-6]: You get an emblem with “Whenever a permanent an opponent controls becomes tapped, put a stun counter on it.”
 Paradigm shift 1W</text>
@@ -2455,7 +2455,7 @@ Whenever a creature card leaves your graveyard, you may discard a card, if you d
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Sacrifice Fixed Point in Reality: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. 
-Stationcycling 1 ({1}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
+Stationcycling {1} ({1}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Unyielding Hinotori</name>
@@ -2532,7 +2532,7 @@ You may pay WUBRG rather than pay the mana cost for legendary spells you cast.</
       <tablerow>2</tablerow>
       <text>When Bael-Eye, Fell Usurper enters, [exile the top two cards of target opponent’s library face-down. You may look at them and play them for as long as they remain exiled, and mana of any type can be spent to cast spells this way.]
 3BB, Sacrifice a nonland permanent you control but don’t own: Return Bael-Eye from your graveyard to the battlefield tapped with a finality counter on it.
-Paradigm shift 3B</text>
+Paradigm shift {3}{B}</text>
     </card>
     <card>
       <name>Urenkal, Void Recurrence</name>
@@ -3096,7 +3096,7 @@ Whenever Akuma deals combat damage to a player, exile the top two cards of your 
       <tablerow>2</tablerow>
       <text>Menace
 When Undercover Lieutenants enters, create a 2/2 black Soldier creature token.
-Whenever you conjure one or more cards, Other soldiers you control get +1/+1 and gain menace until end of turn.</text>
+Whenever you conjure one or more cards, other soldiers you control get +1/+1 and gain menace until end of turn.</text>
     </card>
     <card>
       <name>Warped Horizon</name>
@@ -3110,7 +3110,7 @@ Whenever you conjure one or more cards, Other soldiers you control get +1/+1 and
       </prop>
       <tablerow>1</tablerow>
       <text>When Warped Horizon enters, you draw X cards and lose X life, where X is the amount of mana from Stations spent to cast it.
-Whenever a station under your control enters, you draw a card and lose 1 life.</text>
+Whenever a station you control enters, you draw a card and lose 1 life.</text>
     </card>
     <card>
       <name>Stir the Pot</name>
@@ -3208,7 +3208,7 @@ At the beginning of combat on your turn, you may cast target instant or sorcery 
       <tablerow>2</tablerow>
       <text>Haste, Prowess
 Whenever Leading Swordmaster attacks, other attacking [creatures you control get +1/+0 until end of turn.]
-Paradigm shift R (You may cast this as an instant spell with only the text in square brackets for {R})</text>
+Paradigm shift {R} (You may cast this as an instant spell with only the text in square brackets for {R})</text>
     </card>
     <card>
       <name>Angel&apos;s Flare</name>
@@ -3425,7 +3425,7 @@ Whenever a player casts their second spell each turn, untap 3LYS1UM, Sky-High Ha
       <tablerow>2</tablerow>
       <text>Ominous Student has flash if you control a creature with prowess.
 When Ominous Student enters, you may [return target spell or nonland permanent to its owner’s hand].
-Paradigm shift 1U (You may cast this as an instant spell with only the text in square brackets for 1U)</text>
+Paradigm shift UU (You may cast this as an instant spell with only the text in square brackets for UU)</text>
     </card>
     <card>
       <name>Helios Ignition</name>
@@ -3570,7 +3570,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
         <pt>6/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Lifelink, trample, ward 2
+      <text>Lifelink, trample, ward {2}
 You may look at the top card of your library any time.
 You may cast spells from the top of your library as long as they target a creature you control. the first spell you cast this way each turn costs RGW (or {3}) less to cast.</text>
     </card>
@@ -3655,7 +3655,7 @@ Whenever another creature you control becomes the target of a spell you control,
       </prop>
       <tablerow>1</tablerow>
       <text>When Mysterious Notebook enters, conjure a card named Fatigue into your hand. (It’s a colorless sorcery that costs {2} with “Draw a card.”)
-{1}, {T}, Sacrifice Mysterious Notebook: Add one mana of any type.</text>
+{3}, {T}, Sacrifice Mysterious Notebook: Add three mana of different colors.</text>
     </card>
     <card>
       <name>Sayuki, Taraikyo Guardian</name>
@@ -3798,7 +3798,7 @@ Paradigm shift 1UU (You may cast this as an instant spell with only the text in 
         <pt>7/7</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Vigilance
+      <text>Indestructible
 As long as you have less than seven instant or sorcery spells in your graveyard, Forma, Seijuku System isn’t a creature.
 Whenever you conjure one or more cards, you may conjure a duplicate of one of them into your hand. Do this only once each turn.</text>
     </card>
