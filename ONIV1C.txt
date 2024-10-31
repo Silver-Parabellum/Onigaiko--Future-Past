@@ -2181,7 +2181,7 @@
 	        "name": "Kairumi, Reality Diver",
 	        "rarity": "mythic",
 	        "mana_cost": "{1}{U}{U}",
-	        "type": "Legendary Planeswalker — Kairumi",
+	        "type": "Legendary Planeswalker — Kairumi ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Kairumi, Reality Diver.png"
 	        }
