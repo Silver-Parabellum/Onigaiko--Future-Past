@@ -1254,12 +1254,12 @@
 	        }
 	    },
 	    {
-	        "name": "In Solemn Silence",
+	        "name": "Silent Solemnity",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
-	        "type": "Enchantment — Aura ",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/In Solemn Silence.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Silent Solemnity.png"
 	        }
 	    },
 	    {
@@ -1283,7 +1283,7 @@
 	    {
 	        "name": "Last Stop Before Infinity",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{W}",
+	        "mana_cost": "{5}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Last Stop Before Infinity.png"
@@ -1995,12 +1995,12 @@
 	        }
 	    },
 	    {
-	        "name": "Annul Confidence",
+	        "name": "Alone and My Thoughts",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
-	        "type": "Instant",
+	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Annul Confidence.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Alone and My Thoughts.png"
 	        }
 	    },
 	    {
@@ -2220,15 +2220,6 @@
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Orochi Ambush.png"
-	        }
-	    },
-	    {
-	        "name": "Intuition",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{U}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Intuition.png"
 	        }
 	    },
 	    {
@@ -2523,15 +2514,6 @@
 	                "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Embody Desire.png"
 	            },
 	            "type": "Sorcery — Tale "
-	        }
-	    },
-	    {
-	        "name": "Urenkal, Profane Deity",
-	        "rarity": "mythic",
-	        "mana_cost": "{3}{W}{U}{B}{R}{G}",
-	        "type": "Legendary Creature — Void God ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Urenkal, Profane Deity.png"
 	        }
 	    },
 	    {
@@ -3016,6 +2998,24 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Terminal Encounters.png"
 	        }
+	    },
+	    {
+	        "name": "Urenkal, Profane Deity",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}{U}{B}{R}{G}",
+	        "type": "Legendary Creature — Void God ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Urenkal, Profane Deity.png"
+	        }
+	    },
+	    {
+	        "name": "Future: Past",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Future: Past.png"
+	        }
 	    }
 	]
 	[RareSlot(1)]
@@ -3055,7 +3055,6 @@
 		50 Shingaku's Exertion
 		50 Arashi, Critter Collector
 		50 Cramming Student
-		50 Intuition
 		50 Itakura, Diver's Trainee
 		50 All Eyes Onstage
 		50 Sayuki, Taraikyo Guardian
@@ -3090,6 +3089,7 @@
 		50 Dangerous Overture
 		50 Aftermath Construction Crew
 		50 Forlorn One's Gashadokuro
+		50 Future: Past
 		30 Kajiwara Ai
 		30 Masami, Tenkami Exemplar
 		30 Hishoki, Apex Nightmare
@@ -3107,7 +3107,6 @@
 		30 Korra, Wayward Explorer
 		30 Kairumi, Reality Diver
 		30 Reiko, Battle Choreographer
-		30 Urenkal, Profane Deity
 		30 Forma, Seijuku System
 		30 Jinse, Divine Justice
 		30 Shingaku, Memory's Flow
@@ -3115,6 +3114,7 @@
 		30 Moreu, Unfettered Joy
 		30 Odayaka, Life's Tenacity
 		30 Hitori, Hidanko Duelist
+		30 Urenkal, Profane Deity
 	[UncommonSlot(4)]
 		50 Trigger Discipline
 		50 Honor-Worn Harisen
@@ -3152,7 +3152,7 @@
 		50 Senzao Border Patrol
 		50 Interceptor Colossus
 		50 Seijuku Security Detail
-		50 In Solemn Silence
+		50 Silent Solemnity
 		50 Unrelenting Brawler
 		50 Last Stop Before Infinity
 		50 Taraikyo Sage
@@ -3177,7 +3177,7 @@
 		50 Yurie, Stationside Performer
 		50 Cognitive Conjurer
 		50 Manifestation of Self
-		50 Annul Confidence
+		50 Alone and My Thoughts
 		50 Fact or Fiction
 		50 Voidfall
 		50 Delaying Rain
@@ -3286,6 +3286,16 @@
 		50 Instructor's Scorn
 		50 Skyline Skater
 		50 Seijuku Field Mechanic
+		50 Graffittied Train Yard
+		50 Pier Line Aquarium
+		50 Tidepool Sanctum Station
+		50 Private Convoy Line
+		50 Miyakawa Central Station
+		50 Tranquil Seas Line
+		50 Hebika Station Ruins
+		50 Back-Alley Station
+		50 Central Subway System
+		50 Academy Rail Line
 		50 Fixed Point in Reality
 		50 Honor Roll Blademaster
 		50 Swordsmanship Club Clique
@@ -3303,13 +3313,4 @@
 		50 Mountain
 		50 Forest
 		50 Swamp
-		50 Graffittied Train Yard
-		50 Pier Line Aquarium
-		50 Tidepool Sanctum Station
-		50 Private Convoy Line
-		50 Miyakawa Central Station
-		50 Tranquil Seas Line
-		50 Hebika Station Ruins
-		50 Back-Alley Station
-		50 Central Subway System
-		50 Academy Rail Line
+	

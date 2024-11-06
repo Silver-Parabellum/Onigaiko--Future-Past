@@ -284,8 +284,7 @@ Paradigm shift {W} (You may cast this as an instant spell with only the text in 
       </prop>
       <tablerow>1</tablerow>
       <text>Binding Prank has flash as long as you control a Student.
-Enchant nonland permanent
-Enchanted permanent can’t attack, block, or crew Vehicles. Its activated abilities can’t be activated unless they’re mana abilities.</text>
+When Binding Prank enters, exile target nonland permanent an opponent controls until Binding Prank leaves the battlefield.</text>
     </card>
     <card>
       <name>Reminisce History</name>
@@ -312,8 +311,7 @@ Exile target creature. Return it to the battlefield under its owner’s control 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +1/+1 and gains protection from the color of your choice until end of turn.
-Draw a card.</text>
+      <text>Target creature you control gains protection from colorless or from the color of your choice until end of turn.</text>
     </card>
     <card>
       <name>Serpentine Companion</name>
@@ -606,7 +604,8 @@ Fragment of Fury gets +1/+2 as long as a creature card left your graveyard this 
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature card from your graveyard to the battlefield. Then you may return a creature card with lesser power from your graveyard to your hand.</text>
+      <text>As an additional cost to cast this spell, you may exile up to three nonland cards from your graveyard. It costs {1} less to cast for each card exiled this way.
+Return target creature card from your graveyard to the battlefield.</text>
     </card>
     <card>
       <name>Coerced Betrayal</name>
@@ -663,7 +662,7 @@ Stationcycling {2} ({2}, Discard this card: Search your library for a Station ca
         <pt>6/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample, ward {3}
+      <text>Trample, ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
 Stationcycling {2} ({2}, Discard this card: Search your library for a Station card, reveal it, and put it into your hand, then shuffle.)</text>
     </card>
     <card>
@@ -820,7 +819,7 @@ Paradigm shift {B} (You may cast this as an instant spell with only the text in 
       <tablerow>2</tablerow>
       <text>Trample
 Whenever Hashiriya Outrider attacks, [up to two target creatures can’t block this turn.]
-Paradigm shift {1}{R} (You may cast this as an instant spell with only the text in square brackets for {1})</text>
+Paradigm shift {1}{R} (You may cast this as an instant spell with only the text in square brackets for 1R)</text>
     </card>
     <card>
       <name>Rampaging Wurmcoil</name>
@@ -1027,7 +1026,7 @@ Whenever you cast an instant or sorcery spell, you gain 1 life, if it’s name w
 • Target player sacrifices an enchantment.</text>
     </card>
     <card>
-      <name>Shrine Celebrant </name>
+      <name>Shrine Celebrant</name>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>WG</color>
@@ -1259,7 +1258,7 @@ Augmented Proctor enters tapped if it’s not your turn.</text>
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Seijuku Artificer enters, return target instant or sorcery card from your graveyard to your hand. Then you may pay 1W/B, if you don’t, conjure a card named Fatigue on the top of your library. (It’s a colorless sorcery that costs {2} with “Draw a card.”)</text>
+      <text>When Seijuku Artificer enters, return target instant or sorcery card from your graveyard to your hand. Then you may pay {W/B}, if you don’t, conjure a card named Fatigue on the top of your library. (It’s a colorless sorcery that costs {2} with “Draw a card.”)</text>
     </card>
     <card>
       <name>Exert Reality</name>
@@ -1398,7 +1397,7 @@ Paradigm shift 1G (You may cast this as an instant spell with only the text in s
         <pt>6/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying, ward {3}
+      <text>Flying, ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
 Whenever Ryujin of Swirling Mist attacks, you may [return target creature to its owner’s hand], then surveil 2.
 Paradigm shift 1U (You may cast this as an instant spell with only the text in square brackets for 1U)</text>
     </card>
@@ -1598,7 +1597,7 @@ Paradigm shift 1B (You may cast this as an instant spell with only the text in s
       </prop>
       <tablerow>2</tablerow>
       <text>This spell can’t be countered.
-Trample, ward {3}
+Trample, ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
 Whenever you spend four or more mana to cast a spell, you may return Senzao Peak Skythresher from your graveyard to your hand.</text>
     </card>
     <card>
@@ -1953,7 +1952,7 @@ Whenever a creature enters under an opponent’s control, you may cast a creatur
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Seijuku Security Detail becomes the target of a spell you control, you may [return target creature card with mana value 3 or less from your graveyard to the battlefield] tapped.
+      <text>Whenever Seijuku Security Detail becomes the target of a spell you control, you may [return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.]
 Paradigm shift 1W (You may cast this as an instant spell with only the text in square brackets for 1W)</text>
     </card>
     <card>
@@ -1987,19 +1986,17 @@ Whenever Nekomata Nightmare leaves your graveyard, you may create a tapped token
 Paradigm shift {W} (You may cast this as an instant spell with only the text in square brackets for {W})</text>
     </card>
     <card>
-      <name>In Solemn Silence</name>
+      <name>Silent Solemnity</name>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>U</color>
         <manacost>1U</manacost>
         <cmc>2</cmc>
-        <type>Enchantment - Aura </type>
-        <maintype>Enchantment</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant creature, planeswalker or land
-Enchanted permanent loses all abilities except mana abilities. As long as enchanted permanent is a creature, it has base power and toughness 1/1.
-Players can’t cast spells with the same name as enchanted permanent.</text>
+      <tablerow>3</tablerow>
+      <text>Counter target instant or sorcery spell. Search its controller’s graveyard, hand, and library for any number of cards with the same name as that spell and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.</text>
     </card>
     <card>
       <name>Unrelenting Brawler</name>
@@ -2037,14 +2034,14 @@ You may cast Unrelenting Brawler from your graveyard by exiling another creature
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>W</color>
-        <manacost>4W</manacost>
-        <cmc>5</cmc>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Affinity for Stations. (This spell costs {1} less to cast for each Station you control.)
-When Last Stop Before Infinity enters, exile target nonland permanent an opponent controls until Last Stop Before Infinity leaves the battlefield.</text>
+When Last Stop Before Infinity enters, exile all other creatures until Last Stop Before Infinity leaves the battlefield.</text>
     </card>
     <card>
       <name>Taraikyo Sage</name>
@@ -2611,8 +2608,8 @@ Paradigm shift 1W (You may cast this as an instant spell with only the text in s
       </prop>
       <tablerow>1</tablerow>
       <text>Stations you control have “T: Put a loyalty counter on each planeswalker you control.”
-[0]: Up to one target Station you control becomes a 3/3 Elemental creature with vigilance, hexproof, and haste until your next turn. It’s still a land.
-[-3]: You may cast a spell from your hand with mana value less than or equal to the number of Stations you control without paying it’s mana cost.
+[0]: Untap up to one target Station you control. It becomes a 3/3 Elemental creature with hexproof and haste until your next turn. It’s still a land.
+[-3]: Search your library for a card, put it into your hand, then shuffle. You may cast a spell from your hand with mana value less than or equal to the number of stations you control without paying it’s mana cost.
 [-5]: You get an emblem with “You may activate loyalty abilities of planeswalkers you control on any player’s turn any time you could cast an instant.”</text>
     </card>
     <card>
@@ -2972,27 +2969,26 @@ If an opponent would draw one or more cards, except from a source named Fatigue 
         <cmc>5</cmc>
         <type>Creature - Spirit Illusion </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess
-Whenever Manifestation of Self enters or attacks, you may [create a token that’s a copy of target creature] you don’t control with mana value less than or equal to Manifestation of Self’s power.
-Paradigm shift 3U (You may cast this as an instant spell with only the text in square brackets for 3U)</text>
+Whenever Manifestation of Self attacks, [creatures you don’t control get -1/-0 until end of turn.]
+Paradigm shift {1}{U} (You may cast this as an instant spell with only the text in square brackets for 1U)</text>
     </card>
     <card>
-      <name>Annul Confidence</name>
+      <name>Alone and My Thoughts</name>
       <set rarity="uncommon">ONI</set>
       <prop>
         <color>U</color>
         <manacost>1U</manacost>
         <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
       </prop>
-      <tablerow>3</tablerow>
-      <text>Choose one — 
-• Counter target instant or sorcery spell.
-• Counter target activated or triggered ability from a nonland source.</text>
+      <tablerow>1</tablerow>
+      <text>Instant and sorcery spells you cast cost {1} less to cast.
+If you would draw one or more cards, except from a source named Fatigue, you may instead conjure twice that many cards named Fatigue into your hand. (They’re colorless sorceries that cost {2} with “Draw a card.”)</text>
     </card>
     <card>
       <name>Fact or Fiction</name>
@@ -3019,7 +3015,7 @@ Paradigm shift 3U (You may cast this as an instant spell with only the text in s
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one or three — 
-• Target player mills nine cards.
+• Draw two cards, then discard a card.
 • Create an X/X Void Horror creature token, where X is the number of instant and sorcery cards in your graveyard.
 • Conjure a card named Fatigue on top of your library. (It’s a colorless sorcery that costs {2} with “Draw a card.”)</text>
     </card>
@@ -3034,7 +3030,7 @@ Paradigm shift 3U (You may cast this as an instant spell with only the text in s
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return up to two target creatures to their owners’ hands. If three or more mana from Stations was spent to cast this spell, draw two cards, then discard a card.</text>
+      <text>Return up to two target creatures to their owners’ hands. If three or more mana from Stations was spent to cast this spell, Scry 2, then draw a card.</text>
     </card>
     <card>
       <name>Akuma, Miyakawa Revenger</name>
@@ -3064,7 +3060,7 @@ Whenever Akuma deals combat damage to a player, exile the top two cards of your 
       <tablerow>3</tablerow>
       <text>Choose one or three — 
 • Create two 1/1 white and black Student creature tokens.
-• Put a +1/+1 counter on each creature you control.
+• Put a +1/+1 counter on each of up to three creatures you control.
 • Conjure a card named Fatigue on top of your library. (It’s a colorless sorcery that costs {2} with “Draw a card.”)</text>
     </card>
     <card>
@@ -3080,7 +3076,7 @@ Whenever Akuma deals combat damage to a player, exile the top two cards of your 
       </prop>
       <tablerow>2</tablerow>
       <text>Rooftop Ambusher can’t block.
-{B}, Conjure a card named fatigue on top of your library: Return Rooftop Ambusher from your graveyard to the battlefield. (It’s a colorless sorcery that costs {2} with “Draw a card.”)</text>
+{1}{B}, Conjure a card named fatigue on top of your library: Return Rooftop Ambusher from your graveyard to the battlefield. (It’s a colorless sorcery that costs {2} with “Draw a card.”)</text>
     </card>
     <card>
       <name>Undercover Lieutenants</name>
@@ -3272,7 +3268,7 @@ Whenever you cast an instant or sorcery spell, enchanted creature deals 1 damage
 Paradigm shift GG</text>
     </card>
     <card>
-      <name>Kairumi, Reality Diver </name>
+      <name>Kairumi, Reality Diver</name>
       <set rarity="mythic">ONI</set>
       <prop>
         <color>U</color>
@@ -3349,19 +3345,6 @@ If a spell or ability an opponent controls causes you to discard Monastic Traine
 • Untap target creature.
 •  Target creature gains indestructible until end of turn.
 • Target creature gains hexproof until end of turn.</text>
-    </card>
-    <card>
-      <name>Intuition</name>
-      <set rarity="rare">ONI</set>
-      <prop>
-        <color>U</color>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle.</text>
     </card>
     <card>
       <name>Tetsushika Titan</name>
@@ -3496,8 +3479,8 @@ Whenever Paradox Seraph attacks, draw a card, then you may reveal it. If it’s 
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Instant and sorcery spells you cast cost {1} less to cast. 
-Whenever you cast an instant or sorcery spell, each opponent loses 1 life and you gain 1 life.</text>
+      <text>At the beginning of your upkeep, conjure a card named Fatigue into your hand. (It’s a colorless sorcery that costs {2} with “Draw a card.”)
+The first sorcery spell you cast each turn costs {2} less to cast. If a spell named Fatigue is cast this way, each opponent loses 1 life and you gain 1 life.</text>
     </card>
     <card>
       <name>Naoko, the Hopestruck</name>
@@ -3541,7 +3524,7 @@ When Conductor Mechanist enters, mill five cards, then you may exile any number 
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Exile target creature or planeswalker.  You may cast that card as long as it remains exiled,and you may spend mana as though it were mana of any type to cast that spell.</text>
+      <text>Exile target creature or planeswalker.  You may cast that card as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.</text>
     </card>
     <card>
       <name>Shrine Shadowspear</name>
@@ -3570,7 +3553,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
         <pt>6/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Lifelink, trample, ward {2}
+      <text>Lifelink, trample, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 You may look at the top card of your library any time.
 You may cast spells from the top of your library as long as they target a creature you control. the first spell you cast this way each turn costs RGW (or {3}) less to cast.</text>
     </card>
@@ -3753,22 +3736,6 @@ This tale’s source becomes a 2/1 Demon Spirit creature that can’t be blocked
 {T}: Add {B}.
 --- 
 This tale’s source becomes a 4/2 Rebel creature with deathtouch and lifelink. (It’s still a land.)</text>
-    </card>
-    <card>
-      <name>Urenkal, Profane Deity</name>
-      <set rarity="mythic">ONI</set>
-      <prop>
-        <color>WUBRG</color>
-        <manacost>3WUBRG</manacost>
-        <cmc>8</cmc>
-        <type>Legendary Creature - Void God </type>
-        <maintype>Creature</maintype>
-        <pt>7/7</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Limit Break (You may break your limits as this resolves. Do this only once a game)
-Flying, protection from monocolored.
-When Urenkal, Profane Deity enters, Look at target opponent’s sideboard. Exile up to five cards from among them. You may cast them for as long as they remain exiled. If this spell broke your limits, you may cast one of them without paying it’s mana cost.</text>
     </card>
     <card>
       <name>Isonade Tidebreaker</name>
@@ -4226,7 +4193,7 @@ You may have Ephemeral Reflection enter the battlefield as a copy of any creatur
       </prop>
       <tablerow>3</tablerow>
       <text>If three or more colors of mana were spent to cast this spell, it can’t be countered.
-Choose a nonland card name. Search target player’s graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.</text>
+Choose a nonland card name. Search target player’s graveyard, hand, and library for up to four cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.</text>
     </card>
     <card>
       <name>Assemble the Students</name>
@@ -4251,12 +4218,12 @@ Look at the top eight cards of your library. Put up to three creature cards with
         <cmc>5</cmc>
         <type>Creature - Dinosaur Spirit Rogue </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>5/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>First strike
-Creatures you control get +1/+0 for each time they have dealt damage this turn.
-Whenever Old Ways Hellraiser deals combat damage to an opponent for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.</text>
+      <text>Trample
+When Old Ways Hellraiser enters, [it deals 4 damage to target creature or planeswalker.]
+Paradigm shift 2R (You may cast this as an instant spell with only the text in square brackets for 2R)</text>
     </card>
     <card>
       <name>Unleashed Within</name>
@@ -4270,11 +4237,10 @@ Whenever Old Ways Hellraiser deals combat damage to an opponent for the first ti
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice a creature.
-Search your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature’s mana value. Put that card onto the battlefield, then shuffle.
-Exile Unleashed Within.</text>
+Search your library for a creature card with mana value X or less, where X is the sacrificed creature’s mana value plus the number of colors of mana spent to cast this spell. Put that card onto the battlefield, then shuffle.</text>
     </card>
     <card>
-      <name>Final Preparations </name>
+      <name>Final Preparations</name>
       <set rarity="rare">ONI</set>
       <prop>
         <color>G</color>
@@ -4481,7 +4447,7 @@ Other creatures you control get +1/+1.</text>
 {T}, Exile an instant or sorcery card from your graveyard: Add one mana of any color.</text>
     </card>
     <card>
-      <name>Terminal Encounters </name>
+      <name>Terminal Encounters</name>
       <set rarity="common">ONI</set>
       <prop>
         <color>G</color>
@@ -4491,8 +4457,38 @@ Other creatures you control get +1/+1.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever Terminal Encounters  or a land you control enters, you may mill three cards.
-Whenever you spend four or more mana to cast a spell, you may sacrifice Terminal Encounters , if you do: Return target land or creature card from your graveyard to your hand.</text>
+      <text>Whenever Terminal Encounters or a land you control enters, you may mill three cards.
+Whenever you spend four or more mana to cast a spell, you may sacrifice Terminal Encounters, if you do: Return target land or creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Urenkal, Profane Deity</name>
+      <set rarity="mythic">ONI</set>
+      <prop>
+        <color>WUBRG</color>
+        <manacost>3WUBRG</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Creature - Void God </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Limit Break (You may break your limits as this resolves. Do this only once a game)
+Flying, protection from monocolored.
+When Urenkal, Profane Deity enters, for each permanent type, you may exile a permanent you don’t control of that type. If this spell broke your limits, you may play one of them without paying it’s mana cost.</text>
+    </card>
+    <card>
+      <name>Future Past</name>
+      <set rarity="rare">ONI</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Shuffle your hand and all cards not named Fatigue from your graveyard into your library. Draw seven cards.
+Conjure seven cards named Fatigue and put them on top of your library. (They’re colorless sorceries that cost {2} with “Draw a card.”)</text>
     </card>
 
     <!-->Tokens</-->
