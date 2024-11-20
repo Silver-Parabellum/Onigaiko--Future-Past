@@ -2933,7 +2933,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Future: Past.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Future Past.png"
 	        }
 	    },
 	    {
