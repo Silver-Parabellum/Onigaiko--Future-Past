@@ -3171,7 +3171,7 @@
 		50 Eri, Strict Conductor
 		50 Titanic Overseer
 		50 Masterful Demonstration
-		50 Resolute stand
+		50 Hitori's Fragmentation
 		50 Yurie, Stationside Performer
 		50 Manifestation of Self
 		50 Alone and My Thoughts
@@ -3232,7 +3232,7 @@
 		50 Rebellious Maiko
 		50 Regal Teacher
 		50 Hellraisers Seraph
-		50 Hitori's Fragmentation
+		50 Resolute stand
 		50 Overwhelming Force
 		50 Binding Prank
 		50 Slip on the Mask
