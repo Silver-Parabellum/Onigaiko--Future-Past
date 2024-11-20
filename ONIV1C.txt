@@ -1923,12 +1923,12 @@
 	        }
 	    },
 	    {
-	        "name": "Resolute stand",
+	        "name": "Resolute Stand",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Resolute stand.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Resolute Stand.png"
 	        }
 	    },
 	    {
