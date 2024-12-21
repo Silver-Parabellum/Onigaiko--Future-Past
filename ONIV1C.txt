@@ -3009,4 +3009,299 @@
 	        }
 	    }
 	]
-	[RareSlot(1 
+	[RareSlot(0)]
+		0 Sakaya, Seijuku Dean
+		0 Rampaging Wurmcoil
+		0 Shiori, the Unbridled
+		0 Owari, Dreaming Idol
+		0 Hellraisers Initiate
+		0 Izanami, Hidanko Dean
+		0 Nekaru, Volatile Mentor
+		0 Ryujin of Burgeoning Life
+		0 Ryujin of Swirling Mist
+		0 Ryujin of Reckless Joy
+		0 Ryujin of Otherworldly Light
+		0 Ryujin of Wretched Sorrow
+		0 Void Rend
+		0 Open the Blind Eternities
+		0 Sakura-Tail Blademaster
+		0 Setsuko, the Sightseeker
+		0 Senzao Peak Skythresher
+		0 Splintered Expertise
+		0 Ebonwing Proctor
+		0 Mezu Sprinter
+		0 Know Oneself
+		0 Last Stop Before Infinity
+		0 Realigner of Reality
+		0 Ultimate Convergence
+		0 Ogaki, Contracted Vengeant
+		0 Unyielding Hinotori
+		0 The Untold Shadow
+		0 Bael-Eye, Fell Usurper
+		0 Jinse's Exertion
+		0 Kanashi's Exertion
+		0 Moreu's Exertion
+		0 Odayaka's Exertion
+		0 Shingaku's Exertion
+		0 Arashi, Critter Collector
+		0 Cramming Student
+		0 Itakura, Diver's Trainee
+		0 All Eyes Onstage
+		0 Sayuki, Taraikyo Guardian
+		0 Dawnlit Crossing
+		0 Grovelit Crossing
+		0 Lanternlit Crossing
+		0 Neonlit Crossing
+		0 Starlit Crossing
+		0 Isonade Tidebreaker
+		0 Explore the Past
+		0 Challengers Clash
+		0 One's Own Nightmare
+		0 Time Takes no Prisoners
+		0 Hopeful Musings
+		0 Shiroyuki, Once and Nothing
+		0 Ameret, Clad in Shining Glory
+		0 Fell One's Derision
+		0 Daemthine, Dread Influencer
+		0 Part-Time Staff
+		0 Stern Disciplinary
+		0 Lost Identification
+		0 Ephemeral Reflection
+		0 Stare Into the Void
+		0 Assemble the Students
+		0 Old Ways Hellraiser
+		0 Unleashed Within
+		0 Final Preparations
+		0 Junko, Tenkami's Favored
+		0 Kami-Blessed Spiritualist
+		0 Dangerous Overture
+		0 Aftermath Construction Crew
+		0 Forlorn One's Gashadokuro
+		0 Future: Past
+		0 Aftermath of Genesis
+		0 Denial Matrix
+		0 Kaede, Taraikyo Vice
+		1 Kajiwara Ai
+		1 Masami, Tenkami Exemplar
+		1 Hishoki, Apex Nightmare
+		1 Embodiment of Hebika
+		1 Diva Sensation
+		1 Jun, Artificed Telepath
+		1 Tatsuya, Ai's Second
+		1 Embodiment of Chaos
+		1 Freila, Council President
+		1 Urenkal, Void Recurrence
+		1 Akira, Blade of Hidanko
+		1 The Once Wayfinder
+		1 Akuma, Miyakawa Revenger
+		1 Serafhin, Temporal Investigator
+		1 Forma, Seijuku System
+		1 Jinse, Divine Justice
+		1 Shingaku, Memory's Flow
+		1 Kanashi, Night's Sorrow
+		1 Moreu, Unfettered Joy
+		1 Odayaka, Life's Tenacity
+		1 Hitori, Hidanko Duelist
+		1 Urenkal, Profane Deity
+		1 Reiko, Battle Choreographer
+		1 Korra, Wayward Explorer
+		1 Kairumi, Reality Diver
+	[UncommonSlot(0)]
+		0 Replacement Greaves
+		0 Trigger Discipline
+		0 Hitori's Fragmentation
+		0 Wonders of Travel
+		0 Kaeru, Hebika Pilgrim
+		0 Omukade, Void Feaster
+		0 Battleground Adversary
+		0 Hashiriya Outrider
+		0 Hit Up the Spots
+		0 Senzao Shrine Guard
+		0 Insectile Abomination
+		0 Renewed Blessings
+		0 Stationside Food Market
+		0 Unwavering Challenge
+		0 The Void Stares Back
+		0 Hollow Pact
+		0 Shrine Celebrant
+		0 Coordinated Partners
+		0 Tenkami Tactician
+		0 Taraikyo Playwright
+		0 Otherworldly Nightmare
+		0 Dropped From Reality
+		0 Sukeban Enforcers
+		0 Nightmarish Vista
+		0 Cityscape Vista
+		0 Meditative Vista
+		0 Theatric Vista
+		0 Innovative Vista
+		0 Marked Territory
+		0 Turf Watcher
+		0 Take by Surprise
+		0 Remui, Spirited Champion
+		0 Grasp from Beyond
+		0 Disaster Site Excavator
+		0 Senzao Border Patrol
+		0 Interceptor Colossus
+		0 Seijuku Security Detail
+		0 Silent Solemnity
+		0 Paradox Operative
+		0 Taraikyo Sage
+		0 Rie, Ace Pilot
+		0 Professor Torvald
+		0 Bitter Return
+		0 Spiritual Reality
+		0 Serafhin's Chronolock
+		0 Dai, Callous Instructor
+		0 Disciplinary Guard
+		0 Delinquent Oni
+		0 Thirst for Inspiration
+		0 Forlorn Diabolist
+		0 Point-Blank Singularity
+		0 Autumnal Keisei
+		0 Eri, Strict Conductor
+		0 Titanic Overseer
+		0 Masterful Demonstration
+		0 Yurie, Stationside Performer
+		0 Manifestation of Self
+		0 Alone and My Thoughts
+		0 Fact or Fiction
+		0 Voidfall
+		0 Delaying Rain
+		0 Academy Reinforcements
+		0 Rooftop Ambusher
+		0 Undercover Lieutenants
+		0 Warped Horizon
+		0 Stir the Pot
+		0 Timely Intervention
+		0 Kazue, Rebellious Beat
+		0 Leading Swordmaster
+		0 Angel's Resolve
+		0 Consuming Ignition
+		0 Hellraiser's Mark
+		0 Jorugumo Troublemaker
+		0 Monastic Trainee
+		0 Wayward Behemoth
+		0 Orochi Ambush
+		0 Tetsushika Titan
+		0 Alissa, Rogue Element
+		0 Ominous Student
+		0 Helios Ignition
+		0 Hitoshi, Radiant Performer
+		0 Student Council Enforcer
+		0 Immaterium Studies
+		0 Naoko, the Hopestruck
+		0 Experiment Zero-One
+		0 Inami, Taraikyo Star
+		0 Center of Performance
+		0 Backstage Film Crew
+		0 Gates of Mist
+		0 Mysterious Notebook
+		0 Ogura, Accursed Sukeban
+		0 Inugami Twins
+		0 Unlikely Alliants
+		0 Eidros, Lost Anomaly
+		0 Kotobuki of Lost Fury
+		0 Adoration Campaign
+		0 Wani Rescuer
+		0 Heikegani's Heir
+		0 Down With Me
+		0 Shot Through the Heart
+	[CommonSlot(13)]
+		50 Station Ticket-Taker
+		50 Scavenging Prowler
+		50 Archery Club Member
+		50 Blastbreath Elder
+		50 Guardian Ushi-Oni
+		50 Reckless Revelries
+		50 Honor-Worn Harisen
+		50 Battle Spirit
+		50 Just as Taught
+		50 Soul Spite
+		50 Ardent Novelist
+		50 Rebellious Maiko
+		50 Regal Teacher
+		50 Hellraisers Seraph
+		50 Relentless Innovation
+		50 Binding Prank
+		50 Slip on the Mask
+		50 Serpentine Companion
+		50 Biology Professor
+		50 Senzao Ascetic
+		50 Greater Toad Sage
+		50 Bakeneko City-Goer
+		50 Itsumade Naturalist
+		50 Peaceful Tanuki
+		50 Light-Hearted Goading
+		50 Will to Protect
+		50 Spiritual Connection
+		50 Run the Rails
+		50 Traveller's Insight
+		50 Hidanko Prefect
+		50 Kajiwara's Lookout
+		50 Dusk Boundary Watchers
+		50 Station Wraith
+		50 Remnant of Ancestry
+		50 Dragon's Bargain
+		50 Dread Their Return
+		50 Encroaching Madness
+		50 Void-Fettered Monstrosity
+		50 Hidanko Instructor
+		50 Shoreline Leviathan
+		50 Taraikyo Showstopper
+		50 Taraikyo Tachiyaku
+		50 Hidanko Swordmaster
+		50 Corrupted Remnant
+		50 Shining Star Aspirant
+		50 Combatant's Uplink
+		50 Messy Kouhai
+		50 Gale Drake Rider
+		50 Malevolent Whispers
+		50 Augmented Proctor
+		50 Seijuku First-Year
+		50 Exert Reality
+		50 Disaster Site Surveyor
+		50 Studious Ningyo
+		50 Hidanko First-Year
+		50 Redhorn Channeler
+		50 Rail Lines Constructor
+		50 Consider
+		50 Miyakawa Officers
+		50 Rail Line Daydreamer
+		50 Nekomata Nightmare
+		50 Seijuku Engineer
+		50 Hollow Temptations
+		50 Instructor's Guidance
+		50 Seijuku Field Mechanic
+		50 Graffittied Train Yard
+		50 Pier Line Aquarium
+		50 Tidepool Sanctum Station
+		50 Private Convoy Line
+		50 Miyakawa Central Station
+		50 Tranquil Seas Line
+		50 Hebika Station Ruins
+		50 Back-Alley Station
+		50 Central Subway System
+		50 Academy Rail Line
+		50 Fixed Point in Reality
+		50 Honor Roll Blademaster
+		50 Swordsmanship Club Clique
+		50 Academy-Issue Bokken
+		50 Azure Gust Descendant
+		50 Drag to the Void
+		50 Erase From Cognition
+		50 Rapid Takedown
+		50 Shrine Shadowspear
+		50 Taraikyo Stage-Maiden
+		50 Terminal Encounters
+		50 Urban Huntress
+		50 Erratic Pilot
+		50 Strategist's Uplink
+		50 Security Proxy
+	[BasicSlot(1)]
+		30 Plains
+		30 Island
+		30 Mountain
+		30 Forest
+		30 Swamp
+	
