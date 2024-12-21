@@ -38,7 +38,7 @@
 	    {
 	        "name": "Blastbreath Elder",
 	        "rarity": "common",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Advisor Samurai ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Blastbreath Elder.png"
@@ -92,7 +92,7 @@
 	    {
 	        "name": "Just as Taught",
 	        "rarity": "common",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Just as Taught.png"
@@ -145,27 +145,27 @@
 	    },
 	    {
 	        "name": "Hitori's Fragmentation",
-	        "rarity": "common",
-	        "mana_cost": "{1}{W}",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hitori's Fragmentation.png"
 	        }
 	    },
 	    {
-	        "name": "Overwhelming Force",
+	        "name": "Relentless Innovation",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
-	        "type": "Instant",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Overwhelming Force.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Relentless Innovation.png"
 	        }
 	    },
 	    {
 	        "name": "Binding Prank",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
-	        "type": "Enchantment — Aura ",
+	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Binding Prank.png"
 	        }
@@ -315,12 +315,12 @@
 	        }
 	    },
 	    {
-	        "name": "Vengeful Apparition",
+	        "name": "Dusk Boundary Watchers",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
-	        "type": "Creature — Spirit Rogue ",
+	        "type": "Creature — Wolf Spirit Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Vengeful Apparition.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Dusk Boundary Watchers.png"
 	        }
 	    },
 	    {
@@ -333,12 +333,12 @@
 	        }
 	    },
 	    {
-	        "name": "Hollowed Inari",
+	        "name": "Remnant of Ancestry",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
-	        "type": "Creature — Fox Spirit Citizen ",
+	        "type": "Creature — Spirit Samurai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hollowed Inari.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Remnant of Ancestry.png"
 	        }
 	    },
 	    {
@@ -387,12 +387,12 @@
 	        }
 	    },
 	    {
-	        "name": "Venerable Orochi",
+	        "name": "Shoreline Leviathan",
 	        "rarity": "common",
 	        "mana_cost": "{4}{G}{W}{U}",
-	        "type": "Creature — Snake Spirit Advisor ",
+	        "type": "Creature — Lizard Spirit Giant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Venerable Orochi.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Shoreline Leviathan.png"
 	        }
 	    },
 	    {
@@ -504,15 +504,6 @@
 	        }
 	    },
 	    {
-	        "name": "Security Proxy",
-	        "rarity": "common",
-	        "mana_cost": "{3}",
-	        "type": "Artifact Creature — Construct ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Security Proxy.png"
-	        }
-	    },
-	    {
 	        "name": "Hit Up the Spots",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}",
@@ -524,19 +515,10 @@
 	    {
 	        "name": "Combatant's Uplink",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
+	        "mana_cost": "{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Combatant's Uplink.png"
-	        }
-	    },
-	    {
-	        "name": "Masked Temptations",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Masked Temptations.png"
 	        }
 	    },
 	    {
@@ -658,8 +640,8 @@
 	    },
 	    {
 	        "name": "Taraikyo Playwright",
-	        "rarity": "rare",
-	        "mana_cost": "{R}{G}{W}",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
 	        "type": "Creature — Human Performer ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Taraikyo Playwright.png"
@@ -717,15 +699,6 @@
 	        "type": "Creature — Human Rogue Student ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hellraisers Initiate.png"
-	        }
-	    },
-	    {
-	        "name": "Midori, Forsaken Star",
-	        "rarity": "rare",
-	        "mana_cost": "{W}",
-	        "type": "Legendary Creature — Spirit Horror Bard ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Midori, Forsaken Star.png"
 	        }
 	    },
 	    {
@@ -894,12 +867,12 @@
 	        }
 	    },
 	    {
-	        "name": "Highrise Thrillseeker",
+	        "name": "Studious Ningyo",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
-	        "type": "Creature — Fox Spirit Student ",
+	        "type": "Creature — Merfolk Spirit Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Highrise Thrillseeker.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Studious Ningyo.png"
 	        }
 	    },
 	    {
@@ -931,7 +904,7 @@
 	    },
 	    {
 	        "name": "Sakura-Tail Blademaster",
-	        "rarity": "mythic",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{R}{G}{W}",
 	        "type": "Creature — Fox Spirit Samurai ",
 	        "image_uris": {
@@ -1056,12 +1029,12 @@
 	        }
 	    },
 	    {
-	        "name": "Fragmented Expertise",
+	        "name": "Splintered Expertise",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Fragmented Expertise.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Splintered Expertise.png"
 	        }
 	    },
 	    {
@@ -1350,15 +1323,6 @@
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Serafhin's Chronolock.png"
-	        }
-	    },
-	    {
-	        "name": "Battle Maiden",
-	        "rarity": "uncommon",
-	        "mana_cost": "{W}",
-	        "type": "Creature — Human Monk Warrior ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Battle Maiden.png"
 	        }
 	    },
 	    {
@@ -1653,12 +1617,12 @@
 	        }
 	    },
 	    {
-	        "name": "The Untold One",
+	        "name": "The Untold Shadow",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{B}",
-	        "type": "Legendary Creature — Horror ",
+	        "type": "Legendary Creature — Void Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/The Untold One.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/The Untold Shadow.png"
 	        }
 	    },
 	    {
@@ -1671,12 +1635,12 @@
 	        }
 	    },
 	    {
-	        "name": "Freila, Tenkami Seitokaicho",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{W}",
+	        "name": "Freila, Council President",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Creature — Spirit Student Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Freila, Tenkami Seitokaicho.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Freila, Council President.png"
 	        }
 	    },
 	    {
@@ -1709,7 +1673,7 @@
 	    {
 	        "name": "Honor Roll Blademaster",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Demon Spirit Student ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Honor Roll Blademaster.png"
@@ -1743,12 +1707,12 @@
 	        }
 	    },
 	    {
-	        "name": "Voidfire Immolator",
+	        "name": "Academy-Issue Bokken",
 	        "rarity": "common",
-	        "mana_cost": "{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Voidfire Immolator.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Academy-Issue Bokken.png"
 	        }
 	    },
 	    {
@@ -1788,12 +1752,12 @@
 	        }
 	    },
 	    {
-	        "name": "Call to Action",
+	        "name": "Drag to the Void",
 	        "rarity": "common",
 	        "mana_cost": "{4}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Call to Action.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Drag to the Void.png"
 	        }
 	    },
 	    {
@@ -1923,12 +1887,12 @@
 	        }
 	    },
 	    {
-	        "name": "Resolute Stand",
-	        "rarity": "uncommon",
-	        "mana_cost": "{W}",
+	        "name": "Rapid Takedown",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Resolute Stand.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Rapid Takedown.png"
 	        }
 	    },
 	    {
@@ -2088,12 +2052,12 @@
 	        }
 	    },
 	    {
-	        "name": "Angel's Flare",
+	        "name": "Angel's Resolve",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{R}",
-	        "type": "Instant",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Angel's Flare.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Angel's Resolve.png"
 	        }
 	    },
 	    {
@@ -2115,30 +2079,12 @@
 	        }
 	    },
 	    {
-	        "name": "Korra, Wayward Explorer",
-	        "rarity": "mythic",
-	        "mana_cost": "{3}{G}{G}",
-	        "type": "Legendary Planeswalker — Korra ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Korra, Wayward Explorer.png"
-	        }
-	    },
-	    {
 	        "name": "Goggles",
 	        "rarity": "special",
 	        "mana_cost": "",
 	        "type": "Legendary Token Creature — Elemental Dragon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Goggles.png"
-	        }
-	    },
-	    {
-	        "name": "Kairumi, Reality Diver",
-	        "rarity": "mythic",
-	        "mana_cost": "{1}{U}{U}",
-	        "type": "Legendary Planeswalker — Kairumi ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Kairumi, Reality Diver.png"
 	        }
 	    },
 	    {
@@ -2196,18 +2142,18 @@
 	        }
 	    },
 	    {
-	        "name": "3LYS1UM, Sky-High Hacker",
+	        "name": "Alissa, Rogue Element",
 	        "rarity": "uncommon",
 	        "mana_cost": "{U}{B}",
-	        "type": "Legendary Creature — Human Rogue ",
+	        "type": "Legendary Creature — Human Student Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/3LYS1UM, Sky-High Hacker.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Alissa, Rogue Element.png"
 	        }
 	    },
 	    {
 	        "name": "Ominous Student",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U/B}",
+	        "mana_cost": "{2}{U}{B}",
 	        "type": "Creature — Human Student ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Ominous Student.png"
@@ -2463,48 +2409,48 @@
 	        }
 	    },
 	    {
-	        "name": "Hope Blooms Unfettered",
+	        "name": "Explore the Past",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{G}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hope Blooms Unfettered.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Explore the Past.png"
 	        }
 	    },
 	    {
-	        "name": "Determination Burns Bright",
+	        "name": "Challengers Clash",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R}{G}",
-	        "type": "Sorcery",
+	        "mana_cost": "{4}{R}{G}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Determination Burns Bright.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Challengers Clash.png"
 	        }
 	    },
 	    {
-	        "name": "Chaos Stands Ungovernable",
+	        "name": "One's Own Nightmare",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{B}{R}",
+	        "mana_cost": "{X}{B}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Chaos Stands Ungovernable.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/One's Own Nightmare.png"
 	        }
 	    },
 	    {
 	        "name": "Time Takes no Prisoners",
 	        "rarity": "rare",
-	        "mana_cost": "{4}{U}{B}",
+	        "mana_cost": "{5}{U}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Time Takes no Prisoners.png"
 	        }
 	    },
 	    {
-	        "name": "Myriad Dreams Unfold",
+	        "name": "Hopeful Musings",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{W}{U}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Myriad Dreams Unfold.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hopeful Musings.png"
 	        }
 	    },
 	    {
@@ -2723,8 +2669,8 @@
 	    {
 	        "name": "Assemble the Students",
 	        "rarity": "rare",
-	        "mana_cost": "{5}{W}",
-	        "type": "Sorcery",
+	        "mana_cost": "{3}{W}",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Assemble the Students.png"
 	        }
@@ -2757,21 +2703,12 @@
 	        }
 	    },
 	    {
-	        "name": "Holo-Tactician",
+	        "name": "Junko, Tenkami's Favored",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{U}",
-	        "type": "Artifact Creature — Avatar ",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Cyborg Student ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Holo-Tactician.png"
-	        }
-	    },
-	    {
-	        "name": "Denial Matrix",
-	        "rarity": "rare",
-	        "mana_cost": "{U}{U}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Denial Matrix.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Junko, Tenkami's Favored.png"
 	        }
 	    },
 	    {
@@ -2840,7 +2777,7 @@
 	    {
 	        "name": "Hitori, Hidanko Duelist",
 	        "rarity": "mythic",
-	        "mana_cost": "{U/B}{R}",
+	        "mana_cost": "{U}{B}{R}",
 	        "type": "Legendary Creature — Human Student ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Hitori, Hidanko Duelist.png"
@@ -2866,7 +2803,7 @@
 	    },
 	    {
 	        "name": "Void Nightmare",
-	        "rarity": "common",
+	        "rarity": "special",
 	        "mana_cost": "",
 	        "type": "Token Creature — Void Nightmare ",
 	        "image_uris": {
@@ -2933,7 +2870,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Future Past.png"
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Future: Past.png"
 	        }
 	    },
 	    {
@@ -2949,7 +2886,7 @@
 	        "name": "Urban Huntress",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
-	        "type": "Creature — Demon Spirit Rogue ",
+	        "type": "Creature — Fox Spirit Rogue ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Urban Huntress.png"
 	        }
@@ -3000,15 +2937,6 @@
 	        }
 	    },
 	    {
-	        "name": "Warp Desire (WIP)",
-	        "rarity": "uncommon",
-	        "mana_cost": "{3}{R}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Warp Desire (WIP).png"
-	        }
-	    },
-	    {
 	        "name": "Down With Me",
 	        "rarity": "uncommon",
 	        "mana_cost": "{U}{B}{R}",
@@ -3016,302 +2944,69 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Down With Me.png"
 	        }
+	    },
+	    {
+	        "name": "Shot Through the Heart",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Shot Through the Heart.png"
+	        }
+	    },
+	    {
+	        "name": "Aftermath of Genesis",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Aftermath of Genesis.png"
+	        }
+	    },
+	    {
+	        "name": "Korra, Wayward Explorer",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Legendary Planeswalker — Korra ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Korra, Wayward Explorer.png"
+	        }
+	    },
+	    {
+	        "name": "Denial Matrix",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Denial Matrix.png"
+	        }
+	    },
+	    {
+	        "name": "Kaede, Taraikyo Vice",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Legendary Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Kaede, Taraikyo Vice.png"
+	        }
+	    },
+	    {
+	        "name": "Security Proxy",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Security Proxy.png"
+	        }
+	    },
+	    {
+	        "name": "Kairumi, Reality Diver",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Legendary Planeswalker — Kairumi ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Silver-Parabellum/Onigaiko--Future-Past/main/ONIV1C-files/Kairumi, Reality Diver.png"
+	        }
 	    }
 	]
-	[RareSlot(1)]
-		50 Sakaya, Seijuku Dean
-		50 Rampaging Wurmcoil
-		50 Shiori, the Unbridled
-		50 Taraikyo Playwright
-		50 Owari, Dreaming Idol
-		50 Hellraisers Initiate
-		50 Midori, Forsaken Star
-		50 Izanami, Hidanko Dean
-		50 Nekaru, Volatile Mentor
-		50 Ryujin of Burgeoning Life
-		50 Ryujin of Swirling Mist
-		50 Ryujin of Reckless Joy
-		50 Ryujin of Otherworldly Light
-		50 Ryujin of Wretched Sorrow
-		50 Void Rend
-		50 Open the Blind Eternities
-		50 Setsuko, the Sightseeker
-		50 Senzao Peak Skythresher
-		50 Fragmented Expertise
-		50 Ebonwing Proctor
-		50 Mezu Sprinter
-		50 Know Oneself
-		50 Last Stop Before Infinity
-		50 Realigner of Reality
-		50 Ultimate Convergence
-		50 Ogaki, Contracted Vengeant
-		50 Unyielding Hinotori
-		50 The Untold One
-		50 Freila, Tenkami Seitokaicho
-		50 Bael-Eye, Fell Usurper
-		50 Jinse's Exertion
-		50 Kanashi's Exertion
-		50 Moreu's Exertion
-		50 Odayaka's Exertion
-		50 Shingaku's Exertion
-		50 Arashi, Critter Collector
-		50 Cramming Student
-		50 Itakura, Diver's Trainee
-		50 All Eyes Onstage
-		50 Sayuki, Taraikyo Guardian
-		50 Dawnlit Crossing
-		50 Grovelit Crossing
-		50 Lanternlit Crossing
-		50 Neonlit Crossing
-		50 Starlit Crossing
-		50 Isonade Tidebreaker
-		50 Hope Blooms Unfettered
-		50 Determination Burns Bright
-		50 Chaos Stands Ungovernable
-		50 Time Takes no Prisoners
-		50 Myriad Dreams Unfold
-		50 Shiroyuki, Once and Nothing
-		50 Ameret, Clad in Shining Glory
-		50 Fell One's Derision
-		50 Daemthine, Dread Influencer
-		50 Part-Time Staff
-		50 Stern Disciplinary
-		50 Lost Identification
-		50 Ephemeral Reflection
-		50 Stare Into the Void
-		50 Assemble the Students
-		50 Old Ways Hellraiser
-		50 Unleashed Within
-		50 Final Preparations
-		50 Holo-Tactician
-		50 Denial Matrix
-		50 Kami-Blessed Spiritualist
-		50 Dangerous Overture
-		50 Aftermath Construction Crew
-		50 Forlorn One's Gashadokuro
-		50 Future: Past
-		30 Kajiwara Ai
-		30 Masami, Tenkami Exemplar
-		30 Hishoki, Apex Nightmare
-		30 Sakura-Tail Blademaster
-		30 Embodiment of Hebika
-		30 Diva Sensation
-		30 Jun, Artificed Telepath
-		30 Tatsuya, Ai's Second
-		30 Embodiment of Chaos
-		30 Urenkal, Void Recurrence
-		30 Akira, Blade of Hidanko
-		30 The Once Wayfinder
-		30 Akuma, Miyakawa Revenger
-		30 Serafhin, Temporal Investigator
-		30 Korra, Wayward Explorer
-		30 Kairumi, Reality Diver
-		30 Forma, Seijuku System
-		30 Jinse, Divine Justice
-		30 Shingaku, Memory's Flow
-		30 Kanashi, Night's Sorrow
-		30 Moreu, Unfettered Joy
-		30 Odayaka, Life's Tenacity
-		30 Hitori, Hidanko Duelist
-		30 Urenkal, Profane Deity
-		30 Reiko, Battle Choreographer
-	[UncommonSlot(4)]
-		50 Replacement Greaves
-		50 Trigger Discipline
-		50 Wonders of Travel
-		50 Kaeru, Hebika Pilgrim
-		50 Omukade, Void Feaster
-		50 Battleground Adversary
-		50 Hashiriya Outrider
-		50 Hit Up the Spots
-		50 Masked Temptations
-		50 Senzao Shrine Guard
-		50 Insectile Abomination
-		50 Renewed Blessings
-		50 Stationside Food Market
-		50 Unwavering Challenge
-		50 The Void Stares Back
-		50 Hollow Pact
-		50 Shrine Celebrant
-		50 Coordinated Partners
-		50 Tenkami Tactician
-		50 Otherworldly Nightmare
-		50 Dropped From Reality
-		50 Sukeban Enforcers
-		50 Nightmarish Vista
-		50 Cityscape Vista
-		50 Meditative Vista
-		50 Theatric Vista
-		50 Innovative Vista
-		50 Marked Territory
-		50 Turf Watcher
-		50 Take by Surprise
-		50 Remui, Spirited Champion
-		50 Grasp from Beyond
-		50 Disaster Site Excavator
-		50 Senzao Border Patrol
-		50 Interceptor Colossus
-		50 Seijuku Security Detail
-		50 Silent Solemnity
-		50 Paradox Operative
-		50 Taraikyo Sage
-		50 Rie, Ace Pilot
-		50 Professor Torvald
-		50 Bitter Return
-		50 Spiritual Reality
-		50 Serafhin's Chronolock
-		50 Battle Maiden
-		50 Dai, Callous Instructor
-		50 Disciplinary Guard
-		50 Delinquent Oni
-		50 Thirst for Inspiration
-		50 Forlorn Diabolist
-		50 Point-Blank Singularity
-		50 Autumnal Keisei
-		50 Eri, Strict Conductor
-		50 Titanic Overseer
-		50 Masterful Demonstration
-		50 Hitori's Fragmentation
-		50 Yurie, Stationside Performer
-		50 Manifestation of Self
-		50 Alone and My Thoughts
-		50 Fact or Fiction
-		50 Voidfall
-		50 Delaying Rain
-		50 Academy Reinforcements
-		50 Rooftop Ambusher
-		50 Undercover Lieutenants
-		50 Warped Horizon
-		50 Stir the Pot
-		50 Timely Intervention
-		50 Kazue, Rebellious Beat
-		50 Leading Swordmaster
-		50 Angel's Flare
-		50 Consuming Ignition
-		50 Hellraiser's Mark
-		50 Jorugumo Troublemaker
-		50 Monastic Trainee
-		50 Wayward Behemoth
-		50 Orochi Ambush
-		50 Tetsushika Titan
-		50 3LYS1UM, Sky-High Hacker
-		50 Ominous Student
-		50 Helios Ignition
-		50 Hitoshi, Radiant Performer
-		50 Student Council Enforcer
-		50 Immaterium Studies
-		50 Naoko, the Hopestruck
-		50 Experiment Zero-One
-		50 Inami, Taraikyo Star
-		50 Center of Performance
-		50 Backstage Film Crew
-		50 Gates of Mist
-		50 Mysterious Notebook
-		50 Ogura, Accursed Sukeban
-		50 Inugami Twins
-		50 Unlikely Alliants
-		50 Eidros, Lost Anomaly
-		50 Kotobuki of Lost Fury
-		50 Adoration Campaign
-		50 Wani Rescuer
-		50 Heikegani's Heir
-		50 Warp Desire (WIP)
-		50 Down With Me
-	[CommonSlot(8)]
-		50 Station Ticket-Taker
-		50 Scavenging Prowler
-		50 Archery Club Member
-		50 Blastbreath Elder
-		50 Guardian Ushi-Oni
-		50 Reckless Revelries
-		50 Honor-Worn Harisen
-		50 Battle Spirit
-		50 Just as Taught
-		50 Soul Spite
-		50 Ardent Novelist
-		50 Rebellious Maiko
-		50 Regal Teacher
-		50 Hellraisers Seraph
-		50 Resolute Stand
-		50 Overwhelming Force
-		50 Binding Prank
-		50 Slip on the Mask
-		50 Serpentine Companion
-		50 Biology Professor
-		50 Senzao Ascetic
-		50 Greater Toad Sage
-		50 Bakeneko City-Goer
-		50 Itsumade Naturalist
-		50 Peaceful Tanuki
-		50 Light-Hearted Goading
-		50 Will to Protect
-		50 Spiritual Connection
-		50 Run the Rails
-		50 Traveller's Insight
-		50 Hidanko Prefect
-		50 Kajiwara's Lookout
-		50 Vengeful Apparition
-		50 Station Wraith
-		50 Hollowed Inari
-		50 Dragon's Bargain
-		50 Dread Their Return
-		50 Encroaching Madness
-		50 Void-Fettered Monstrosity
-		50 Hidanko Instructor
-		50 Venerable Orochi
-		50 Taraikyo Showstopper
-		50 Taraikyo Tachiyaku
-		50 Hidanko Swordmaster
-		50 Corrupted Remnant
-		50 Shining Star Aspirant
-		50 Security Proxy
-		50 Combatant's Uplink
-		50 Messy Kouhai
-		50 Gale Drake Rider
-		50 Malevolent Whispers
-		50 Augmented Proctor
-		50 Seijuku First-Year
-		50 Exert Reality
-		50 Disaster Site Surveyor
-		50 Highrise Thrillseeker
-		50 Hidanko First-Year
-		50 Redhorn Channeler
-		50 Rail Lines Constructor
-		50 Consider
-		50 Miyakawa Officers
-		50 Rail Line Daydreamer
-		50 Nekomata Nightmare
-		50 Seijuku Engineer
-		50 Hollow Temptations
-		50 Instructor's Guidance
-		50 Seijuku Field Mechanic
-		50 Graffittied Train Yard
-		50 Pier Line Aquarium
-		50 Tidepool Sanctum Station
-		50 Private Convoy Line
-		50 Miyakawa Central Station
-		50 Tranquil Seas Line
-		50 Hebika Station Ruins
-		50 Back-Alley Station
-		50 Central Subway System
-		50 Academy Rail Line
-		50 Fixed Point in Reality
-		50 Honor Roll Blademaster
-		50 Swordsmanship Club Clique
-		50 Voidfire Immolator
-		50 Azure Gust Descendant
-		50 Call to Action
-		50 Erase From Cognition
-		50 Shrine Shadowspear
-		50 Taraikyo Stage-Maiden
-		50 Terminal Encounters
-		50 Urban Huntress
-		50 Erratic Pilot
-		50 Strategist's Uplink
-	[BasicSlot(1)]
-		50 Plains
-		50 Island
-		50 Mountain
-		50 Forest
-		50 Swamp
-	
+	[RareSlot(1 
